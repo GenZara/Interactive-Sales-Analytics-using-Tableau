@@ -1,0 +1,1501 @@
+orderId,orderDate,customerName,customerSegment,productCategory,productName,region,city,salesAmount,quantity,discount,profit,paymentMode
+ORD-00001,2024-11-02,Ashok Shetty,Premium,Grocery,Pulses Mix,East,Guwahati,695.23,7,15.5,-16.69,UPI
+ORD-00002,2024-09-04,Pallavi Shah,Premium,Electronics,Camera,West,Surat,65389.58,1,9,5100.39,Cash
+ORD-00003,2023-08-31,Manjula Singh,Premium,Health & Beauty,Protein Powder,East,Kolkata,1220.77,1,9,400.41,Cash
+ORD-00004,2024-12-09,Swati Kumar,Premium,Health & Beauty,Sunscreen,West,Surat,4228.99,2,13.7,3268.67,Card
+ORD-00005,2023-08-13,Sunil Shetty,Wholesale,Books,Business Book,South,Bangalore,3741.5,4,22.3,80.82,UPI
+ORD-00006,2023-11-16,Usha Kumar,Premium,Electronics,Smartphone,North,Amritsar,173302.39,2,17.6,1594.38,Cash
+ORD-00007,2023-04-09,Arjun Reddy,Premium,Sports,Football,West,Pune,8140.93,1,61.924642030736365,-13362.63,Cash
+ORD-00008,2024-05-26,Pooja Mishra,Premium,Furniture,Office Chair,North,Chandigarh,20181.96,2,66.17016478447502,-24563.66,Cash
+ORD-00009,2023-06-11,Saritha Bose,Premium,Grocery,Wheat Flour,West,Ahmedabad,693.2,1,9.5,16.64,Cash
+ORD-00010,2024-10-21,Vijay Pillai,Premium,Clothing,Jeans,West,Surat,2897.89,3,8.6,814.89,UPI
+ORD-00011,2023-10-18,Asha Kaur,Regular,Home & Kitchen,Pressure Cooker,North,Lucknow,45816.82,2,1.9,9383.28,UPI
+ORD-00012,2024-06-09,Pallavi Bose,Wholesale,Electronics,Router,South,Hyderabad,122711.09,4,24.4,-16164.75,UPI
+ORD-00013,2024-01-07,Manoj Chauhan,Premium,Furniture,Dining Table,West,Mumbai,115623.28,3,15.8,14291.04,UPI
+ORD-00014,2023-08-05,Usha Banerjee,Premium,Furniture,Shoe Rack,South,Coimbatore,32656.51,1,15.9,4010.22,Card
+ORD-00015,2024-10-06,Sandeep Gupta,Premium,Sports,Cricket Bat,West,Pune,7683.07,4,71.21701483636717,-14345.96,Card
+ORD-00016,2024-05-19,Divya Joshi,Regular,Sports,Treadmill,West,Mumbai,57854.91,4,14.7,9395.64,UPI
+ORD-00017,2024-03-17,Kiran Gupta,Regular,Electronics,Smartphone,North,Chandigarh,6329.65,1,11.5,367.12,Cash
+ORD-00018,2023-08-18,Asha Singh,Premium,Clothing,Sports Shoes,North,Lucknow,4842.22,1,6.8,1431.36,UPI
+ORD-00019,2023-05-19,Sunita Mukherjee,Premium,Health & Beauty,Electric Toothbrush,West,Ahmedabad,2192.23,2,13.8,634.87,Cash
+ORD-00020,2024-01-21,Kamala Shetty,Premium,Grocery,Rice (5kg),North,Amritsar,8776.42,9,14.2,-119.36,Card
+ORD-00021,2023-06-28,Deepak Reddy,Premium,Home & Kitchen,Pressure Cooker,West,Surat,13284.98,3,15.3,1296.61,UPI
+ORD-00022,2024-08-18,Usha Nair,Regular,Electronics,Smart TV,South,Bangalore,11944.28,3,20,-119.44,UPI
+ORD-00023,2023-02-23,Latika Singh,Wholesale,Clothing,Jeans,East,Bhubaneswar,959.22,1,26.7,130.84,UPI
+ORD-00024,2023-04-13,Kavya Mehta,Regular,Grocery,Wheat Flour,North,Amritsar,243.51,4,5.2,14.22,Card
+ORD-00025,2023-01-23,Sandeep Agarwal,Regular,Clothing,Jacket,West,Nagpur,6194.21,1,19.6,1196.72,UPI
+ORD-00026,2024-02-07,Amit Patel,Wholesale,Health & Beauty,Face Mask Pack,West,Nagpur,5759.64,2,22.7,1257.91,UPI
+ORD-00027,2024-03-29,Sunil Chauhan,Wholesale,Furniture,Bookshelf,East,Bhubaneswar,38932.9,2,53.838148704607704,-43167.33,UPI
+ORD-00028,2023-07-11,Shweta Kaur,Regular,Grocery,Tea Powder,South,Hyderabad,2605.59,4,11.9,12.51,Card
+ORD-00029,2023-04-06,Girish Joshi,Premium,Home & Kitchen,Water Purifier,West,Ahmedabad,34105.53,3,9.3,4965.77,Cash
+ORD-00030,2023-05-02,Sandeep Krishnan,Wholesale,Health & Beauty,Protein Powder,West,Surat,2638.6,1,25.5,517.17,Card
+ORD-00031,2024-01-29,Saritha Shah,Wholesale,Electronics,Smartwatch,West,Mumbai,83762.63,2,19.4,-435.57,UPI
+ORD-00032,2023-05-05,Aarav Ghosh,Regular,Books,Self-Help Book,East,Bhubaneswar,3685.43,2,4.9,592.62,UPI
+ORD-00033,2023-05-10,Asha Iyer,Premium,Clothing,Ethnic Wear,South,Coimbatore,3681.1,3,17.6,770.09,Cash
+ORD-00034,2023-03-28,Rohit Nair,Premium,Health & Beauty,Electric Toothbrush,East,Bhubaneswar,2737.15,1,8.2,915.3,Card
+ORD-00035,2024-02-03,Amit Menon,Premium,Grocery,Pulses Mix,South,Coimbatore,8806.48,9,11.5,70.45,Card
+ORD-00036,2024-11-13,Praveen Gupta,Premium,Health & Beauty,Perfume,West,Nagpur,188.06,1,54.14014493864137,-289.55,UPI
+ORD-00037,2023-08-30,Geeta Banerjee,Premium,Clothing,T-Shirt,North,Chandigarh,7690.87,4,12.8,1904.26,Cash
+ORD-00038,2023-08-09,Ananya Mehta,Premium,Books,Novel,North,Lucknow,2355.76,2,18,131.92,UPI
+ORD-00039,2023-08-27,Kiran Agarwal,Wholesale,Books,Dictionary,South,Kochi,1173.04,1,28.8,-35.66,UPI
+ORD-00040,2023-03-07,Praveen Pillai,Wholesale,Clothing,Formal Shirt,West,Surat,1782.65,1,27.2,236.02,UPI
+ORD-00041,2023-06-05,Priya Joshi,Wholesale,Clothing,Sports Shoes,West,Nagpur,7503.76,2,27.5,975.49,UPI
+ORD-00042,2024-12-13,Kamala Menon,Wholesale,Health & Beauty,Face Cream,West,Surat,14023.85,4,28.9,2367.23,UPI
+ORD-00043,2024-11-12,Kiran Chatterjee,Premium,Grocery,Sugar,South,Bangalore,3162.59,10,14,-37.95,Card
+ORD-00044,2023-07-19,Usha Banerjee,Regular,Grocery,Rice (5kg),East,Ranchi,8904.55,8,7,391.8,Card
+ORD-00045,2024-10-06,Jyoti Tiwari,Wholesale,Sports,Cycling Helmet,South,Coimbatore,83155.28,4,17.7,32650.9,UPI
+ORD-00046,2023-04-26,Shweta Krishnan,Regular,Furniture,Office Chair,South,Kochi,46293.89,1,10,7869.96,Card
+ORD-00047,2024-07-28,Kavya Gupta,Premium,Grocery,Spices Kit,North,Jaipur,3000.43,7,17.6,-122.42,Card
+ORD-00048,2024-04-14,Geeta Mehta,Regular,Electronics,Smartphone,West,Pune,88477.97,3,12.1,4707.03,Card
+ORD-00049,2024-03-05,Ananya Chatterjee,Regular,Books,Comics,East,Patna,1357,1,5.4,212.78,Cash
+ORD-00050,2023-01-24,Sunil Singh,Premium,Sports,Cycling Helmet,East,Patna,9112.23,1,5.3,2165.07,Cash
+ORD-00051,2024-11-04,Mohan Krishnan,Regular,Sports,Jump Rope,South,Chennai,112390.05,3,4,62928.19,Cash
+ORD-00052,2023-11-20,Manjula Reddy,Wholesale,Grocery,Rice (5kg),North,Jaipur,4645.21,3,23.8,-419.93,Cash
+ORD-00053,2024-05-13,Vinod Menon,Premium,Electronics,Smart TV,South,Hyderabad,65175.92,2,11.8,3623.78,Cash
+ORD-00054,2024-03-04,Kavya Mehta,Regular,Grocery,Cooking Oil,South,Kochi,1269.21,6,20,-76.15,UPI
+ORD-00055,2023-06-17,Vijay Tiwari,Wholesale,Health & Beauty,Face Cream,South,Bangalore,8960.6,4,47.094473782326745,-6138.19,Card
+ORD-00056,2023-06-10,Ashok Chatterjee,Regular,Sports,Jump Rope,North,Chandigarh,43046.03,2,13.9,7266.17,UPI
+ORD-00057,2023-02-11,Vijay Patel,Wholesale,Health & Beauty,Essential Oils,North,Jaipur,1744.28,1,26,334.9,Card
+ORD-00058,2023-10-29,Meera Saxena,Premium,Electronics,Headphones,East,Kolkata,14359.06,1,6.9,1361.24,Cash
+ORD-00059,2024-07-20,Geeta Sharma,Premium,Clothing,Saree,North,Chandigarh,1393.41,4,14.5,326.06,UPI
+ORD-00060,2023-12-11,Usha Bose,Wholesale,Electronics,Gaming Console,West,Mumbai,85703.88,3,28.9,-6959.16,UPI
+ORD-00061,2024-03-19,Sunita Banerjee,Premium,Home & Kitchen,Pressure Cooker,North,Delhi,51494.52,4,15.2,5067.06,Cash
+ORD-00062,2023-01-30,Sanjay Pillai,Wholesale,Grocery,Cooking Oil,East,Bhubaneswar,3528.69,7,15.8,-93.16,Cash
+ORD-00063,2023-07-03,Latika Singh,Wholesale,Electronics,Tablet,West,Surat,141806.42,4,25,-25244.84,Cash
+ORD-00064,2024-06-13,Rekha Nair,Wholesale,Furniture,Shoe Rack,North,Delhi,105287.72,4,23.5,6527.84,UPI
+ORD-00065,2023-06-18,Rajesh Mukherjee,Regular,Clothing,Formal Shirt,South,Chennai,4719.46,4,9.5,1293.13,UPI
+ORD-00066,2023-11-23,Bhavna Mehta,Wholesale,Books,Self-Help Book,West,Surat,387.87,1,22.6,7.45,Card
+ORD-00067,2024-09-20,Jyoti Agarwal,Premium,Health & Beauty,Shampoo,South,Bangalore,6440.52,2,17.6,1669.38,UPI
+ORD-00068,2023-02-10,Sneha Kaur,Wholesale,Clothing,Formal Shirt,South,Bangalore,3052.75,2,21.4,545.83,Card
+ORD-00069,2024-06-17,Asha Dubey,Premium,Furniture,Bookshelf,East,Patna,26856.34,1,7.6,5081.22,UPI
+ORD-00070,2023-04-25,Rajesh Saxena,Regular,Sports,Badminton Racket,North,Jaipur,7841.25,1,14.9,1260.87,Card
+ORD-00071,2023-12-01,Girish Mukherjee,Premium,Electronics,Smart TV,East,Patna,301150,4,9.2,23007.86,Card
+ORD-00072,2023-01-30,Shweta Mishra,Regular,Home & Kitchen,Induction Cooktop,West,Surat,9517.69,3,14.9,959.38,Card
+ORD-00073,2024-12-24,Manoj Rao,Regular,Health & Beauty,Essential Oils,East,Ranchi,14411.17,4,2.4,5487.77,Cash
+ORD-00074,2024-10-16,Ramesh Sharma,Premium,Furniture,Sofa Set,South,Chennai,12950.81,2,10.2,2180.92,Card
+ORD-00075,2024-12-23,Radha Krishnan,Wholesale,Clothing,Formal Shirt,North,Amritsar,17184.55,4,18.9,3416.29,UPI
+ORD-00076,2024-12-01,Divya Bose,Wholesale,Electronics,Laptop,West,Pune,90467.8,2,20.1,-977.05,UPI
+ORD-00077,2024-12-07,Naveen Kaur,Regular,Clothing,Winter Coat,West,Ahmedabad,19304.47,3,15.7,4331.92,Cash
+ORD-00078,2024-08-20,Geeta Nair,Premium,Clothing,Jacket,West,Pune,17737.94,4,6.7,5257.53,Card
+ORD-00079,2024-11-06,Bhavna Saxena,Premium,Sports,Jump Rope,North,Amritsar,28310.73,2,7.3,6273.66,UPI
+ORD-00080,2023-01-15,Sunita Saxena,Regular,Home & Kitchen,Induction Cooktop,West,Pune,3675.65,1,4.1,688.08,Cash
+ORD-00081,2024-09-01,Hema Saxena,Regular,Health & Beauty,Shampoo,West,Surat,5799.34,2,12.9,1721.24,UPI
+ORD-00082,2024-03-27,Jyoti Agarwal,Regular,Clothing,Kurta,West,Nagpur,2396.26,1,0.7,825.27,Card
+ORD-00083,2024-09-16,Divya Krishnan,Regular,Books,Science Fiction,West,Pune,694.18,4,73.00672503842941,-419.72,Card
+ORD-00084,2024-12-02,Ravi Joshi,Wholesale,Books,Cookbook,East,Patna,2738.97,2,29.3,-94.22,Cash
+ORD-00085,2024-12-14,Hema Kumar,Wholesale,Sports,Football,West,Ahmedabad,91484.06,3,19.4,11417.21,UPI
+ORD-00086,2023-07-01,Asha Mukherjee,Wholesale,Books,Business Book,East,Patna,439.42,2,24.8,0.7,Card
+ORD-00087,2024-03-28,Sunita Shetty,Wholesale,Books,Business Book,West,Mumbai,493.65,2,15.3,38.31,Card
+ORD-00088,2023-03-04,Sanjay Pillai,Regular,Sports,Resistance Bands,North,Lucknow,26502.36,1,9.2,5470.09,Cash
+ORD-00089,2023-08-09,Nisha Rao,Wholesale,Furniture,Cabinet,East,Patna,29410.21,1,15.5,3705.69,Cash
+ORD-00090,2024-07-20,Swati Kumar,Regular,Furniture,Office Chair,South,Hyderabad,24330.38,3,14.4,3279.74,Card
+ORD-00091,2023-06-18,Sunita Agarwal,Premium,Electronics,Camera,West,Ahmedabad,37297.03,1,6.8,3565.6,UPI
+ORD-00092,2023-07-14,Latika Shetty,Premium,Health & Beauty,Face Cream,South,Coimbatore,8012.57,3,15.1,2237.11,UPI
+ORD-00093,2024-05-06,Amit Menon,Regular,Health & Beauty,Face Cream,West,Pune,15365.89,4,9.1,5027.72,Card
+ORD-00094,2023-06-29,Rohit Tiwari,Regular,Sports,Cycling Helmet,West,Pune,35267.6,2,16,5360.68,Card
+ORD-00095,2023-08-06,Kavya Ghosh,Regular,Sports,Yoga Mat,East,Guwahati,44455.81,2,16.4,6615.02,UPI
+ORD-00096,2024-02-16,Sandeep Chatterjee,Premium,Sports,Resistance Bands,North,Lucknow,64121.41,4,7.5,14106.71,Card
+ORD-00097,2024-12-06,Rajesh Nair,Wholesale,Books,Business Book,North,Amritsar,1868.65,1,25.6,-8.97,UPI
+ORD-00098,2023-01-13,Swati Mukherjee,Regular,Furniture,Shoe Rack,West,Mumbai,106027.53,3,1.6,25149.73,Cash
+ORD-00099,2024-03-04,Naveen Menon,Wholesale,Sports,Dumbbells Set,West,Surat,11036.68,3,25.4,847.62,UPI
+ORD-00100,2023-10-18,Rajesh Mukherjee,Wholesale,Clothing,Jeans,South,Hyderabad,20123.25,3,20.5,3742.92,Cash
+ORD-00101,2023-10-20,Deepak Shetty,Regular,Grocery,Pulses Mix,South,Chennai,9141.31,7,15.5,-219.39,Card
+ORD-00102,2023-12-06,Anil Pillai,Wholesale,Sports,Yoga Mat,West,Ahmedabad,20650.66,1,15.1,3287.59,Cash
+ORD-00103,2024-06-26,Bhavna Sharma,Wholesale,Health & Beauty,Electric Toothbrush,North,Lucknow,7605.82,3,18.3,1928.84,Card
+ORD-00104,2023-10-17,Pooja Patel,Wholesale,Electronics,Camera,North,Lucknow,93828.85,4,20.6,-1388.67,UPI
+ORD-00105,2023-05-04,Pooja Mukherjee,Wholesale,Health & Beauty,Perfume,West,Nagpur,8620.93,3,28.2,5329.64,UPI
+ORD-00106,2024-07-28,Geeta Reddy,Wholesale,Clothing,Ethnic Wear,South,Coimbatore,4762.72,1,15.8,1064.94,UPI
+ORD-00107,2024-03-19,Bhavna Verma,Wholesale,Furniture,Study Table,North,Delhi,21857.11,4,19.2,7553.74,UPI
+ORD-00108,2024-03-15,Ramesh Sharma,Premium,Home & Kitchen,Microwave,East,Kolkata,63379.67,4,7.6,10090.04,Card
+ORD-00109,2024-07-03,Rekha Mishra,Wholesale,Home & Kitchen,Vacuum Cleaner,South,Bangalore,19179.28,2,18.7,1350.22,UPI
+ORD-00110,2024-12-30,Manoj Iyer,Premium,Home & Kitchen,Coffee Maker,West,Pune,12280.99,1,7.8,1935.48,Card
+ORD-00111,2024-08-13,Sandeep Gupta,Premium,Furniture,Wardrobe,West,Ahmedabad,62404.2,4,11.2,29494.95,Cash
+ORD-00112,2024-01-01,Rohit Chauhan,Regular,Sports,Cricket Bat,West,Pune,50584.05,2,1.3,13637.46,UPI
+ORD-00113,2023-01-01,Manoj Shah,Wholesale,Home & Kitchen,Vacuum Cleaner,North,Jaipur,48325.38,4,26.4,425.26,Card
+ORD-00114,2023-08-05,Suresh Kaur,Regular,Home & Kitchen,Mixer Grinder,South,Chennai,66934.27,4,18.2,4979.91,UPI
+ORD-00115,2023-09-03,Bhavna Pillai,Wholesale,Home & Kitchen,Coffee Maker,East,Bhubaneswar,11531.07,2,18.9,793.34,Card
+ORD-00116,2024-02-10,Vijay Mishra,Premium,Books,Novel,North,Delhi,737.49,1,6.6,108.56,Cash
+ORD-00117,2024-01-05,Ajay Mehta,Regular,Furniture,Wardrobe,North,Chandigarh,10963.06,1,10.5,1819.87,Card
+ORD-00118,2023-08-11,Latika Pillai,Wholesale,Books,Textbook,East,Bhubaneswar,133.36,1,29,-4.27,Cash
+ORD-00119,2023-05-15,Divya Chatterjee,Premium,Electronics,Gaming Console,South,Kochi,37597.25,1,13.7,1518.93,UPI
+ORD-00120,2023-02-08,Sandeep Menon,Premium,Sports,Cycling Helmet,East,Patna,54466.38,3,11.8,10108.96,Cash
+ORD-00121,2024-03-15,Sanjay Kaur,Premium,Clothing,Jacket,South,Bangalore,13729.39,2,13.9,3278.58,Card
+ORD-00122,2023-03-26,Priya Mishra,Regular,Home & Kitchen,Water Purifier,West,Surat,43629.3,4,46.73209895769221,-65667.5,UPI
+ORD-00123,2023-07-11,Rekha Kumar,Regular,Books,Comics,East,Ranchi,710.54,1,14.5,59.69,Card
+ORD-00124,2024-10-29,Sunil Pillai,Wholesale,Grocery,Biscuits Pack,West,Pune,12190.8,9,16.4,-380.35,Card
+ORD-00125,2023-01-09,Pallavi Kaur,Premium,Sports,Treadmill,North,Amritsar,42864.53,2,13.7,7304.12,Card
+ORD-00126,2023-11-11,Arjun Kaur,Premium,Health & Beauty,Electric Toothbrush,South,Bangalore,7264.08,2,9.1,2376.81,UPI
+ORD-00127,2024-12-04,Geeta Joshi,Premium,Health & Beauty,Protein Powder,West,Pune,15458.03,3,9.2,5045.5,Cash
+ORD-00128,2024-11-06,Harish Shetty,Regular,Electronics,Gaming Console,West,Pune,26493.84,2,63.83635861695166,-56052.01,Card
+ORD-00129,2023-09-20,Manjula Patel,Regular,Clothing,Jeans,West,Pune,17734.82,3,3.7,5682.24,Cash
+ORD-00130,2024-12-27,Pooja Kaur,Premium,Grocery,Spices Kit,South,Coimbatore,8224.86,10,42.74484525407447,-6087.24,UPI
+ORD-00131,2024-11-04,Ananya Chatterjee,Premium,Health & Beauty,Sunscreen,East,Kolkata,23133.13,4,14.9,6495.78,Card
+ORD-00132,2024-06-03,Ashok Kumar,Regular,Electronics,Headphones,North,Amritsar,154026.82,4,19.3,-677.72,Cash
+ORD-00133,2024-01-13,Sneha Verma,Regular,Sports,Dumbbells Set,East,Bhubaneswar,70305.4,4,3.7,17604.47,Cash
+ORD-00134,2024-03-02,Rajesh Shah,Wholesale,Home & Kitchen,Coffee Maker,North,Lucknow,66163.1,4,29,-793.96,Card
+ORD-00135,2024-11-04,Shweta Das,Regular,Books,Textbook,South,Bangalore,462.93,3,4.9,74.44,UPI
+ORD-00136,2023-08-04,Usha Tiwari,Regular,Health & Beauty,Perfume,North,Lucknow,7733.57,2,3,2907.82,Cash
+ORD-00137,2024-10-28,Vinod Menon,Wholesale,Grocery,Instant Noodles,South,Hyderabad,4345.55,6,21.9,-326.79,Cash
+ORD-00138,2023-12-22,Ramesh Das,Regular,Health & Beauty,Face Mask Pack,North,Amritsar,6060.97,2,13.2,1784.35,Cash
+ORD-00139,2023-05-02,Sanjay Sharma,Wholesale,Home & Kitchen,Coffee Maker,East,Bhubaneswar,25785.92,2,28.4,-185.66,Card
+ORD-00140,2024-07-06,Mohan Das,Wholesale,Health & Beauty,Perfume,East,Bhubaneswar,63.59,1,24.2,13.12,Cash
+ORD-00141,2024-11-02,Jyoti Bose,Regular,Sports,Yoga Mat,East,Guwahati,37290.98,4,6.5,8502.34,UPI
+ORD-00142,2024-09-10,Usha Ghosh,Premium,Health & Beauty,Essential Oils,North,Delhi,1450.53,4,6.1,509.43,UPI
+ORD-00143,2023-11-13,Kiran Shah,Regular,Furniture,Office Chair,South,Chennai,26634.02,3,13.8,3718.11,Cash
+ORD-00144,2023-04-19,Nisha Tiwari,Premium,Books,Dictionary,West,Mumbai,2339.91,2,14.6,194.68,UPI
+ORD-00145,2023-02-26,Shweta Menon,Premium,Books,Textbook,North,Delhi,2481.82,2,18,138.98,UPI
+ORD-00146,2024-09-09,Harish Saxena,Regular,Books,Novel,East,Ranchi,4664.68,3,2.2,850.84,UPI
+ORD-00147,2023-10-17,Hema Chauhan,Wholesale,Clothing,Sports Shoes,East,Patna,6941.93,2,17.3,1468.91,UPI
+ORD-00148,2023-07-01,Hema Tiwari,Premium,Clothing,T-Shirt,South,Kochi,5038.06,1,11.9,1283.7,Card
+ORD-00149,2023-03-10,Vikram Banerjee,Premium,Sports,Yoga Mat,North,Jaipur,58887.63,3,16.4,8762.48,Card
+ORD-00150,2024-10-21,Manjula Krishnan,Regular,Electronics,Tablet,West,Ahmedabad,106349.93,2,15.1,3105.42,Cash
+ORD-00151,2023-05-11,Saritha Nair,Regular,Sports,Swimming Goggles,West,Mumbai,2599.42,2,4.9,625.94,UPI
+ORD-00152,2023-02-19,Shweta Chatterjee,Wholesale,Grocery,Dry Fruits,West,Pune,960.94,10,71.02388113887557,-2243.27,UPI
+ORD-00153,2023-02-10,Ravi Sharma,Wholesale,Electronics,Smart TV,West,Surat,31858.45,2,25.1,-1618.41,UPI
+ORD-00154,2023-03-14,Saritha Chauhan,Regular,Home & Kitchen,Water Purifier,East,Bhubaneswar,41351.69,3,12.1,5094.53,Cash
+ORD-00155,2023-09-20,Jyoti Tiwari,Premium,Sports,Cricket Bat,North,Delhi,29027.37,2,11,5573.26,UPI
+ORD-00156,2024-08-11,Pooja Gupta,Wholesale,Grocery,Tea Powder,South,Coimbatore,394.92,3,50.274983423139005,-419.11,UPI
+ORD-00157,2024-07-04,Suresh Chatterjee,Regular,Books,Science Fiction,West,Ahmedabad,686.88,4,1.7,128.03,UPI
+ORD-00158,2024-05-11,Kavya Menon,Regular,Clothing,Jacket,South,Bangalore,13029.87,3,1.9,4362.4,UPI
+ORD-00159,2023-01-24,Ajay Menon,Premium,Electronics,Gaming Console,East,Ranchi,186144,3,14.4,6477.81,Card
+ORD-00160,2023-12-23,Mohan Sharma,Wholesale,Books,Business Book,West,Pune,1440.63,2,23.3,19.59,UPI
+ORD-00161,2023-08-11,Saritha Tiwari,Wholesale,Clothing,Ethnic Wear,West,Nagpur,3993.31,1,15.9,889.71,Card
+ORD-00162,2023-10-18,Ashok Ghosh,Premium,Furniture,Sofa Set,East,Ranchi,86302.57,4,6.4,17156.95,UPI
+ORD-00163,2024-05-06,Asha Rao,Premium,Sports,Resistance Bands,West,Pune,25262.31,1,5.7,5921.49,UPI
+ORD-00164,2023-04-26,Ravi Rao,Premium,Health & Beauty,Protein Powder,East,Patna,4630.79,2,11.6,1422.58,Cash
+ORD-00165,2024-08-25,Bhavna Agarwal,Wholesale,Grocery,Spices Kit,West,Mumbai,239.86,3,29.1,-31.85,UPI
+ORD-00166,2023-03-19,Rekha Mehta,Wholesale,Clothing,Ethnic Wear,North,Jaipur,13923.47,3,28.1,1743.22,Card
+ORD-00167,2024-01-02,Pooja Sharma,Wholesale,Grocery,Cooking Oil,West,Pune,422.1,6,17,-15.2,UPI
+ORD-00168,2023-08-08,Shweta Chatterjee,Wholesale,Health & Beauty,Hair Oil,South,Kochi,4611.08,4,25.8,892.71,Card
+ORD-00169,2024-12-19,Deepak Chatterjee,Premium,Sports,Treadmill,North,Jaipur,33703.78,1,11.1,6444.16,Card
+ORD-00170,2023-03-04,Pallavi Dubey,Premium,Clothing,Jacket,East,Kolkata,7719.35,4,14,1837.21,Cash
+ORD-00171,2024-05-16,Priya Nair,Wholesale,Sports,Treadmill,West,Surat,9216.96,1,19.2,1165.02,Card
+ORD-00172,2024-06-14,Ananya Menon,Regular,Grocery,Spices Kit,South,Coimbatore,2040.94,4,9.3,52.25,Cash
+ORD-00173,2024-06-21,Deepak Bose,Wholesale,Sports,Cycling Helmet,West,Nagpur,14952.55,2,26.4,1028.74,Card
+ORD-00174,2024-07-13,Mohan Chauhan,Regular,Furniture,Bed Frame,West,Pune,100056.2,3,13,14608.21,Cash
+ORD-00175,2024-06-09,Ananya Dubey,Wholesale,Health & Beauty,Electric Toothbrush,North,Lucknow,8482.7,4,29.3,1404.74,UPI
+ORD-00176,2023-12-26,Ramesh Shetty,Premium,Grocery,Tea Powder,West,Ahmedabad,4465.4,10,11.5,35.72,Cash
+ORD-00177,2023-10-24,Vikram Rao,Premium,Home & Kitchen,Iron Box,East,Guwahati,64987.81,4,11.4,8370.43,Cash
+ORD-00178,2024-04-15,Sanjay Das,Regular,Sports,Yoga Mat,North,Chandigarh,7953.81,1,4.5,1940.73,Card
+ORD-00179,2024-04-01,Mohan Agarwal,Regular,Furniture,Side Table,East,Bhubaneswar,12768.9,1,2.5,2936.85,Card
+ORD-00180,2024-04-01,Meera Tiwari,Premium,Grocery,Dry Fruits,East,Ranchi,3022.08,9,6.3,149.9,Card
+ORD-00181,2023-01-27,Anil Kumar,Regular,Grocery,Instant Noodles,West,Ahmedabad,1201.1,6,2.9,92.24,UPI
+ORD-00182,2023-06-09,Manjula Kaur,Regular,Sports,Jump Rope,West,Nagpur,11377.85,3,18,1547.39,Card
+ORD-00183,2023-10-15,Swati Shah,Regular,Sports,Cricket Bat,East,Ranchi,68161.74,3,9.7,13795.94,UPI
+ORD-00184,2024-01-06,Sunita Rao,Regular,Electronics,Laptop,East,Ranchi,30657.18,1,11.7,1729.06,UPI
+ORD-00185,2024-12-24,Vijay Iyer,Wholesale,Home & Kitchen,Mixer Grinder,South,Bangalore,83849.81,4,25,1677,UPI
+ORD-00186,2023-01-20,Ramesh Mishra,Premium,Books,Cookbook,North,Amritsar,4617.34,3,5.3,727.69,Card
+ORD-00187,2024-12-20,Manjula Bose,Premium,Clothing,Saree,East,Guwahati,7145.41,1,8.1,2037.87,UPI
+ORD-00188,2024-12-25,Sunil Tiwari,Regular,Books,Comics,North,Delhi,3888.85,3,6.6,572.44,UPI
+ORD-00189,2023-12-31,Suresh Mehta,Wholesale,Health & Beauty,Essential Oils,West,Pune,4626.5,1,20.9,1077.05,Card
+ORD-00190,2023-12-05,Sunita Tiwari,Regular,Health & Beauty,Shampoo,South,Kochi,6136.07,1,17,1619.92,UPI
+ORD-00191,2023-02-04,Amit Verma,Premium,Furniture,Bookshelf,North,Lucknow,15074.39,1,8.3,2767.66,UPI
+ORD-00192,2023-02-17,Usha Pillai,Premium,Health & Beauty,Sunscreen,South,Coimbatore,5497.68,3,15.1,1534.95,Card
+ORD-00193,2023-06-21,Ashok Agarwal,Premium,Health & Beauty,Essential Oils,South,Chennai,1560.94,2,12,474.53,Cash
+ORD-00194,2023-05-02,Anil Joshi,Wholesale,Health & Beauty,Shampoo,South,Coimbatore,6095.05,2,16.5,1633.47,Card
+ORD-00195,2024-01-27,Jyoti Tiwari,Premium,Health & Beauty,Hair Oil,West,Ahmedabad,2537.58,3,13.9,732.85,Card
+ORD-00196,2023-01-07,Saritha Joshi,Regular,Health & Beauty,Sunscreen,South,Coimbatore,5801.55,3,57.13991717495613,-12540.32,Cash
+ORD-00197,2024-04-11,Lakshmi Gupta,Wholesale,Home & Kitchen,Water Purifier,South,Bangalore,30972.35,4,52.03271236162891,-31252.12,Card
+ORD-00198,2023-05-10,Deepak Gupta,Premium,Electronics,Bluetooth Speaker,South,Kochi,24967.62,3,5.3,2686.52,UPI
+ORD-00199,2023-09-20,Kamala Kaur,Premium,Furniture,Office Chair,South,Chennai,16120.61,4,6,3256.36,Card
+ORD-00200,2024-12-24,Praveen Reddy,Wholesale,Clothing,T-Shirt,West,Ahmedabad,16863.26,3,16.3,3703.17,Card
+ORD-00201,2024-01-29,Sanjay Mukherjee,Regular,Furniture,Bed Frame,East,Guwahati,33142.05,1,19.2,3194.89,UPI
+ORD-00202,2023-11-12,Arjun Mishra,Premium,Electronics,Laptop,West,Surat,387397.88,4,7.6,34555.89,UPI
+ORD-00203,2023-06-04,Kamala Verma,Wholesale,Clothing,Sports Shoes,South,Chennai,425.47,1,17.3,90.03,UPI
+ORD-00204,2023-08-22,Aarav Agarwal,Wholesale,Home & Kitchen,Induction Cooktop,South,Hyderabad,13783.59,3,28.3,-88.21,Card
+ORD-00205,2023-10-14,Rekha Banerjee,Premium,Health & Beauty,Multivitamins,South,Bangalore,7045.64,4,11.8,2153.15,UPI
+ORD-00206,2023-08-31,Latika Bose,Wholesale,Grocery,Instant Noodles,West,Ahmedabad,4189.02,8,23.9,-382.04,Cash
+ORD-00207,2023-09-01,Anil Verma,Wholesale,Furniture,Cabinet,South,Kochi,116541.69,4,19.7,10768.45,UPI
+ORD-00208,2024-04-03,Rajesh Banerjee,Premium,Grocery,Wheat Flour,East,Patna,2429.85,3,10.6,36.93,UPI
+ORD-00209,2024-03-27,Radha Bose,Premium,Grocery,Tea Powder,East,Patna,4495.77,5,9.3,115.09,UPI
+ORD-00210,2023-08-08,Praveen Agarwal,Premium,Electronics,Router,West,Mumbai,49041.96,2,9.9,3472.17,UPI
+ORD-00211,2024-01-21,Girish Bose,Regular,Furniture,Sofa Set,West,Ahmedabad,62760.77,2,12.8,9263.49,Card
+ORD-00212,2024-10-03,Naveen Reddy,Wholesale,Furniture,Office Chair,East,Ranchi,33402.25,1,17,3807.86,UPI
+ORD-00213,2024-12-29,Shweta Agarwal,Regular,Health & Beauty,Shampoo,East,Patna,8320.91,3,1.8,3208.54,UPI
+ORD-00214,2023-02-21,Sunil Iyer,Premium,Health & Beauty,Protein Powder,East,Patna,3456.45,2,16.6,923.56,UPI
+ORD-00215,2024-06-20,Hema Bose,Regular,Books,Children Story,East,Kolkata,1125.8,1,17.4,68.45,Cash
+ORD-00216,2023-04-05,Suresh Chauhan,Regular,Sports,Swimming Goggles,West,Ahmedabad,8198.21,2,13.1,1436.33,Cash
+ORD-00217,2023-04-16,Nisha Rao,Regular,Clothing,Winter Coat,North,Delhi,10753.13,2,3.3,11626.66,Card
+ORD-00218,2023-02-15,Sunil Tiwari,Wholesale,Health & Beauty,Face Mask Pack,East,Ranchi,7665.49,3,16.2,2072.75,UPI
+ORD-00219,2023-06-25,Jyoti Dubey,Premium,Sports,Cricket Bat,West,Surat,21102.76,3,9.2,4355.61,Card
+ORD-00220,2024-08-18,Kiran Mishra,Premium,Sports,Jump Rope,South,Chennai,1179.77,1,5.1,282.2,Cash
+ORD-00221,2023-07-13,Praveen Reddy,Regular,Books,Novel,East,Patna,881.16,1,18.3,47.23,Card
+ORD-00222,2023-03-29,Sandeep Saxena,Wholesale,Home & Kitchen,Water Purifier,North,Amritsar,5378.01,1,28.8,-55.93,UPI
+ORD-00223,2023-12-25,Ashok Mishra,Wholesale,Clothing,Jacket,East,Guwahati,31810.51,4,21.1,5764.06,Cash
+ORD-00224,2023-02-26,Vinod Agarwal,Premium,Grocery,Tea Powder,North,Chandigarh,2868.11,8,7.6,112.43,Cash
+ORD-00225,2023-07-14,Ananya Agarwal,Premium,Sports,Yoga Mat,South,Kochi,20258.29,2,9.9,4067.86,UPI
+ORD-00226,2023-05-18,Manjula Reddy,Wholesale,Grocery,Biscuits Pack,South,Bangalore,5011.33,5,22.2,-388.88,UPI
+ORD-00227,2023-07-04,Manoj Menon,Premium,Health & Beauty,Sunscreen,East,Patna,539.58,4,7.3,184.32,Cash
+ORD-00228,2023-04-04,Pallavi Mishra,Premium,Grocery,Dry Fruits,East,Ranchi,4280.76,9,14.5,-68.49,Card
+ORD-00229,2024-04-17,Amit Joshi,Regular,Health & Beauty,Shampoo,West,Ahmedabad,2916.43,3,17.8,751.27,Card
+ORD-00230,2024-12-17,Amit Reddy,Wholesale,Health & Beauty,Shampoo,North,Chandigarh,9753.39,3,27.4,1763.41,UPI
+ORD-00231,2024-12-20,Latika Iyer,Wholesale,Clothing,Jacket,West,Pune,25679.3,3,15.3,5844.61,UPI
+ORD-00232,2023-09-07,Girish Mukherjee,Wholesale,Health & Beauty,Shampoo,South,Chennai,1935.63,1,61.48909958811514,-1489.73,UPI
+ORD-00233,2023-11-06,Ananya Iyer,Regular,Furniture,Bookshelf,North,Chandigarh,20888.59,2,19.6,1946.82,Cash
+ORD-00234,2024-05-14,Anil Pillai,Regular,Home & Kitchen,Vacuum Cleaner,East,Bhubaneswar,21194.25,2,4.6,3882.79,UPI
+ORD-00235,2023-12-12,Sandeep Rao,Wholesale,Home & Kitchen,Mixer Grinder,North,Amritsar,28851.3,3,28.3,-184.65,Card
+ORD-00236,2023-07-12,Radha Shah,Regular,Clothing,Sneakers,North,Amritsar,6422.68,3,0.6,2217.11,Card
+ORD-00237,2023-07-06,Praveen Mishra,Regular,Clothing,Formal Shirt,West,Nagpur,5893.94,1,4.6,1845.98,UPI
+ORD-00238,2023-12-20,Vikram Chatterjee,Regular,Clothing,Jeans,West,Mumbai,7338.22,4,12.2,1852.17,UPI
+ORD-00239,2023-11-22,Radha Pillai,Wholesale,Furniture,Wardrobe,South,Bangalore,35651.94,3,16.8,4121.36,UPI
+ORD-00240,2024-06-25,Mohan Singh,Regular,Electronics,Tablet,South,Kochi,184830.49,4,10.8,11755.22,UPI
+ORD-00241,2024-08-06,Harish Iyer,Wholesale,Sports,Yoga Mat,East,Guwahati,45185.14,4,29.7,1915.85,Cash
+ORD-00242,2024-07-10,Kavya Kaur,Regular,Books,Novel,East,Bhubaneswar,681.62,1,11.4,74.16,UPI
+ORD-00243,2024-05-22,Usha Bose,Premium,Clothing,Formal Shirt,North,Jaipur,404.42,1,12,102.72,UPI
+ORD-00244,2023-04-29,Shweta Chauhan,Wholesale,Sports,Swimming Goggles,South,Coimbatore,7709.5,1,26,555.08,Card
+ORD-00245,2023-03-28,Pooja Iyer,Premium,Home & Kitchen,Iron Box,West,Ahmedabad,26110.54,3,9.1,3843.47,Cash
+ORD-00246,2023-07-10,Rekha Joshi,Wholesale,Furniture,Wardrobe,West,Ahmedabad,108849.19,4,22.1,7967.76,UPI
+ORD-00247,2024-02-21,Manjula Agarwal,Regular,Sports,Cycling Helmet,West,Ahmedabad,20326.75,1,3.4,5138.6,Cash
+ORD-00248,2023-04-10,Sanjay Gupta,Premium,Health & Beauty,Essential Oils,West,Nagpur,5662.33,4,13.6,1648.87,UPI
+ORD-00249,2024-12-07,Girish Kumar,Wholesale,Grocery,Pulses Mix,West,Pune,16737.08,10,18.7,-830.16,Cash
+ORD-00250,2023-06-28,Sneha Mehta,Premium,Books,Children Story,West,Mumbai,1421.84,4,16.1,101.24,UPI
+ORD-00251,2024-07-26,Bhavna Agarwal,Wholesale,Home & Kitchen,Iron Box,South,Bangalore,51847.36,4,17.3,4230.74,UPI
+ORD-00252,2023-07-13,Priya Kumar,Premium,Books,Comics,West,Surat,1020.07,2,12.4,102.82,Cash
+ORD-00253,2024-03-06,Geeta Saxena,Wholesale,Electronics,Bluetooth Speaker,East,Bhubaneswar,163482.63,4,24.3,-7258.63,UPI
+ORD-00254,2023-06-03,Vinod Verma,Regular,Furniture,Bookshelf,North,Delhi,110655.06,4,11.9,62265.01,UPI
+ORD-00255,2024-01-13,Hema Reddy,Regular,Books,Self-Help Book,South,Bangalore,5006.79,3,3.1,877.19,UPI
+ORD-00256,2024-05-22,Swati Chauhan,Premium,Grocery,Wheat Flour,South,Kochi,8812.6,7,5.1,521.71,UPI
+ORD-00257,2024-08-08,Deepak Gupta,Premium,Clothing,Jacket,South,Chennai,13017.26,3,9.8,3535.49,UPI
+ORD-00258,2023-05-06,Pooja Mishra,Premium,Books,Children Story,West,Mumbai,1300.76,1,15.2,101.98,UPI
+ORD-00259,2023-05-19,Saritha Nair,Wholesale,Clothing,Jeans,East,Guwahati,2561.66,2,27.1,341.21,UPI
+ORD-00260,2023-02-15,Vinod Mishra,Wholesale,Home & Kitchen,Mixer Grinder,North,Amritsar,12908.47,1,22.7,495.69,UPI
+ORD-00261,2023-08-31,Asha Pillai,Wholesale,Electronics,Laptop,West,Ahmedabad,52431.89,3,26.5,-3250.78,UPI
+ORD-00262,2023-05-22,Ajay Tiwari,Regular,Electronics,Router,West,Mumbai,52667.13,2,3.5,6425.39,Card
+ORD-00263,2024-03-01,Kamala Agarwal,Regular,Health & Beauty,Electric Toothbrush,North,Amritsar,8920.98,3,17.7,2305.18,UPI
+ORD-00264,2023-12-30,Sunil Kumar,Wholesale,Electronics,Headphones,East,Patna,247416.04,3,25,-12370.8,Cash
+ORD-00265,2024-12-29,Vinod Krishnan,Regular,Home & Kitchen,Iron Box,East,Ranchi,12432.27,4,66.9814073210577,-11683.02,Cash
+ORD-00266,2024-07-14,Amit Das,Regular,Clothing,T-Shirt,North,Amritsar,1673.58,2,1.2,569.69,Cash
+ORD-00267,2024-01-28,Nisha Dubey,Premium,Electronics,Laptop,North,Jaipur,97717.66,4,17.8,742.65,Card
+ORD-00268,2024-06-27,Ashok Patel,Premium,Furniture,Wardrobe,South,Coimbatore,136129.19,4,15.5,17152.28,Card
+ORD-00269,2024-07-25,Asha Agarwal,Wholesale,Furniture,Office Chair,North,Lucknow,73242.22,4,28,1904.3,Cash
+ORD-00270,2024-10-07,Ashok Singh,Regular,Clothing,Saree,South,Bangalore,8085.67,1,4.6,2532.43,Card
+ORD-00271,2024-02-01,Ravi Saxena,Regular,Health & Beauty,Perfume,South,Bangalore,6211.01,2,16.9,1644.68,Cash
+ORD-00272,2023-10-13,Hema Sharma,Premium,Electronics,Tablet,South,Coimbatore,16113.72,2,65.68760878690759,-28048.7,Card
+ORD-00273,2024-12-24,Divya Ghosh,Premium,Books,Cookbook,West,Mumbai,1353.03,1,8,184.01,UPI
+ORD-00274,2024-05-15,Sandeep Iyer,Wholesale,Electronics,Smartwatch,West,Mumbai,127181.21,3,26.6,-7986.98,UPI
+ORD-00275,2024-01-22,Sunil Gupta,Premium,Grocery,Cooking Oil,East,Patna,2951.69,7,9.3,75.56,Cash
+ORD-00276,2023-02-06,Hema Chatterjee,Regular,Books,Comics,North,Chandigarh,1595.75,1,2.4,594.47,Card
+ORD-00277,2023-07-27,Pallavi Gupta,Premium,Home & Kitchen,Air Fryer,East,Kolkata,8926.74,1,5.7,1556.82,Card
+ORD-00278,2023-10-10,Manjula Mehta,Premium,Home & Kitchen,Microwave,South,Bangalore,9974.08,3,8.1,1547.98,UPI
+ORD-00279,2023-03-07,Ajay Verma,Premium,Home & Kitchen,Non-stick Pan,North,Amritsar,22634.44,3,6.8,3748.26,Card
+ORD-00280,2023-04-03,Pooja Tiwari,Premium,Sports,Cycling Helmet,South,Kochi,30473.61,3,13.9,5143.95,Card
+ORD-00281,2024-06-24,Girish Menon,Premium,Home & Kitchen,Induction Cooktop,East,Kolkata,9435.21,2,8.8,1411.51,Cash
+ORD-00282,2023-10-13,Ananya Dubey,Premium,Health & Beauty,Face Mask Pack,North,Lucknow,794.35,2,12.4,238.94,UPI
+ORD-00283,2024-01-31,Suresh Saxena,Premium,Grocery,Sugar,West,Surat,7212.84,7,14.6,-121.18,Cash
+ORD-00284,2023-11-04,Naveen Singh,Regular,Grocery,Biscuits Pack,West,Pune,8939.73,6,9,250.31,UPI
+ORD-00285,2023-10-10,Naveen Saxena,Regular,Home & Kitchen,Coffee Maker,East,Patna,50885.46,3,14.4,5332.8,Cash
+ORD-00286,2023-12-03,Ramesh Patel,Premium,Sports,Yoga Mat,South,Chennai,98013.7,3,12.8,17407.23,UPI
+ORD-00287,2024-07-05,Suresh Shetty,Wholesale,Electronics,Smart TV,North,Chandigarh,10384.91,1,22.7,-328.16,Card
+ORD-00288,2023-04-06,Vinod Rao,Wholesale,Health & Beauty,Sunscreen,East,Kolkata,701.26,2,22.1,156.52,Cash
+ORD-00289,2023-06-06,Radha Krishnan,Premium,Clothing,Jeans,East,Guwahati,2721.66,1,10.1,732.67,UPI
+ORD-00290,2024-03-13,Pallavi Banerjee,Premium,Clothing,Sneakers,East,Bhubaneswar,12223.7,2,11.6,3143.94,Card
+ORD-00291,2023-09-11,Girish Bose,Regular,Clothing,Ethnic Wear,East,Kolkata,8422.27,4,19.1,1660.87,UPI
+ORD-00292,2024-06-11,Vijay Mishra,Premium,Grocery,Pulses Mix,East,Kolkata,230.22,3,5.2,13.44,Card
+ORD-00293,2023-10-08,Manjula Shetty,Wholesale,Home & Kitchen,Water Purifier,East,Ranchi,88347.2,4,15.3,8622.69,UPI
+ORD-00294,2024-02-02,Priya Patel,Premium,Health & Beauty,Electric Toothbrush,South,Bangalore,4605.03,2,9.8,1480.98,Card
+ORD-00295,2023-09-18,Rajesh Chauhan,Premium,Clothing,Sports Shoes,East,Bhubaneswar,16972.7,3,12.4,4256.75,Card
+ORD-00296,2024-01-02,Anil Chauhan,Regular,Electronics,Router,West,Ahmedabad,98157.13,2,8.9,7734.78,Cash
+ORD-00297,2024-11-29,Naveen Kaur,Premium,Electronics,Router,West,Ahmedabad,42571.54,1,7.4,3865.5,Cash
+ORD-00298,2024-07-24,Praveen Agarwal,Regular,Electronics,Headphones,South,Hyderabad,63285.84,2,45.14578970428577,-152735.79,UPI
+ORD-00299,2023-02-26,Usha Krishnan,Wholesale,Books,Science Fiction,South,Hyderabad,1177.61,1,21.8,30.15,Cash
+ORD-00300,2023-12-28,Vikram Singh,Premium,Grocery,Sugar,North,Chandigarh,423.98,1,12.8,-1.02,Card
+ORD-00301,2024-12-13,Rekha Menon,Regular,Books,Novel,West,Ahmedabad,6728.46,3,11.9,705.14,UPI
+ORD-00302,2024-07-23,Naveen Shetty,Premium,Health & Beauty,Shampoo,West,Pune,187.73,2,6,66.08,Cash
+ORD-00303,2024-11-28,Usha Shetty,Premium,Grocery,Sugar,West,Ahmedabad,2234.48,2,8.2,76.87,Cash
+ORD-00304,2023-10-23,Bhavna Nair,Wholesale,Furniture,Office Chair,South,Bangalore,9516.09,1,26.9,331.16,Card
+ORD-00305,2024-10-17,Ajay Kumar,Wholesale,Grocery,Cooking Oil,West,Pune,2944.34,7,26,-317.99,UPI
+ORD-00306,2024-05-27,Priya Banerjee,Regular,Clothing,Sports Shoes,North,Chandigarh,6438.33,3,66.95800114897327,-3334.23,Cash
+ORD-00307,2024-03-25,Vijay Mishra,Regular,Books,Dictionary,West,Ahmedabad,1755.82,2,2.6,314.64,UPI
+ORD-00308,2024-08-31,Pooja Krishnan,Premium,Sports,Jump Rope,East,Patna,16414.36,1,9.2,3387.92,UPI
+ORD-00309,2023-09-06,Geeta Patel,Wholesale,Grocery,Cooking Oil,South,Hyderabad,10041.93,9,20.9,-674.82,UPI
+ORD-00310,2023-02-06,Sunita Rao,Premium,Health & Beauty,Essential Oils,North,Amritsar,10217.75,4,16.3,2754.71,Card
+ORD-00311,2023-01-06,Harish Menon,Regular,Clothing,Ethnic Wear,South,Bangalore,5180.51,1,13.1,1270.26,UPI
+ORD-00312,2024-09-23,Amit Das,Regular,Clothing,Sneakers,East,Patna,4606.14,1,19.4,897.28,UPI
+ORD-00313,2024-02-04,Ajay Dubey,Regular,Grocery,Biscuits Pack,North,Jaipur,960,1,14.9,-18.43,UPI
+ORD-00314,2023-12-12,Pallavi Singh,Wholesale,Books,Novel,North,Chandigarh,1356.51,1,29.1,-44.49,Cash
+ORD-00315,2023-10-16,Shweta Das,Premium,Health & Beauty,Essential Oils,East,Ranchi,4632.3,2,8.4,1541.63,Card
+ORD-00316,2024-06-14,Arjun Pillai,Wholesale,Books,Textbook,South,Coimbatore,2929,4,18.2,159.34,UPI
+ORD-00317,2024-08-03,Sandeep Kumar,Premium,Books,Textbook,West,Surat,2513.51,2,5.4,394.12,Card
+ORD-00318,2023-09-18,Sunita Shah,Regular,Health & Beauty,Perfume,East,Bhubaneswar,1254.18,1,74.77880200996657,-759.45,UPI
+ORD-00319,2023-06-25,Kavya Chauhan,Regular,Electronics,Tablet,North,Lucknow,177115.7,3,12.8,8430.71,UPI
+ORD-00320,2024-05-09,Kamala Agarwal,Premium,Electronics,Smart TV,West,Mumbai,208235.15,3,10.2,14243.28,UPI
+ORD-00321,2023-05-25,Geeta Shetty,Regular,Home & Kitchen,Non-stick Pan,West,Ahmedabad,9184.53,1,5.6,5820.08,Card
+ORD-00322,2023-10-03,Radha Patel,Premium,Clothing,Sports Shoes,East,Guwahati,28778.71,4,17.9,5951.44,UPI
+ORD-00323,2024-09-28,Divya Krishnan,Wholesale,Furniture,Dining Table,North,Amritsar,70747.02,2,24.4,3876.94,Cash
+ORD-00324,2024-11-07,Sunita Ghosh,Regular,Furniture,Side Table,North,Lucknow,19730.31,2,68.62910375668868,-20578.88,Card
+ORD-00325,2024-07-03,Sneha Menon,Regular,Home & Kitchen,Coffee Maker,North,Delhi,8761.27,2,15.8,820.05,UPI
+ORD-00326,2024-04-13,Asha Rao,Premium,Furniture,Bookshelf,West,Mumbai,138563.63,3,10.1,23444.97,Card
+ORD-00327,2023-10-28,Kiran Agarwal,Regular,Books,Dictionary,East,Kolkata,977.02,1,51.19875532796953,-571.96,Card
+ORD-00328,2024-06-11,Asha Saxena,Regular,Books,Science Fiction,West,Mumbai,3104.06,3,5.6,481.75,UPI
+ORD-00329,2024-01-18,Arjun Agarwal,Premium,Sports,Cycling Helmet,East,Ranchi,10375.8,1,8.7,2183.07,UPI
+ORD-00330,2023-05-03,Rajesh Chauhan,Premium,Grocery,Biscuits Pack,East,Guwahati,2665.93,7,49.01471700300052,-3138.32,UPI
+ORD-00331,2024-10-19,Manoj Tiwari,Wholesale,Clothing,Saree,North,Lucknow,4197,3,20.1,794.07,UPI
+ORD-00332,2023-04-21,Vikram Chatterjee,Regular,Health & Beauty,Multivitamins,West,Ahmedabad,1232.3,1,1.9,474.19,UPI
+ORD-00333,2023-08-22,Jyoti Kaur,Premium,Books,Novel,North,Jaipur,1211.44,2,5.8,186.08,Cash
+ORD-00334,2023-09-07,Sanjay Mehta,Wholesale,Clothing,Sports Shoes,West,Mumbai,16809.28,4,41.01575165727809,-13548.47,UPI
+ORD-00335,2024-02-19,Ashok Singh,Wholesale,Electronics,Smart TV,West,Surat,18433.69,4,62.75065156097422,-32940.62,UPI
+ORD-00336,2023-07-03,Rajesh Reddy,Regular,Books,Novel,North,Lucknow,766.1,1,7.8,105.42,Cash
+ORD-00337,2024-11-19,Pooja Shah,Regular,Grocery,Tea Powder,East,Ranchi,7138.17,6,11.4,62.82,Cash
+ORD-00338,2024-12-26,Mohan Kumar,Premium,Books,Children Story,West,Nagpur,2186.96,1,16.6,146.96,Cash
+ORD-00339,2023-02-17,Harish Kumar,Premium,Furniture,Bed Frame,East,Patna,131450.54,4,5.7,26868.49,Cash
+ORD-00340,2024-06-16,Nisha Shetty,Premium,Sports,Cycling Helmet,South,Kochi,15992,1,15.2,2533.13,Cash
+ORD-00341,2023-09-08,Kiran Shah,Wholesale,Electronics,Router,West,Nagpur,40719.21,2,52.633285310441536,-36556.71,UPI
+ORD-00342,2024-04-13,Bhavna Ghosh,Premium,Clothing,Sports Shoes,North,Delhi,20347.87,3,6.2,6112.5,Card
+ORD-00343,2024-10-02,Manoj Verma,Premium,Electronics,Smartwatch,East,Guwahati,193096.63,3,9.6,14134.67,Cash
+ORD-00344,2023-07-12,Lakshmi Gupta,Premium,Grocery,Biscuits Pack,West,Nagpur,3213.36,7,17.3,-123.39,UPI
+ORD-00345,2024-05-16,Divya Dubey,Premium,Health & Beauty,Face Cream,West,Mumbai,4079.19,2,14.7,1151.96,UPI
+ORD-00346,2024-01-03,Vijay Iyer,Premium,Sports,Cricket Bat,South,Chennai,48875.44,2,9.6,9931.49,UPI
+ORD-00347,2024-05-19,Ravi Kumar,Premium,Furniture,Wardrobe,East,Ranchi,40066.92,1,5.8,8157.62,Cash
+ORD-00348,2023-08-23,Girish Chauhan,Wholesale,Health & Beauty,Multivitamins,North,Delhi,1190.64,3,27.7,212.41,Card
+ORD-00349,2024-06-20,Amit Kaur,Regular,Furniture,Bed Frame,North,Chandigarh,40073.26,2,44.07162683959408,-84918.59,Card
+ORD-00350,2024-04-24,Latika Mishra,Regular,Clothing,T-Shirt,East,Guwahati,10345.54,2,1.9,3463.69,Cash
+ORD-00351,2023-10-11,Divya Pillai,Wholesale,Grocery,Biscuits Pack,North,Jaipur,6892.1,6,26.9,-793.97,Cash
+ORD-00352,2023-07-30,Pallavi Verma,Wholesale,Furniture,Cabinet,South,Coimbatore,6118.96,1,18.4,629.03,Card
+ORD-00353,2023-11-03,Latika Menon,Wholesale,Sports,Cycling Helmet,West,Nagpur,40426.49,3,57.32413485717505,-59313.48,Cash
+ORD-00354,2024-03-28,Swati Chatterjee,Premium,Books,Biography,East,Patna,615.04,3,11.8,64.95,UPI
+ORD-00355,2023-08-26,Latika Saxena,Regular,Electronics,Smartwatch,East,Patna,95654.92,4,9.6,7001.94,UPI
+ORD-00356,2023-01-03,Kavya Sharma,Premium,Furniture,Shoe Rack,South,Chennai,76586.34,2,7,14857.75,UPI
+ORD-00357,2024-02-16,Vijay Reddy,Premium,Furniture,Sofa Set,West,Mumbai,32146.59,1,6.7,6313.59,UPI
+ORD-00358,2024-05-25,Asha Banerjee,Wholesale,Health & Beauty,Face Cream,West,Nagpur,4076.41,4,54.88413977780753,-8812.31,Cash
+ORD-00359,2023-10-26,Vikram Rao,Wholesale,Grocery,Sugar,North,Chandigarh,1090.8,6,25.3,-111.7,Cash
+ORD-00360,2024-06-03,Girish Nair,Premium,Clothing,Saree,North,Jaipur,3966.57,2,70.68951891923726,-6247.88,UPI
+ORD-00361,2023-04-23,Bhavna Das,Regular,Books,Children Story,East,Kolkata,5247.74,4,12.9,507.98,UPI
+ORD-00362,2023-07-16,Anil Banerjee,Premium,Grocery,Rice (5kg),North,Jaipur,3161.69,5,9.1,86,UPI
+ORD-00363,2023-06-20,Aarav Chauhan,Wholesale,Clothing,Kurta,North,Delhi,5346.51,1,18.4,1084.27,UPI
+ORD-00364,2024-09-29,Suresh Das,Wholesale,Sports,Yoga Mat,North,Lucknow,40595.81,3,29.3,1851.17,Card
+ORD-00365,2023-06-30,Amit Verma,Wholesale,Books,Business Book,East,Ranchi,703.38,4,57.59911821381877,-1281.85,Card
+ORD-00366,2024-08-31,Radha Das,Wholesale,Health & Beauty,Protein Powder,East,Patna,2616.25,3,58.77716762783156,-6444.57,UPI
+ORD-00367,2024-07-17,Manoj Ghosh,Wholesale,Sports,Jump Rope,North,Delhi,15620.91,4,16.9,2261.91,Cash
+ORD-00368,2023-08-02,Ajay Agarwal,Premium,Health & Beauty,Multivitamins,South,Chennai,12916.62,4,5.1,4639.65,UPI
+ORD-00369,2023-04-06,Ashok Nair,Regular,Health & Beauty,Face Cream,North,Chandigarh,3714.86,3,46.72583766700467,-6547.39,Cash
+ORD-00370,2023-06-28,Sandeep Dubey,Premium,Electronics,Headphones,North,Jaipur,18015.01,2,13.2,799.87,UPI
+ORD-00371,2023-10-03,Saritha Singh,Wholesale,Books,Business Book,South,Hyderabad,906.35,1,27.7,-19.58,UPI
+ORD-00372,2023-08-04,Priya Saxena,Premium,Health & Beauty,Hair Oil,North,Lucknow,8151.51,4,9.2,2660.65,Card
+ORD-00373,2024-10-20,Nisha Iyer,Premium,Electronics,Smartwatch,South,Hyderabad,22352.36,2,17.2,277.17,UPI
+ORD-00374,2024-11-04,Swati Kaur,Regular,Sports,Yoga Mat,South,Hyderabad,78922.48,3,19.3,9912.66,UPI
+ORD-00375,2023-12-26,Divya Menon,Wholesale,Sports,Football,East,Patna,122563.92,4,15.6,19021.92,Card
+ORD-00376,2024-05-24,Mohan Pillai,Wholesale,Grocery,Dry Fruits,North,Delhi,4279.54,4,17.6,-174.61,UPI
+ORD-00377,2023-02-07,Nisha Rao,Regular,Sports,Football,South,Hyderabad,12437.35,2,13.5,2139.22,Card
+ORD-00378,2024-07-14,Kiran Reddy,Regular,Sports,Jump Rope,South,Chennai,30456.83,2,19.2,3849.74,Card
+ORD-00379,2024-01-10,Nisha Mishra,Premium,Health & Beauty,Face Cream,West,Nagpur,9103.92,3,10.8,2854.99,Card
+ORD-00380,2023-12-05,Vijay Kaur,Wholesale,Home & Kitchen,Vacuum Cleaner,South,Chennai,34638.38,4,27,138.55,UPI
+ORD-00381,2024-05-10,Hema Reddy,Regular,Books,Business Book,West,Pune,2519.73,2,2.8,447.5,UPI
+ORD-00382,2023-07-19,Saritha Nair,Regular,Sports,Badminton Racket,North,Chandigarh,1132.3,3,19.6,139.5,Card
+ORD-00383,2023-05-19,Latika Nair,Wholesale,Books,Comics,South,Hyderabad,1214.69,4,21,38.87,UPI
+ORD-00384,2023-01-25,Usha Sharma,Wholesale,Home & Kitchen,Iron Box,East,Bhubaneswar,16583.68,4,22.5,663.35,Card
+ORD-00385,2024-11-06,Vinod Das,Premium,Grocery,Instant Noodles,South,Kochi,5523.48,7,45.63131130392397,-4586.44,Cash
+ORD-00386,2023-11-29,Praveen Krishnan,Wholesale,Sports,Badminton Racket,East,Guwahati,17357.48,4,26.2,1221.97,Cash
+ORD-00387,2024-01-20,Suresh Tiwari,Wholesale,Sports,Cricket Bat,East,Kolkata,25174.34,2,20.9,2839.67,Cash
+ORD-00388,2024-02-17,Hema Das,Wholesale,Books,Textbook,South,Bangalore,765.83,1,21.5,21.44,UPI
+ORD-00389,2024-03-09,Kavya Kaur,Wholesale,Furniture,Cabinet,West,Ahmedabad,11244.58,1,24.6,598.21,UPI
+ORD-00390,2024-06-28,Sneha Nair,Premium,Furniture,Study Table,South,Hyderabad,38089.96,1,8.7,6871.43,UPI
+ORD-00391,2024-08-03,Asha Reddy,Premium,Books,Cookbook,North,Delhi,5193.68,4,13.5,477.82,UPI
+ORD-00392,2024-12-05,Asha Singh,Wholesale,Electronics,Bluetooth Speaker,South,Bangalore,54657.67,1,25.9,-3126.42,Card
+ORD-00393,2023-05-06,Deepak Shetty,Premium,Sports,Dumbbells Set,South,Kochi,29406.52,2,11,5646.05,UPI
+ORD-00394,2023-01-17,Sunil Das,Premium,Electronics,Smartwatch,West,Mumbai,48979.47,1,6.4,4839.17,Card
+ORD-00395,2023-03-25,Sunita Joshi,Regular,Books,Business Book,North,Chandigarh,6111.84,4,2.1,1119.69,Card
+ORD-00396,2024-03-22,Divya Shetty,Premium,Home & Kitchen,Vacuum Cleaner,East,Kolkata,10453.23,2,16.6,911.52,UPI
+ORD-00397,2023-06-27,Kavya Kumar,Premium,Furniture,Side Table,East,Kolkata,19730.29,3,10.7,3243.66,UPI
+ORD-00398,2024-04-17,Ramesh Shah,Wholesale,Electronics,Smartwatch,West,Mumbai,113593.34,2,28.2,-8587.66,UPI
+ORD-00399,2023-01-01,Ananya Chatterjee,Wholesale,Books,Business Book,West,Nagpur,2095.26,2,22.6,40.23,UPI
+ORD-00400,2024-10-27,Pooja Rao,Regular,Clothing,Sports Shoes,South,Hyderabad,8232.53,2,17,1761.76,Card
+ORD-00401,2023-06-21,Sneha Kaur,Wholesale,Home & Kitchen,Microwave,West,Pune,16549.2,1,18.7,1165.06,Card
+ORD-00402,2023-02-24,Suresh Agarwal,Premium,Clothing,Saree,East,Guwahati,6530.96,1,6.5,1946.23,UPI
+ORD-00403,2023-07-17,Sanjay Mehta,Premium,Furniture,Shoe Rack,North,Chandigarh,21894.46,3,12.8,3231.62,UPI
+ORD-00404,2024-11-01,Vikram Verma,Wholesale,Sports,Yoga Mat,North,Jaipur,18016.16,3,29.9,735.06,Card
+ORD-00405,2024-06-01,Ajay Sharma,Premium,Clothing,Jeans,West,Surat,4013.62,4,15,923.13,Card
+ORD-00406,2024-03-28,Radha Kumar,Wholesale,Furniture,Shoe Rack,North,Jaipur,145423.38,4,21.3,11575.7,Card
+ORD-00407,2023-09-29,Pallavi Chatterjee,Wholesale,Electronics,Smartphone,North,Amritsar,36498.9,2,21.4,-773.78,Card
+ORD-00408,2023-02-05,Radha Bose,Wholesale,Health & Beauty,Essential Oils,West,Ahmedabad,10540.33,4,17.7,2723.62,UPI
+ORD-00409,2023-01-02,Sneha Tiwari,Regular,Grocery,Dry Fruits,North,Jaipur,4931.97,8,10.4,82.86,UPI
+ORD-00410,2023-12-02,Swati Kaur,Regular,Clothing,Jacket,North,Amritsar,7678.05,3,62.451929219449525,-4446.93,UPI
+ORD-00411,2024-07-18,Lakshmi Singh,Regular,Sports,Resistance Bands,North,Jaipur,21328.81,1,10.5,4180.45,Card
+ORD-00412,2023-10-08,Suresh Menon,Wholesale,Health & Beauty,Face Cream,West,Mumbai,1839.42,2,52.33325872746867,-4107.95,Card
+ORD-00413,2024-09-15,Naveen Rao,Wholesale,Home & Kitchen,Coffee Maker,South,Kochi,18838.19,1,15.7,1778.33,Cash
+ORD-00414,2023-12-10,Naveen Pillai,Regular,Furniture,Dining Table,South,Kochi,84986.42,4,15.6,10640.3,UPI
+ORD-00415,2024-09-15,Praveen Mukherjee,Wholesale,Furniture,Cabinet,North,Delhi,56263.62,4,19.6,5243.77,Cash
+ORD-00416,2024-10-08,Sunita Ghosh,Premium,Electronics,Router,West,Nagpur,44677.28,1,15.8,1054.38,UPI
+ORD-00417,2024-07-09,Suresh Chatterjee,Wholesale,Electronics,Headphones,South,Kochi,98971.11,2,19.9,-910.53,Cash
+ORD-00418,2024-02-11,Nisha Mehta,Regular,Health & Beauty,Multivitamins,South,Coimbatore,1809.19,1,54.14973357212773,-2576.03,Cash
+ORD-00419,2024-01-16,Kamala Verma,Regular,Health & Beauty,Perfume,North,Delhi,8650.84,4,3.7,3204.27,UPI
+ORD-00420,2023-07-06,Bhavna Gupta,Regular,Grocery,Cooking Oil,South,Kochi,2767.59,4,7.3,115.13,UPI
+ORD-00421,2024-04-04,Rohit Iyer,Regular,Furniture,Wardrobe,East,Guwahati,42893.19,2,16.1,5198.65,Card
+ORD-00422,2024-02-20,Suresh Saxena,Regular,Furniture,Study Table,East,Bhubaneswar,30174.81,4,13.1,4381.38,Cash
+ORD-00423,2023-08-09,Saritha Mishra,Regular,Home & Kitchen,Induction Cooktop,North,Delhi,49724.34,3,1.4,10382.44,UPI
+ORD-00424,2024-09-06,Manjula Krishnan,Premium,Health & Beauty,Hair Oil,South,Chennai,1490.97,2,18,381.69,Cash
+ORD-00425,2023-09-17,Deepak Nair,Wholesale,Furniture,Dining Table,West,Ahmedabad,53807.88,3,19.8,4928.8,Cash
+ORD-00426,2024-03-14,Sunil Banerjee,Premium,Clothing,Jacket,North,Delhi,5983.89,2,7.6,1730.54,UPI
+ORD-00427,2024-01-17,Radha Krishnan,Wholesale,Health & Beauty,Multivitamins,South,Kochi,2546.99,1,28.4,440.12,Cash
+ORD-00428,2023-09-21,Meera Dubey,Regular,Clothing,Sneakers,East,Patna,3538.55,1,16.5,771.4,Card
+ORD-00429,2023-02-27,Rohit Tiwari,Wholesale,Clothing,Jeans,West,Surat,8480.74,3,26.7,1156.77,UPI
+ORD-00430,2023-03-27,Vinod Verma,Regular,Electronics,Laptop,East,Patna,42880.05,1,7.1,3996.42,UPI
+ORD-00431,2024-02-18,Girish Mehta,Regular,Electronics,Laptop,West,Pune,78672.85,2,7.1,7332.31,Cash
+ORD-00432,2023-11-01,Vikram Verma,Wholesale,Clothing,T-Shirt,North,Amritsar,12205.43,3,20.1,2309.27,UPI
+ORD-00433,2023-11-10,Usha Saxena,Regular,Home & Kitchen,Vacuum Cleaner,North,Delhi,30037.32,2,17.1,2499.11,UPI
+ORD-00434,2023-10-18,Ashok Kumar,Wholesale,Electronics,Laptop,West,Pune,125056.7,3,27.4,-8653.92,Card
+ORD-00435,2023-02-05,Rajesh Nair,Wholesale,Home & Kitchen,Air Fryer,East,Bhubaneswar,28958.83,2,23.8,857.18,Cash
+ORD-00436,2024-03-31,Vikram Menon,Premium,Clothing,T-Shirt,South,Hyderabad,13112.94,3,11.6,3372.65,Cash
+ORD-00437,2023-07-31,Saritha Ghosh,Premium,Electronics,Camera,West,Surat,19968.85,2,17.9,135.79,Card
+ORD-00438,2024-03-26,Amit Shah,Wholesale,Books,Children Story,North,Jaipur,2856.17,3,19.8,118.82,Card
+ORD-00439,2023-12-06,Nisha Ghosh,Premium,Home & Kitchen,Mixer Grinder,West,Nagpur,17435.59,2,12.4,2106.22,UPI
+ORD-00440,2023-03-17,Ajay Iyer,Premium,Home & Kitchen,Non-stick Pan,North,Lucknow,3273.44,1,11.8,411.14,UPI
+ORD-00441,2024-11-21,Kavya Menon,Wholesale,Furniture,Bed Frame,North,Amritsar,48712.67,1,18,16074.61,Cash
+ORD-00442,2024-10-23,Vikram Ghosh,Premium,Books,Dictionary,West,Ahmedabad,8199.97,4,14.4,695.36,UPI
+ORD-00443,2024-01-22,Rajesh Patel,Wholesale,Sports,Jump Rope,West,Nagpur,23904.63,2,28.4,1262.16,Card
+ORD-00444,2024-01-19,Ashok Mishra,Premium,Clothing,Saree,South,Hyderabad,1831.79,1,17.5,384.68,UPI
+ORD-00445,2023-05-17,Vikram Verma,Wholesale,Home & Kitchen,Induction Cooktop,South,Hyderabad,17029.95,1,17,5670.17,Card
+ORD-00446,2024-01-20,Radha Banerjee,Premium,Electronics,Smartwatch,North,Delhi,45568.66,2,16.9,674.42,UPI
+ORD-00447,2023-02-27,Meera Kaur,Wholesale,Sports,Jump Rope,East,Patna,26830.62,2,21.8,2833.31,UPI
+ORD-00448,2023-04-13,Sandeep Tiwari,Premium,Home & Kitchen,Iron Box,West,Pune,74163.01,4,13.9,8068.94,Card
+ORD-00449,2024-11-10,Sunita Iyer,Wholesale,Furniture,Side Table,East,Ranchi,25664.77,4,24.9,1303.77,UPI
+ORD-00450,2023-04-28,Sunita Mukherjee,Regular,Home & Kitchen,Air Fryer,West,Pune,6913.91,1,1.8,1421.5,Card
+ORD-00451,2023-03-16,Priya Das,Wholesale,Home & Kitchen,Vacuum Cleaner,South,Hyderabad,20455.92,3,22.6,801.87,Card
+ORD-00452,2024-03-31,Ananya Gupta,Premium,Health & Beauty,Hair Oil,North,Chandigarh,5725.62,4,12.6,1713.11,Cash
+ORD-00453,2023-04-07,Vikram Pillai,Premium,Clothing,Sneakers,West,Surat,4770.06,2,12,1211.6,UPI
+ORD-00454,2023-03-20,Sanjay Gupta,Premium,Home & Kitchen,Microwave,East,Guwahati,14241.84,3,12.8,1674.84,UPI
+ORD-00455,2023-12-14,Aarav Singh,Premium,Furniture,Shoe Rack,East,Patna,20748.7,1,11.3,3311.49,Card
+ORD-00456,2024-06-05,Meera Menon,Regular,Books,Textbook,South,Coimbatore,3171.47,3,4.1,530.27,UPI
+ORD-00457,2023-04-14,Manjula Reddy,Premium,Books,Children Story,North,Amritsar,6020.13,4,11,674.25,Cash
+ORD-00458,2023-09-30,Vijay Bose,Wholesale,Health & Beauty,Perfume,East,Kolkata,3500.55,3,22.7,764.52,Card
+ORD-00459,2024-05-16,Amit Patel,Wholesale,Sports,Cricket Bat,North,Jaipur,2735.75,3,67.95532092886755,-3251.69,Cash
+ORD-00460,2023-10-19,Mohan Verma,Premium,Furniture,Bed Frame,North,Chandigarh,164218.34,4,13.4,23450.38,UPI
+ORD-00461,2023-06-23,Vinod Das,Regular,Books,Self-Help Book,South,Coimbatore,1792.98,2,2.6,321.3,UPI
+ORD-00462,2023-05-02,Kamala Shah,Premium,Sports,Resistance Bands,South,Chennai,104275.94,4,9.9,20938.61,Cash
+ORD-00463,2024-06-19,Rohit Banerjee,Premium,Grocery,Instant Noodles,North,Delhi,606.26,5,6.3,30.07,UPI
+ORD-00464,2023-10-24,Rohit Singh,Premium,Home & Kitchen,Water Purifier,South,Hyderabad,15615.15,1,8.3,2398.49,Card
+ORD-00465,2023-09-09,Radha Nair,Regular,Sports,Dumbbells Set,East,Guwahati,4405.24,1,65.42325449119133,-3782.72,UPI
+ORD-00466,2023-06-10,Deepak Saxena,Wholesale,Electronics,Router,East,Guwahati,36458.39,1,25.4,-1939.59,Cash
+ORD-00467,2023-02-03,Meera Tiwari,Premium,Grocery,Sugar,West,Ahmedabad,1514.01,8,17.2,-56.93,Cash
+ORD-00468,2024-01-09,Pooja Krishnan,Wholesale,Books,Science Fiction,East,Kolkata,3498.42,3,22.2,78.36,Cash
+ORD-00469,2024-01-03,Girish Kumar,Wholesale,Sports,Cricket Bat,East,Ranchi,18876.94,4,28.4,996.7,UPI
+ORD-00470,2023-10-07,Vinod Sharma,Regular,Sports,Swimming Goggles,West,Surat,44111.2,4,18.1,5963.83,Cash
+ORD-00471,2023-05-22,Nisha Chauhan,Wholesale,Clothing,Sneakers,North,Delhi,2643.05,2,16.3,580.41,UPI
+ORD-00472,2023-04-23,Manoj Menon,Regular,Health & Beauty,Shampoo,North,Amritsar,4377.63,1,11.1,3270.18,Cash
+ORD-00473,2024-10-17,Kamala Chauhan,Regular,Furniture,Bed Frame,North,Chandigarh,18955.63,1,6.9,3692.56,UPI
+ORD-00474,2023-07-26,Vikram Chatterjee,Premium,Electronics,Headphones,West,Ahmedabad,11807.06,2,5.4,1260.99,Cash
+ORD-00475,2023-11-24,Ravi Singh,Premium,Grocery,Tea Powder,East,Ranchi,12162.55,10,11.9,58.38,Cash
+ORD-00476,2024-11-25,Arjun Patel,Regular,Health & Beauty,Essential Oils,East,Patna,210.31,1,3,79.08,Cash
+ORD-00477,2024-09-21,Rajesh Mukherjee,Wholesale,Sports,Dumbbells Set,South,Hyderabad,46703.68,4,25.2,3661.57,UPI
+ORD-00478,2023-07-21,Suresh Iyer,Regular,Home & Kitchen,Air Fryer,North,Jaipur,6260.5,3,58.51584062664497,-5321.28,UPI
+ORD-00479,2023-06-04,Mohan Bose,Wholesale,Books,Comics,West,Mumbai,382.73,4,23.1,5.82,UPI
+ORD-00480,2024-10-19,Suresh Patel,Regular,Furniture,Shoe Rack,East,Patna,183325.35,4,13.3,26325.52,Card
+ORD-00481,2024-12-02,Harish Gupta,Regular,Electronics,Bluetooth Speaker,East,Bhubaneswar,282820.04,4,10.5,18666.12,UPI
+ORD-00482,2024-02-26,Usha Tiwari,Premium,Health & Beauty,Shampoo,North,Delhi,4036.68,2,17.2,1059.22,Card
+ORD-00483,2024-11-11,Kamala Iyer,Premium,Furniture,Study Table,East,Bhubaneswar,77867.65,2,17.6,8503.15,Cash
+ORD-00484,2024-01-13,Pallavi Pillai,Premium,Sports,Football,South,Bangalore,47680.83,2,17.7,6599.03,Card
+ORD-00485,2024-10-24,Pallavi Mishra,Regular,Clothing,T-Shirt,North,Delhi,6078.89,2,43.74462940144737,-13436.03,UPI
+ORD-00486,2023-02-24,Nisha Kumar,Wholesale,Sports,Badminton Racket,West,Surat,1584.85,4,24.3,135.66,UPI
+ORD-00487,2024-07-30,Jyoti Das,Regular,Grocery,Cooking Oil,East,Ranchi,923.88,5,6.6,43.61,Cash
+ORD-00488,2024-08-23,Sunita Agarwal,Regular,Sports,Swimming Goggles,South,Chennai,12732.47,1,7.3,2821.52,UPI
+ORD-00489,2024-05-01,Ravi Agarwal,Regular,Home & Kitchen,Pressure Cooker,East,Patna,39218.65,3,18.4,2855.12,UPI
+ORD-00490,2024-06-17,Anil Nair,Regular,Health & Beauty,Shampoo,East,Ranchi,3086.03,2,3.8,1140.6,Cash
+ORD-00491,2024-04-29,Amit Mukherjee,Regular,Furniture,Wardrobe,North,Chandigarh,13134.35,1,71.2173947239892,-6704.47,Card
+ORD-00492,2023-01-21,Sanjay Bose,Premium,Sports,Yoga Mat,South,Kochi,36597.08,4,10.7,7114.47,UPI
+ORD-00493,2024-08-20,Anil Patel,Wholesale,Sports,Resistance Bands,East,Patna,22983.15,2,18.2,12058.7,Cash
+ORD-00494,2023-07-20,Naveen Agarwal,Premium,Grocery,Sugar,South,Kochi,5180.88,5,13,-20.72,UPI
+ORD-00495,2024-11-23,Divya Gupta,Premium,Books,Science Fiction,West,Pune,201.36,1,5.1,32.06,Cash
+ORD-00496,2023-12-22,Ramesh Sharma,Regular,Health & Beauty,Face Cream,North,Lucknow,10423.9,4,7.1,3577.48,UPI
+ORD-00497,2023-09-05,Rajesh Shah,Wholesale,Books,Science Fiction,East,Guwahati,650.76,1,22.6,12.49,Card
+ORD-00498,2024-03-10,Sunita Saxena,Wholesale,Home & Kitchen,Pressure Cooker,East,Ranchi,21296.79,3,16.8,1823.01,UPI
+ORD-00499,2023-01-04,Aarav Agarwal,Wholesale,Health & Beauty,Face Cream,East,Guwahati,687.98,3,30,110.08,Cash
+ORD-00500,2024-05-31,Aarav Tiwari,Premium,Electronics,Router,West,Surat,132372.45,2,12.9,6195.03,Cash
+ORD-00501,2023-09-11,Suresh Reddy,Premium,Books,Dictionary,North,Chandigarh,930.76,1,14,81.91,Card
+ORD-00502,2024-07-21,Ajay Iyer,Premium,Grocery,Wheat Flour,North,Jaipur,1098.09,2,11,13.18,Card
+ORD-00503,2024-01-30,Ravi Ghosh,Premium,Books,Business Book,North,Lucknow,7123.43,4,5.7,1099.86,UPI
+ORD-00504,2023-10-12,Sunita Chauhan,Regular,Clothing,Saree,West,Ahmedabad,7952.15,4,17.4,1676.31,UPI
+ORD-00505,2023-11-03,Girish Joshi,Premium,Grocery,Tea Powder,East,Ranchi,14048.57,8,9.1,382.12,Card
+ORD-00506,2023-05-19,Saritha Mishra,Wholesale,Health & Beauty,Face Cream,North,Delhi,5952.33,2,17,1571.42,Card
+ORD-00507,2024-05-22,Sunita Sharma,Premium,Electronics,Tablet,East,Patna,260295.16,4,9.8,18637.13,Cash
+ORD-00508,2024-02-07,Ramesh Krishnan,Premium,Home & Kitchen,Water Purifier,South,Bangalore,5788.24,1,7.4,930.75,UPI
+ORD-00509,2024-10-31,Kavya Shetty,Regular,Electronics,Smart TV,South,Coimbatore,204214.48,3,18.8,-314.91,Card
+ORD-00510,2023-09-16,Vijay Menon,Premium,Sports,Dumbbells Set,North,Amritsar,36383.93,4,12.7,6490.89,UPI
+ORD-00511,2023-12-10,Kavya Kaur,Premium,Books,Business Book,South,Chennai,6067.12,3,13.5,558.18,Card
+ORD-00512,2024-11-20,Lakshmi Reddy,Premium,Health & Beauty,Protein Powder,West,Ahmedabad,5258.47,4,70.54333892745751,-12513.26,Card
+ORD-00513,2024-01-14,Latika Patel,Regular,Grocery,Pulses Mix,North,Lucknow,12314.52,10,7.4,502.43,Card
+ORD-00514,2023-01-05,Divya Shah,Wholesale,Clothing,Jacket,West,Nagpur,14525.06,4,21.2,2620.32,UPI
+ORD-00515,2024-10-13,Geeta Iyer,Wholesale,Sports,Dumbbells Set,North,Lucknow,52215.67,4,24.5,4386.12,Card
+ORD-00516,2024-12-27,Swati Gupta,Regular,Books,Textbook,West,Nagpur,3959.75,2,16,285.1,Card
+ORD-00517,2024-04-01,Sunil Joshi,Wholesale,Electronics,Camera,East,Ranchi,105866.86,3,25.6,-5801.5,Cash
+ORD-00518,2023-08-09,Sneha Kumar,Regular,Clothing,Saree,South,Bangalore,10278.38,2,8.7,2882.06,UPI
+ORD-00519,2023-08-29,Amit Mukherjee,Wholesale,Health & Beauty,Sunscreen,West,Surat,1600.22,3,27,294.44,Cash
+ORD-00520,2023-03-07,Vinod Tiwari,Premium,Grocery,Tea Powder,South,Chennai,1101.77,10,13.8,-11.46,Cash
+ORD-00521,2024-04-17,Naveen Agarwal,Premium,Electronics,Smartwatch,East,Bhubaneswar,41379.76,4,17.3,480.01,UPI
+ORD-00522,2023-01-02,Meera Mukherjee,Regular,Books,Comics,West,Pune,644.77,3,17.4,39.2,Cash
+ORD-00523,2023-08-27,Sandeep Menon,Regular,Electronics,Gaming Console,West,Nagpur,51331.47,2,6.8,4907.29,UPI
+ORD-00524,2024-04-15,Kamala Verma,Premium,Sports,Badminton Racket,West,Mumbai,20182.34,3,8.7,4246.36,Card
+ORD-00525,2023-01-08,Radha Chauhan,Premium,Books,Business Book,South,Kochi,5348.95,4,12.5,534.89,UPI
+ORD-00526,2024-12-07,Suresh Iyer,Regular,Electronics,Smart TV,East,Bhubaneswar,159604.92,3,15.8,3766.68,UPI
+ORD-00527,2024-01-03,Ashok Reddy,Regular,Electronics,Headphones,East,Guwahati,50182.91,1,0.2,7447.14,Cash
+ORD-00528,2023-10-08,Pooja Ghosh,Regular,Electronics,Headphones,East,Guwahati,20660.3,1,14.9,636.34,Card
+ORD-00529,2023-05-10,Ramesh Ghosh,Premium,Sports,Yoga Mat,East,Kolkata,23072.49,4,10.4,4540.67,UPI
+ORD-00530,2024-03-14,Ajay Iyer,Wholesale,Clothing,T-Shirt,East,Guwahati,19114.34,4,16.5,4166.93,UPI
+ORD-00531,2023-11-09,Arjun Verma,Wholesale,Home & Kitchen,Microwave,North,Lucknow,11711.5,1,19.5,749.54,Cash
+ORD-00532,2023-05-03,Kavya Singh,Regular,Clothing,Jeans,North,Amritsar,3657.7,4,17.2,776.9,Card
+ORD-00533,2024-09-25,Meera Ghosh,Regular,Sports,Dumbbells Set,North,Chandigarh,5503.83,1,11.8,1021.51,Card
+ORD-00534,2023-11-17,Nisha Saxena,Premium,Electronics,Smartphone,East,Bhubaneswar,148008.91,4,15.9,3374.6,UPI
+ORD-00535,2023-05-11,Anil Chauhan,Premium,Sports,Cycling Helmet,South,Kochi,42699.91,2,15.6,6627.03,Cash
+ORD-00536,2024-09-24,Naveen Pillai,Wholesale,Health & Beauty,Face Mask Pack,East,Kolkata,925.78,1,15.6,254.77,UPI
+ORD-00537,2024-10-17,Ajay Reddy,Wholesale,Health & Beauty,Essential Oils,West,Surat,1392.96,2,19.3,342.11,UPI
+ORD-00538,2023-06-30,Aarav Gupta,Premium,Sports,Resistance Bands,East,Guwahati,33568.02,4,5.1,8029.47,UPI
+ORD-00539,2023-08-31,Lakshmi Shah,Regular,Sports,Dumbbells Set,North,Amritsar,3553.51,1,8.4,756.19,UPI
+ORD-00540,2024-10-11,Arjun Patel,Regular,Books,Dictionary,South,Hyderabad,1556.01,2,4.8,251.45,UPI
+ORD-00541,2023-01-24,Harish Saxena,Wholesale,Books,Cookbook,West,Nagpur,3556.38,4,27.2,-62.59,Card
+ORD-00542,2023-11-23,Pallavi Menon,Premium,Furniture,Shoe Rack,West,Mumbai,5960.71,2,17.6,650.91,UPI
+ORD-00543,2023-06-01,Manoj Reddy,Wholesale,Electronics,Router,North,Lucknow,192940.22,4,15.4,5170.8,Card
+ORD-00544,2023-01-09,Sandeep Singh,Regular,Electronics,Smartwatch,East,Patna,99151.86,3,14,3767.77,UPI
+ORD-00545,2023-04-21,Kamala Mukherjee,Wholesale,Books,Novel,North,Jaipur,1005.34,3,64.90678348513065,-1460.88,Card
+ORD-00546,2023-08-13,Kavya Saxena,Premium,Furniture,Office Chair,South,Bangalore,80548.76,4,8.3,56596.74,UPI
+ORD-00547,2024-07-09,Geeta Nair,Premium,Furniture,Bed Frame,North,Delhi,35119.8,1,12.1,5380.35,Cash
+ORD-00548,2024-06-04,Ramesh Sharma,Regular,Furniture,Bed Frame,North,Amritsar,25262.96,1,13.4,3607.55,Card
+ORD-00549,2023-06-01,Suresh Chauhan,Wholesale,Grocery,Biscuits Pack,North,Jaipur,5902.33,8,28.2,-741.33,Card
+ORD-00550,2024-04-13,Lakshmi Shetty,Regular,Furniture,Dining Table,South,Kochi,22871.95,3,19.2,2204.86,UPI
+ORD-00551,2024-04-23,Swati Mehta,Wholesale,Grocery,Spices Kit,North,Lucknow,982.7,4,20.4,-62.11,Cash
+ORD-00552,2023-12-14,Mohan Banerjee,Regular,Books,Novel,North,Jaipur,2133.1,4,9.1,271.33,Cash
+ORD-00553,2023-02-18,Kamala Kumar,Regular,Sports,Cycling Helmet,East,Ranchi,11606.08,2,11.5,2181.94,Cash
+ORD-00554,2024-09-19,Kamala Kumar,Regular,Clothing,T-Shirt,North,Lucknow,8617.31,4,11.6,2216.37,Card
+ORD-00555,2023-11-11,Mohan Menon,Wholesale,Furniture,Wardrobe,East,Guwahati,18416.29,1,21.2,3948.24,UPI
+ORD-00556,2024-12-08,Vijay Patel,Wholesale,Sports,Jump Rope,South,Chennai,83999.84,4,24.6,6988.79,Cash
+ORD-00557,2023-04-11,Praveen Mukherjee,Wholesale,Furniture,Bed Frame,South,Bangalore,32690.41,1,18.2,3412.88,UPI
+ORD-00558,2023-03-30,Sunil Verma,Regular,Books,Comics,South,Kochi,1867.58,2,11.1,207.67,UPI
+ORD-00559,2024-09-18,Latika Saxena,Wholesale,Home & Kitchen,Air Fryer,South,Hyderabad,15883.42,4,20,953.01,UPI
+ORD-00560,2023-04-17,Kiran Patel,Premium,Books,Biography,South,Chennai,2638.3,4,15.3,204.73,Card
+ORD-00561,2023-01-16,Hema Shetty,Regular,Grocery,Sugar,North,Amritsar,1364.95,2,19.6,-77.53,UPI
+ORD-00562,2024-12-15,Kamala Shah,Wholesale,Sports,Jump Rope,West,Mumbai,54907.64,3,28.7,2767.35,UPI
+ORD-00563,2023-05-02,Deepak Ghosh,Regular,Sports,Swimming Goggles,North,Amritsar,3341.38,2,67.96793827585998,-8124.52,UPI
+ORD-00564,2023-05-09,Divya Menon,Premium,Sports,Badminton Racket,South,Hyderabad,3874.5,1,13.8,1645.3,Cash
+ORD-00565,2023-01-26,Asha Das,Wholesale,Clothing,Saree,South,Kochi,1532.68,2,24.1,240.94,Cash
+ORD-00566,2024-07-07,Kiran Verma,Wholesale,Health & Beauty,Protein Powder,South,Chennai,1833.88,3,16.3,494.41,UPI
+ORD-00567,2023-10-10,Latika Chatterjee,Wholesale,Grocery,Instant Noodles,East,Ranchi,10091.79,8,28.1,-1259.46,Card
+ORD-00568,2023-09-22,Pooja Das,Regular,Books,Novel,North,Lucknow,4189.65,4,5.3,660.29,Cash
+ORD-00569,2024-11-03,Sunil Shetty,Premium,Health & Beauty,Shampoo,South,Coimbatore,16360.44,4,8.7,5405.49,UPI
+ORD-00570,2023-01-27,Praveen Sharma,Wholesale,Furniture,Dining Table,South,Kochi,116121.62,3,20.3,10172.25,UPI
+ORD-00571,2024-08-26,Harish Mehta,Wholesale,Home & Kitchen,Non-stick Pan,East,Kolkata,8883.65,2,19.4,1992.44,Cash
+ORD-00572,2024-04-14,Ravi Chatterjee,Wholesale,Books,Cookbook,North,Amritsar,3339.57,3,18.2,181.67,UPI
+ORD-00573,2024-10-15,Manoj Sharma,Wholesale,Home & Kitchen,Mixer Grinder,East,Kolkata,20981.83,4,20.2,1225.34,UPI
+ORD-00574,2023-08-27,Rajesh Chauhan,Wholesale,Home & Kitchen,Air Fryer,East,Bhubaneswar,11486.37,1,23.8,340,UPI
+ORD-00575,2024-04-08,Kamala Dubey,Premium,Electronics,Headphones,South,Kochi,188981.39,3,16.2,3855.22,UPI
+ORD-00576,2023-09-22,Deepak Menon,Regular,Sports,Cycling Helmet,North,Lucknow,31702.52,2,14.7,5148.49,Card
+ORD-00577,2024-10-11,Anil Verma,Premium,Clothing,Kurta,North,Jaipur,10685.77,2,9.3,2945,Cash
+ORD-00578,2024-07-03,Pooja Kaur,Premium,Health & Beauty,Shampoo,North,Delhi,1034.2,1,16.6,276.34,UPI
+ORD-00579,2024-02-02,Asha Agarwal,Premium,Grocery,Dry Fruits,North,Chandigarh,5506.19,7,9.3,140.96,Cash
+ORD-00580,2023-09-05,Sanjay Shetty,Regular,Books,Comics,West,Mumbai,6464.74,4,13.7,584.41,Card
+ORD-00581,2023-09-14,Sunita Saxena,Regular,Home & Kitchen,Coffee Maker,South,Hyderabad,47039.26,4,9,6961.81,Card
+ORD-00582,2023-04-29,Usha Sharma,Premium,Furniture,Study Table,East,Ranchi,9819.91,3,17.9,1048.77,Cash
+ORD-00583,2024-07-26,Vijay Sharma,Regular,Books,Children Story,South,Chennai,301.45,1,15.5,22.91,UPI
+ORD-00584,2023-09-06,Pallavi Reddy,Premium,Grocery,Sugar,North,Jaipur,2550.68,2,18,-112.23,Cash
+ORD-00585,2023-02-26,Rajesh Chauhan,Wholesale,Home & Kitchen,Induction Cooktop,North,Lucknow,4521.03,3,28,-18.08,Card
+ORD-00586,2024-12-08,Manjula Mishra,Regular,Grocery,Rice (5kg),North,Amritsar,6865.93,7,11.7,43.94,Card
+ORD-00587,2024-08-03,Sanjay Kaur,Regular,Home & Kitchen,Vacuum Cleaner,South,Coimbatore,24495.78,3,5.9,4232.87,Cash
+ORD-00588,2024-05-11,Rekha Banerjee,Regular,Home & Kitchen,Induction Cooktop,South,Chennai,34755.64,2,16.8,2975.08,UPI
+ORD-00589,2024-12-13,Vinod Nair,Wholesale,Home & Kitchen,Vacuum Cleaner,East,Patna,62073.95,3,21.2,3128.53,UPI
+ORD-00590,2024-06-28,Naveen Saxena,Regular,Health & Beauty,Essential Oils,West,Surat,481.37,2,7.4,164.05,Card
+ORD-00591,2024-09-09,Vijay Shetty,Premium,Grocery,Biscuits Pack,South,Hyderabad,970.69,3,5.4,55.14,Cash
+ORD-00592,2023-06-11,Bhavna Das,Wholesale,Books,Biography,East,Bhubaneswar,690.89,2,15.5,52.51,UPI
+ORD-00593,2023-09-26,Radha Sharma,Regular,Grocery,Cooking Oil,South,Hyderabad,2002.91,2,4.4,129.79,UPI
+ORD-00594,2023-05-02,Arjun Gupta,Regular,Clothing,Winter Coat,West,Ahmedabad,21532.41,4,18.9,4280.64,Card
+ORD-00595,2023-03-24,Manoj Krishnan,Regular,Furniture,Wardrobe,South,Coimbatore,31766.31,4,1.4,7585.79,UPI
+ORD-00596,2023-07-21,Naveen Verma,Wholesale,Furniture,Side Table,South,Coimbatore,8338.36,3,29.3,130.08,Card
+ORD-00597,2023-07-24,Ajay Shah,Premium,Sports,Dumbbells Set,South,Bangalore,12933.88,3,12.7,2307.4,Card
+ORD-00598,2023-09-15,Swati Mehta,Regular,Furniture,Dining Table,North,Amritsar,58151.13,3,15.5,7327.04,UPI
+ORD-00599,2024-05-06,Aarav Gupta,Wholesale,Electronics,Smartphone,South,Bangalore,8741.41,1,20.9,-150.35,Card
+ORD-00600,2024-04-05,Kamala Gupta,Premium,Clothing,Kurta,North,Lucknow,13762.3,3,13.1,3374.52,Cash
+ORD-00601,2023-12-29,Rohit Menon,Wholesale,Furniture,Sofa Set,North,Amritsar,57133.19,3,73.21006110825292,-76867.87,UPI
+ORD-00602,2024-03-31,Vinod Pillai,Regular,Electronics,Gaming Console,East,Bhubaneswar,275215.76,4,7.3,25209.76,UPI
+ORD-00603,2023-10-03,Lakshmi Mishra,Wholesale,Health & Beauty,Face Mask Pack,East,Patna,5924.59,2,25.6,1156.48,UPI
+ORD-00604,2024-01-02,Vinod Kumar,Regular,Furniture,Shoe Rack,North,Lucknow,37330.04,2,14,5151.55,Cash
+ORD-00605,2024-10-17,Suresh Iyer,Regular,Home & Kitchen,Air Fryer,North,Amritsar,38743.93,4,17.9,2975.53,UPI
+ORD-00606,2023-11-09,Vikram Banerjee,Regular,Furniture,Wardrobe,North,Delhi,65456.75,4,15.9,8038.09,UPI
+ORD-00607,2023-03-25,Vinod Saxena,Regular,Health & Beauty,Electric Toothbrush,South,Bangalore,7553.63,4,11.9,2302.35,UPI
+ORD-00608,2023-01-02,Pooja Tiwari,Premium,Furniture,Dining Table,East,Patna,48561.68,2,15.6,6079.92,UPI
+ORD-00609,2023-08-07,Lakshmi Gupta,Premium,Home & Kitchen,Air Fryer,West,Surat,83234.79,4,6.3,14116.62,Cash
+ORD-00610,2023-01-20,Deepak Sharma,Premium,Home & Kitchen,Mixer Grinder,North,Chandigarh,60809.45,4,12.6,7248.49,UPI
+ORD-00611,2024-02-06,Geeta Singh,Regular,Books,Novel,South,Hyderabad,1165.37,2,4.9,187.39,UPI
+ORD-00612,2024-07-20,Geeta Joshi,Wholesale,Home & Kitchen,Induction Cooktop,West,Nagpur,2673.98,1,24.5,64.18,UPI
+ORD-00613,2024-11-15,Saritha Kumar,Regular,Electronics,Laptop,South,Coimbatore,259397.48,3,12.4,13177.39,UPI
+ORD-00614,2024-04-10,Jyoti Rao,Regular,Grocery,Pulses Mix,North,Delhi,2268.42,3,14.5,-36.29,UPI
+ORD-00615,2024-08-22,Naveen Dubey,Premium,Furniture,Cabinet,East,Bhubaneswar,43223.21,3,13.7,6068.54,Card
+ORD-00616,2024-04-14,Deepak Patel,Premium,Electronics,Smartwatch,West,Ahmedabad,25034,2,7.2,2313.14,UPI
+ORD-00617,2023-02-11,Suresh Pillai,Regular,Health & Beauty,Shampoo,East,Bhubaneswar,9088.02,4,5.2,3257.15,UPI
+ORD-00618,2024-01-24,Hema Banerjee,Wholesale,Electronics,Gaming Console,South,Hyderabad,126097.77,4,29.8,-11147.04,UPI
+ORD-00619,2024-12-09,Nisha Rao,Wholesale,Furniture,Bookshelf,West,Surat,87120.82,3,20.8,7283.3,UPI
+ORD-00620,2024-12-12,Rohit Ghosh,Wholesale,Home & Kitchen,Coffee Maker,North,Amritsar,14136.83,1,18.7,995.23,Card
+ORD-00621,2023-07-17,Ashok Das,Regular,Sports,Dumbbells Set,North,Chandigarh,68207.55,4,0.2,18988.98,Card
+ORD-00622,2024-09-09,Ananya Mukherjee,Wholesale,Grocery,Sugar,South,Coimbatore,1939.51,9,29.7,-266.88,Cash
+ORD-00623,2024-08-27,Usha Nair,Wholesale,Books,Novel,East,Bhubaneswar,482.44,2,27.8,-10.81,Cash
+ORD-00624,2024-09-13,Deepak Kaur,Premium,Books,Self-Help Book,North,Lucknow,5598.77,4,14.1,1204.48,Card
+ORD-00625,2023-08-02,Usha Iyer,Regular,Furniture,Study Table,North,Chandigarh,106148.78,3,4.7,22546,Card
+ORD-00626,2024-11-29,Anil Rao,Wholesale,Electronics,Laptop,South,Chennai,118999.51,4,68.52169684075753,-62357.97,Card
+ORD-00627,2023-02-04,Pooja Das,Regular,Health & Beauty,Shampoo,West,Nagpur,1496.1,3,16.8,397.36,Cash
+ORD-00628,2023-09-12,Deepak Rao,Regular,Furniture,Wardrobe,West,Ahmedabad,20482.75,1,0.4,5055.14,Card
+ORD-00629,2024-08-10,Rajesh Reddy,Regular,Sports,Cycling Helmet,South,Hyderabad,18760.51,4,12.7,3346.87,UPI
+ORD-00630,2023-10-14,Sunita Shah,Premium,Clothing,Formal Shirt,East,Ranchi,7230.73,2,12,1836.61,UPI
+ORD-00631,2024-10-08,Asha Tiwari,Premium,Grocery,Dry Fruits,North,Lucknow,13945.52,10,13.3,-89.25,Card
+ORD-00632,2023-06-21,Lakshmi Nair,Regular,Electronics,Tablet,North,Lucknow,209086.77,4,11.7,11792.49,Card
+ORD-00633,2023-01-24,Geeta Ghosh,Premium,Clothing,Ethnic Wear,North,Chandigarh,12532.93,4,15.3,2852.49,UPI
+ORD-00634,2024-07-17,Kiran Krishnan,Regular,Home & Kitchen,Vacuum Cleaner,South,Hyderabad,15899.82,1,9.8,2251.41,UPI
+ORD-00635,2023-09-15,Arjun Mehta,Wholesale,Sports,Badminton Racket,West,Mumbai,35275.13,2,22.2,3612.17,UPI
+ORD-00636,2023-07-21,Mohan Reddy,Wholesale,Health & Beauty,Face Cream,South,Coimbatore,3666.02,4,21.6,832.92,UPI
+ORD-00637,2023-10-01,Kamala Gupta,Wholesale,Health & Beauty,Shampoo,East,Kolkata,13209.09,3,25.9,2546.71,UPI
+ORD-00638,2023-07-22,Sunil Agarwal,Premium,Electronics,Camera,South,Hyderabad,131734.28,3,15,3952.03,UPI
+ORD-00639,2023-10-25,Rohit Chatterjee,Premium,Health & Beauty,Perfume,East,Patna,14133.36,3,8.7,4669.66,UPI
+ORD-00640,2024-09-26,Pooja Chatterjee,Premium,Sports,Resistance Bands,North,Lucknow,17438.63,3,5.6,4101.57,Card
+ORD-00641,2024-10-26,Vikram Krishnan,Regular,Electronics,Tablet,West,Mumbai,86138.06,1,1.7,11749.23,UPI
+ORD-00642,2023-10-10,Deepak Chatterjee,Wholesale,Electronics,Headphones,East,Guwahati,27597.44,1,24.7,-1313.64,UPI
+ORD-00643,2023-12-31,Sunil Singh,Wholesale,Furniture,Shoe Rack,East,Ranchi,72349.68,2,22.5,5064.48,Cash
+ORD-00644,2023-03-05,Swati Mukherjee,Wholesale,Health & Beauty,Hair Oil,South,Coimbatore,435.98,2,21.6,99.05,Card
+ORD-00645,2024-01-03,Mohan Sharma,Wholesale,Sports,Yoga Mat,West,Ahmedabad,39874.16,4,25.4,3062.34,UPI
+ORD-00646,2023-11-18,Praveen Iyer,Regular,Sports,Resistance Bands,South,Chennai,75876.83,2,2,20031.48,UPI
+ORD-00647,2023-01-18,Ashok Shetty,Premium,Furniture,Bed Frame,South,Chennai,37270.48,1,10.2,6276.35,Cash
+ORD-00648,2023-04-23,Radha Das,Regular,Sports,Treadmill,West,Surat,44184.83,3,6.1,10215.53,UPI
+ORD-00649,2023-06-21,Aarav Gupta,Wholesale,Health & Beauty,Perfume,East,Guwahati,2579.39,2,22.4,569.53,Cash
+ORD-00650,2023-02-06,Mohan Chatterjee,Regular,Clothing,Jeans,West,Nagpur,793.91,1,5.5,242.94,Cash
+ORD-00651,2023-05-28,Latika Mishra,Premium,Electronics,Smartphone,North,Chandigarh,209006.33,3,7.2,19312.18,UPI
+ORD-00652,2023-09-18,Jyoti Saxena,Wholesale,Electronics,Bluetooth Speaker,South,Kochi,76195.22,2,46.03485189323421,-67811.49,Card
+ORD-00653,2023-09-06,Rohit Ghosh,Regular,Clothing,T-Shirt,South,Hyderabad,5433.77,3,18.7,1088.93,Cash
+ORD-00654,2023-11-04,Usha Mukherjee,Regular,Clothing,Ethnic Wear,South,Hyderabad,4871.98,1,0.7,1677.91,Card
+ORD-00655,2024-08-01,Pallavi Agarwal,Premium,Electronics,Tablet,East,Guwahati,48731.87,1,16.6,838.19,Card
+ORD-00656,2024-01-25,Nisha Shetty,Wholesale,Sports,Treadmill,South,Coimbatore,1099.19,1,45.55436718484734,-2426.85,Cash
+ORD-00657,2024-01-28,Usha Kumar,Premium,Electronics,Headphones,North,Lucknow,128186.8,3,16,2820.11,Card
+ORD-00658,2023-03-29,Bhavna Shetty,Wholesale,Clothing,Sneakers,West,Mumbai,658.07,1,27.2,87.13,UPI
+ORD-00659,2023-03-15,Vikram Kaur,Premium,Clothing,Ethnic Wear,North,Delhi,8914.29,4,47.486669494702475,-10955.85,Card
+ORD-00660,2024-11-26,Suresh Mehta,Wholesale,Grocery,Tea Powder,East,Guwahati,818.69,1,27.7,-99.55,UPI
+ORD-00661,2024-01-20,Harish Tiwari,Regular,Furniture,Side Table,West,Ahmedabad,27920.89,4,3.4,6220.77,Cash
+ORD-00662,2023-07-28,Sandeep Tiwari,Premium,Grocery,Dry Fruits,West,Nagpur,4809.71,8,8.8,142.37,UPI
+ORD-00663,2023-11-01,Jyoti Reddy,Premium,Home & Kitchen,Vacuum Cleaner,North,Lucknow,11285.17,3,7.9,1769.51,UPI
+ORD-00664,2023-08-27,Arjun Verma,Regular,Sports,Football,West,Surat,15413.55,3,15.6,2392.18,Cash
+ORD-00665,2024-10-19,Arjun Bose,Regular,Clothing,Jeans,West,Ahmedabad,9674.54,2,13.8,2318.02,UPI
+ORD-00666,2024-09-06,Bhavna Mehta,Regular,Grocery,Pulses Mix,West,Ahmedabad,801.68,10,2,67.34,Cash
+ORD-00667,2023-12-09,Naveen Rao,Regular,Electronics,Smartwatch,South,Bangalore,68482.26,2,2.9,8683.55,UPI
+ORD-00668,2024-03-27,Rekha Patel,Wholesale,Books,Dictionary,East,Kolkata,170.47,2,23.2,2.45,Card
+ORD-00669,2023-10-15,Priya Saxena,Premium,Electronics,Smartwatch,West,Ahmedabad,136298.29,2,14.7,4416.06,UPI
+ORD-00670,2024-05-18,Saritha Bose,Regular,Books,Self-Help Book,North,Amritsar,974.84,2,0.4,191.85,UPI
+ORD-00671,2024-11-22,Manjula Banerjee,Premium,Home & Kitchen,Vacuum Cleaner,North,Jaipur,17316,1,16.5,1523.81,Card
+ORD-00672,2024-08-16,Jyoti Reddy,Regular,Grocery,Instant Noodles,East,Kolkata,5765.31,5,1.6,502.74,Cash
+ORD-00673,2024-11-14,Anil Mehta,Wholesale,Books,Dictionary,North,Delhi,2035.89,3,24.9,1.63,UPI
+ORD-00674,2024-11-27,Sanjay Mishra,Regular,Health & Beauty,Perfume,North,Jaipur,1427.94,4,17.8,367.84,Card
+ORD-00675,2024-04-23,Suresh Joshi,Regular,Sports,Cycling Helmet,South,Chennai,75907.46,4,15.7,11720.11,Cash
+ORD-00676,2023-09-26,Priya Chatterjee,Wholesale,Grocery,Sugar,East,Kolkata,3205.92,4,20.7,-210.31,UPI
+ORD-00677,2023-06-01,Pooja Kaur,Premium,Furniture,Bookshelf,East,Bhubaneswar,51670.55,2,14,7130.54,Cash
+ORD-00678,2023-04-04,Girish Rao,Premium,Furniture,Cabinet,South,Chennai,13145.44,4,15.9,1614.26,Card
+ORD-00679,2023-07-12,Sunita Dubey,Premium,Electronics,Headphones,East,Ranchi,51638.92,1,8.4,12855.09,UPI
+ORD-00680,2023-09-16,Rohit Saxena,Wholesale,Home & Kitchen,Iron Box,East,Patna,38411.21,3,20.6,2120.3,Cash
+ORD-00681,2023-01-13,Kiran Nair,Premium,Books,Children Story,South,Bangalore,116.15,1,6.4,17.28,UPI
+ORD-00682,2024-02-21,Priya Krishnan,Regular,Electronics,Bluetooth Speaker,East,Kolkata,42795.38,2,16.7,701.84,Cash
+ORD-00683,2023-08-02,Priya Shah,Wholesale,Furniture,Study Table,West,Nagpur,8056.71,2,22,1432.75,UPI
+ORD-00684,2023-07-06,Sneha Mukherjee,Premium,Grocery,Spices Kit,North,Jaipur,733.7,2,13.1,-3.52,Card
+ORD-00685,2024-03-16,Sunil Verma,Premium,Grocery,Sugar,East,Guwahati,5217.88,8,12.5,0,Card
+ORD-00686,2024-07-23,Mohan Kumar,Regular,Books,Novel,North,Lucknow,3333.78,4,16.8,218.7,UPI
+ORD-00687,2024-09-25,Lakshmi Chauhan,Premium,Books,Comics,West,Pune,4835.25,4,17.4,293.98,Cash
+ORD-00688,2024-09-01,Rajesh Pillai,Premium,Sports,Swimming Goggles,East,Ranchi,26531.7,2,13.7,4521,UPI
+ORD-00689,2023-08-17,Ajay Mukherjee,Premium,Home & Kitchen,Air Fryer,West,Mumbai,8043.32,1,15.3,785.03,Card
+ORD-00690,2023-10-19,Mohan Ghosh,Premium,Health & Beauty,Protein Powder,East,Ranchi,711.03,1,17,187.71,Cash
+ORD-00691,2024-03-04,Lakshmi Shah,Regular,Home & Kitchen,Mixer Grinder,East,Patna,63104.35,3,4.2,11762.65,Card
+ORD-00692,2023-10-22,Aarav Mukherjee,Premium,Home & Kitchen,Air Fryer,East,Patna,49289.84,4,14.9,4968.42,Cash
+ORD-00693,2023-01-11,Meera Saxena,Regular,Sports,Jump Rope,West,Mumbai,20414.92,1,13.5,3511.37,UPI
+ORD-00694,2023-10-13,Meera Krishnan,Regular,Sports,Badminton Racket,West,Mumbai,12715.02,3,2.5,3305.91,UPI
+ORD-00695,2023-10-14,Vijay Kaur,Wholesale,Electronics,Laptop,North,Lucknow,104229.73,3,26.8,-6712.39,UPI
+ORD-00696,2023-09-12,Sanjay Tiwari,Regular,Furniture,Dining Table,North,Chandigarh,121723.25,3,15.4,15434.51,UPI
+ORD-00697,2023-11-22,Ravi Saxena,Regular,Furniture,Study Table,East,Kolkata,77529.15,4,12.8,11443.3,UPI
+ORD-00698,2024-12-27,Geeta Nair,Premium,Grocery,Biscuits Pack,East,Kolkata,3964.05,7,11.9,19.03,UPI
+ORD-00699,2023-03-11,Hema Shah,Premium,Health & Beauty,Multivitamins,North,Lucknow,2927.47,4,17.5,761.14,Card
+ORD-00700,2024-08-14,Sunil Das,Regular,Furniture,Dining Table,East,Patna,35605.38,1,12.6,5312.32,UPI
+ORD-00701,2023-12-23,Jyoti Verma,Wholesale,Grocery,Rice (5kg),West,Nagpur,5350.94,3,18,-235.44,UPI
+ORD-00702,2024-11-24,Mohan Krishnan,Premium,Electronics,Gaming Console,West,Surat,92468.81,3,7.5,8322.19,Card
+ORD-00703,2023-11-26,Latika Kaur,Wholesale,Grocery,Biscuits Pack,South,Hyderabad,3173.33,2,22.3,-248.79,UPI
+ORD-00704,2023-06-15,Deepak Sharma,Premium,Health & Beauty,Protein Powder,North,Amritsar,984.11,2,11.7,301.53,UPI
+ORD-00705,2024-11-28,Jyoti Iyer,Regular,Books,Novel,East,Guwahati,3489.89,2,6.2,524.88,UPI
+ORD-00706,2024-07-06,Suresh Banerjee,Wholesale,Clothing,Winter Coat,East,Ranchi,16698.13,4,25.3,2464.64,Cash
+ORD-00707,2024-11-07,Radha Bose,Wholesale,Clothing,Saree,South,Hyderabad,18802.8,3,18.4,3813.21,UPI
+ORD-00708,2024-11-10,Sunita Saxena,Regular,Grocery,Wheat Flour,North,Amritsar,1965.03,2,17.5,-78.6,UPI
+ORD-00709,2024-06-24,Pooja Kaur,Regular,Furniture,Shoe Rack,East,Guwahati,15706.44,3,6.9,3059.61,Cash
+ORD-00710,2024-06-18,Ramesh Patel,Wholesale,Furniture,Study Table,East,Guwahati,39602.1,4,17.1,4482.96,Cash
+ORD-00711,2024-02-09,Divya Reddy,Premium,Furniture,Cabinet,South,Coimbatore,17798.97,3,17,2029.08,Cash
+ORD-00712,2024-11-01,Ajay Rao,Premium,Sports,Badminton Racket,West,Nagpur,7334.93,1,17.6,1021.02,UPI
+ORD-00713,2024-12-28,Naveen Rao,Premium,Furniture,Sofa Set,West,Surat,37860.98,1,14,5224.82,Card
+ORD-00714,2024-04-08,Deepak Joshi,Regular,Grocery,Cooking Oil,East,Guwahati,5363.88,4,11.7,84.97,UPI
+ORD-00715,2024-11-09,Manoj Agarwal,Premium,Clothing,Saree,North,Delhi,8047.37,1,14.7,1870.21,UPI
+ORD-00716,2023-01-15,Radha Dubey,Premium,Home & Kitchen,Iron Box,West,Surat,23226.48,2,11,3065.9,Cash
+ORD-00717,2024-12-15,Mohan Singh,Premium,Clothing,Winter Coat,East,Ranchi,3245.87,2,41.11294323631828,-2912,Cash
+ORD-00718,2023-01-30,Aarav Tiwari,Regular,Home & Kitchen,Iron Box,South,Chennai,21777.13,4,2.4,9932.36,UPI
+ORD-00719,2023-02-21,Ananya Dubey,Premium,Books,Dictionary,West,Nagpur,3502.87,3,6,532.44,UPI
+ORD-00720,2024-10-31,Aarav Ghosh,Regular,Electronics,Bluetooth Speaker,North,Jaipur,81327.29,1,2.7,10442.42,UPI
+ORD-00721,2024-12-01,Sanjay Mukherjee,Regular,Clothing,Kurta,West,Pune,9597.29,1,5.8,2913.74,UPI
+ORD-00722,2024-01-17,Hema Joshi,Regular,Home & Kitchen,Iron Box,North,Amritsar,3210.85,1,10.8,428.97,UPI
+ORD-00723,2024-11-11,Amit Verma,Regular,Books,Novel,West,Surat,5389.42,3,1.2,1026.15,Card
+ORD-00724,2023-01-13,Saritha Rao,Regular,Books,Comics,South,Chennai,3303.72,2,4.6,539.17,Card
+ORD-00725,2024-01-11,Meera Patel,Premium,Health & Beauty,Face Cream,West,Surat,15890.35,4,15.5,4385.74,Card
+ORD-00726,2023-08-25,Rekha Verma,Premium,Grocery,Rice (5kg),South,Coimbatore,2982.92,6,14,-35.8,UPI
+ORD-00727,2024-02-19,Girish Das,Premium,Sports,Resistance Bands,West,Mumbai,37840.82,2,16.2,5691.26,UPI
+ORD-00728,2024-12-28,Arjun Agarwal,Premium,Home & Kitchen,Vacuum Cleaner,South,Coimbatore,14906.29,3,41.05259897987021,-25352,Cash
+ORD-00729,2023-05-16,Latika Agarwal,Regular,Books,Novel,West,Pune,6073.04,4,5.1,966.83,Cash
+ORD-00730,2023-07-23,Rohit Patel,Wholesale,Furniture,Cabinet,South,Coimbatore,7401.17,2,25.8,322.69,Cash
+ORD-00731,2024-01-25,Pooja Mishra,Premium,Home & Kitchen,Water Purifier,South,Kochi,38359.68,4,17.3,3130.15,UPI
+ORD-00732,2023-01-17,Priya Chatterjee,Regular,Electronics,Router,South,Chennai,210795.22,3,11.9,11551.58,UPI
+ORD-00733,2024-12-29,Kiran Joshi,Premium,Books,Textbook,West,Ahmedabad,1910.34,1,16.7,126.85,Card
+ORD-00734,2023-08-15,Radha Bose,Regular,Health & Beauty,Electric Toothbrush,East,Patna,2550.23,1,13.9,736.51,Card
+ORD-00735,2023-01-12,Aarav Nair,Premium,Sports,Yoga Mat,West,Pune,13101.99,1,12.3,2379.32,Cash
+ORD-00736,2024-11-05,Sunita Kaur,Regular,Health & Beauty,Protein Powder,North,Chandigarh,6909.34,4,10.6,2177.82,Cash
+ORD-00737,2024-07-23,Sandeep Gupta,Wholesale,Sports,Resistance Bands,North,Chandigarh,10647.87,1,27.5,638.87,UPI
+ORD-00738,2024-07-10,Vijay Verma,Premium,Furniture,Dining Table,West,Pune,21742.15,2,5.1,4548.46,UPI
+ORD-00739,2024-06-25,Harish Bose,Regular,Electronics,Smartphone,East,Guwahati,87409.2,4,19.6,-594.38,Card
+ORD-00740,2024-03-19,Ajay Chatterjee,Wholesale,Clothing,Jeans,West,Ahmedabad,4362.58,3,28,549.69,Cash
+ORD-00741,2024-05-07,Vikram Rao,Regular,Home & Kitchen,Induction Cooktop,North,Chandigarh,36404.31,3,8.9,5416.96,UPI
+ORD-00742,2023-11-24,Manoj Das,Regular,Health & Beauty,Essential Oils,East,Kolkata,8645.79,4,0.8,3402.98,Card
+ORD-00743,2023-03-05,Usha Kaur,Wholesale,Grocery,Tea Powder,East,Patna,1115.47,3,72.66913592962271,-2668.03,Cash
+ORD-00744,2023-01-03,Swati Bose,Regular,Furniture,Bookshelf,West,Surat,17279.99,1,8.5,3144.96,Cash
+ORD-00745,2023-01-24,Rajesh Das,Premium,Clothing,Formal Shirt,South,Kochi,560.72,1,49.27375637004879,-881.71,Cash
+ORD-00746,2024-10-27,Sanjay Banerjee,Regular,Health & Beauty,Electric Toothbrush,South,Hyderabad,9266.58,2,9.1,3032.02,UPI
+ORD-00747,2024-05-04,Asha Kumar,Regular,Sports,Football,East,Bhubaneswar,19581.85,1,11.4,3697.05,Card
+ORD-00748,2023-08-27,Sneha Gupta,Regular,Home & Kitchen,Induction Cooktop,East,Bhubaneswar,47563.16,4,7.3,7686.21,UPI
+ORD-00749,2024-06-06,Naveen Pillai,Regular,Sports,Jump Rope,South,Coimbatore,11857.42,1,3,3035.5,Cash
+ORD-00750,2024-12-24,Kamala Krishnan,Premium,Sports,Yoga Mat,West,Surat,73038.91,3,14.2,12153.67,Cash
+ORD-00751,2024-11-29,Swati Singh,Wholesale,Books,Novel,South,Kochi,3023.65,3,20.4,111.27,Card
+ORD-00752,2023-03-05,Praveen Krishnan,Wholesale,Clothing,Formal Shirt,East,Patna,7652.13,4,25.1,1141.7,UPI
+ORD-00753,2023-04-23,Kavya Dubey,Regular,Clothing,Ethnic Wear,South,Coimbatore,5278.38,3,1.8,1771.42,Card
+ORD-00754,2023-06-16,Ramesh Gupta,Premium,Clothing,Winter Coat,West,Ahmedabad,11610.62,2,5.5,3552.85,Cash
+ORD-00755,2024-10-22,Asha Joshi,Premium,Clothing,Kurta,North,Lucknow,14485.2,3,15.4,3285.24,UPI
+ORD-00756,2023-03-10,Amit Rao,Regular,Health & Beauty,Essential Oils,South,Kochi,461.33,4,19.2,113.67,Card
+ORD-00757,2023-11-26,Shweta Reddy,Regular,Books,Novel,West,Nagpur,304.39,2,19.1,14.37,Card
+ORD-00758,2024-02-07,Lakshmi Rao,Premium,Sports,Football,West,Pune,36164.54,4,9.8,7290.77,UPI
+ORD-00759,2024-06-01,Swati Dubey,Regular,Health & Beauty,Protein Powder,South,Kochi,319.41,3,51.09331914464919,-517.74,Cash
+ORD-00760,2023-04-27,Vinod Verma,Premium,Furniture,Study Table,North,Delhi,83598.69,2,17.2,9396.49,UPI
+ORD-00761,2023-10-28,Geeta Tiwari,Premium,Grocery,Instant Noodles,South,Kochi,14989.42,10,6,779.45,Card
+ORD-00762,2024-09-12,Pooja Agarwal,Wholesale,Furniture,Bed Frame,South,Chennai,42281.31,4,22.1,3094.99,UPI
+ORD-00763,2024-06-12,Meera Reddy,Premium,Grocery,Sugar,West,Nagpur,9274.54,9,8,919.68,Card
+ORD-00764,2024-04-10,Pooja Joshi,Regular,Furniture,Bed Frame,North,Chandigarh,140971.24,4,0,35242.81,Cash
+ORD-00765,2024-05-27,Deepak Joshi,Regular,Home & Kitchen,Coffee Maker,East,Kolkata,20230.4,1,5,9412,Cash
+ORD-00766,2024-03-11,Arjun Mehta,Premium,Grocery,Rice (5kg),West,Mumbai,2007.48,3,43.24280887941836,-4213.13,UPI
+ORD-00767,2024-04-20,Anil Bose,Wholesale,Home & Kitchen,Microwave,South,Hyderabad,42171.51,4,21.1,2159.18,UPI
+ORD-00768,2024-05-08,Naveen Nair,Wholesale,Sports,Treadmill,North,Jaipur,6439.8,1,28.2,774.61,UPI
+ORD-00769,2023-04-04,Vijay Verma,Premium,Electronics,Smartwatch,North,Amritsar,195618.49,3,9.6,14319.27,UPI
+ORD-00770,2024-09-07,Bhavna Dubey,Premium,Books,Children Story,North,Jaipur,2821.75,4,49.149733717940684,-6941.37,UPI
+ORD-00771,2023-02-18,Vikram Iyer,Wholesale,Grocery,Rice (5kg),West,Ahmedabad,1044.45,10,24.8,-102.77,Card
+ORD-00772,2024-12-25,Kamala Shetty,Regular,Grocery,Dry Fruits,South,Hyderabad,9653.17,10,13.2,-54.06,Cash
+ORD-00773,2023-04-12,Vijay Menon,Premium,Clothing,T-Shirt,West,Nagpur,1132.41,1,10.2,303.94,UPI
+ORD-00774,2023-01-21,Rohit Shah,Wholesale,Electronics,Smartphone,South,Bangalore,72945.48,4,28.7,-5806.46,UPI
+ORD-00775,2023-11-07,Lakshmi Menon,Regular,Clothing,Kurta,East,Ranchi,15457.7,3,1.1,5274.17,Card
+ORD-00776,2023-07-30,Saritha Shah,Regular,Clothing,Kurta,West,Mumbai,6050.15,1,3.6,1943.31,UPI
+ORD-00777,2024-07-07,Arjun Pillai,Premium,Home & Kitchen,Induction Cooktop,North,Delhi,11836.55,3,9.4,1713.93,UPI
+ORD-00778,2023-08-19,Vinod Mehta,Premium,Grocery,Rice (5kg),West,Nagpur,1285.03,3,11.3,12.34,Cash
+ORD-00779,2023-07-08,Divya Shetty,Premium,Grocery,Biscuits Pack,North,Jaipur,10467.8,10,11.1,117.24,UPI
+ORD-00780,2024-01-25,Kamala Iyer,Premium,Electronics,Smartwatch,North,Lucknow,193183,4,11.8,10740.97,UPI
+ORD-00781,2024-08-10,Bhavna Pillai,Premium,Books,Comics,South,Hyderabad,2260.76,4,13,217.03,Cash
+ORD-00782,2024-06-12,Ravi Kumar,Premium,Sports,Badminton Racket,West,Ahmedabad,28541.11,3,12.3,5183.07,Card
+ORD-00783,2024-08-06,Manoj Banerjee,Regular,Furniture,Wardrobe,South,Hyderabad,23668.47,2,10.6,3910.03,UPI
+ORD-00784,2024-01-25,Asha Rao,Regular,Sports,Treadmill,East,Guwahati,10962.92,4,1.6,2929.29,UPI
+ORD-00785,2024-07-13,Deepak Ghosh,Premium,Clothing,Sports Shoes,East,Ranchi,2192.08,1,9.7,597.12,Card
+ORD-00786,2023-07-08,Sunil Reddy,Wholesale,Home & Kitchen,Induction Cooktop,South,Kochi,11971.67,2,24.8,258.59,Cash
+ORD-00787,2024-12-25,Ramesh Dubey,Wholesale,Sports,Jump Rope,North,Jaipur,11391.01,1,22.3,1157.33,UPI
+ORD-00788,2023-04-08,Pallavi Joshi,Premium,Grocery,Sugar,East,Ranchi,1723.55,2,15.3,-38.61,Cash
+ORD-00789,2023-03-24,Sneha Dubey,Wholesale,Electronics,Smart TV,South,Kochi,35152.48,3,63.56327064941125,-18724.32,Card
+ORD-00790,2024-08-22,Sanjay Mukherjee,Wholesale,Clothing,Formal Shirt,East,Bhubaneswar,11676.04,4,24.6,1788.77,UPI
+ORD-00791,2024-03-12,Kiran Mishra,Premium,Sports,Jump Rope,North,Amritsar,64709.03,4,12.4,11699.39,UPI
+ORD-00792,2024-02-05,Latika Gupta,Wholesale,Home & Kitchen,Water Purifier,East,Patna,2487.38,4,27.6,-1.99,Card
+ORD-00793,2023-03-24,Pallavi Kumar,Wholesale,Clothing,Kurta,South,Coimbatore,1277.31,3,29.6,144.59,UPI
+ORD-00794,2024-12-24,Geeta Verma,Regular,Home & Kitchen,Induction Cooktop,South,Bangalore,3327.47,3,6.3,564.34,UPI
+ORD-00795,2024-02-09,Naveen Verma,Regular,Home & Kitchen,Non-stick Pan,South,Bangalore,25972.97,3,6.4,4384.24,UPI
+ORD-00796,2024-08-15,Rekha Rao,Regular,Furniture,Side Table,North,Chandigarh,61991.81,3,2.2,14406.9,Cash
+ORD-00797,2024-02-13,Bhavna Mukherjee,Wholesale,Furniture,Dining Table,North,Chandigarh,5604.27,3,19.3,535.77,Cash
+ORD-00798,2023-12-30,Rajesh Mishra,Wholesale,Home & Kitchen,Water Purifier,East,Patna,4546.68,3,44.67744796907582,-3470.05,Cash
+ORD-00799,2024-06-19,Sandeep Kumar,Premium,Furniture,Cabinet,North,Lucknow,8770.96,2,15.4,1112.16,Cash
+ORD-00800,2023-04-16,Girish Saxena,Regular,Furniture,Study Table,East,Ranchi,51202.72,3,14.7,6779.24,UPI
+ORD-00801,2024-05-25,Arjun Rao,Wholesale,Books,Textbook,North,Chandigarh,5223.32,4,28.8,-158.79,Cash
+ORD-00802,2023-09-09,Sneha Chauhan,Premium,Grocery,Instant Noodles,West,Ahmedabad,2209.8,7,13.4,-15.91,UPI
+ORD-00803,2023-08-26,Praveen Chatterjee,Regular,Sports,Treadmill,West,Ahmedabad,38632.92,2,5.6,9086.46,Card
+ORD-00804,2024-01-29,Radha Verma,Premium,Home & Kitchen,Water Purifier,West,Pune,27691.41,4,16,2547.61,Card
+ORD-00805,2023-09-07,Ananya Chatterjee,Premium,Electronics,Smartphone,East,Bhubaneswar,112379.96,2,10.5,7417.08,UPI
+ORD-00806,2023-06-17,Asha Chatterjee,Wholesale,Sports,Badminton Racket,North,Jaipur,5214.57,1,73.82641133598267,-3251.71,Card
+ORD-00807,2023-01-28,Divya Verma,Premium,Grocery,Rice (5kg),North,Lucknow,3331.55,9,10.9,42.64,UPI
+ORD-00808,2024-07-28,Swati Mishra,Wholesale,Sports,Cycling Helmet,South,Chennai,17065.46,2,18.1,2307.25,UPI
+ORD-00809,2023-08-05,Amit Iyer,Premium,Home & Kitchen,Pressure Cooker,East,Ranchi,1754.73,1,15.2,172.67,UPI
+ORD-00810,2024-03-30,Harish Mukherjee,Premium,Books,Self-Help Book,East,Ranchi,368.07,1,16.1,26.21,Card
+ORD-00811,2023-05-06,Sanjay Mishra,Wholesale,Grocery,Dry Fruits,West,Pune,802.85,8,28.9,-312.43,Card
+ORD-00812,2024-05-07,Asha Chauhan,Wholesale,Furniture,Office Chair,East,Bhubaneswar,26438.17,1,19.1,2569.79,Cash
+ORD-00813,2023-01-22,Jyoti Ghosh,Premium,Clothing,Kurta,East,Bhubaneswar,10871.64,3,14.1,2578.75,Cash
+ORD-00814,2024-06-27,Manoj Banerjee,Regular,Books,Children Story,North,Chandigarh,1119.59,3,4,188.09,Card
+ORD-00815,2023-04-10,Ravi Chatterjee,Premium,Health & Beauty,Electric Toothbrush,East,Kolkata,10672.81,4,13.6,3107.92,Cash
+ORD-00816,2023-06-28,Sunil Nair,Premium,Clothing,Sports Shoes,West,Ahmedabad,1503.37,2,64.39195086844467,-2591.31,UPI
+ORD-00817,2024-09-16,Geeta Nair,Wholesale,Clothing,Kurta,South,Chennai,7106.31,3,28.5,866.97,Card
+ORD-00818,2023-03-31,Shweta Shetty,Wholesale,Health & Beauty,Hair Oil,North,Lucknow,3038.55,2,23.2,651.47,UPI
+ORD-00819,2023-03-04,Ananya Kumar,Wholesale,Clothing,Kurta,East,Patna,6690.8,4,64.07853813883906,-5770.48,Cash
+ORD-00820,2024-10-09,Shweta Shah,Premium,Clothing,Kurta,North,Chandigarh,2701.24,1,11,707.72,Cash
+ORD-00821,2024-09-26,Divya Rao,Regular,Electronics,Smartwatch,West,Ahmedabad,258992.27,4,6.1,26210.02,Cash
+ORD-00822,2024-06-21,Kavya Mukherjee,Regular,Clothing,Jacket,West,Surat,9713.62,4,15.7,2179.74,UPI
+ORD-00823,2024-07-16,Aarav Dubey,Wholesale,Clothing,Sneakers,West,Nagpur,12746.92,4,18.7,2554.48,UPI
+ORD-00824,2024-12-19,Rohit Ghosh,Wholesale,Electronics,Smart TV,East,Kolkata,250107.46,4,18.6,300.13,UPI
+ORD-00825,2023-05-27,Sanjay Tiwari,Premium,Grocery,Tea Powder,North,Amritsar,11860.88,10,17,-426.99,Cash
+ORD-00826,2024-08-18,Divya Das,Regular,Sports,Swimming Goggles,West,Surat,13105.92,3,51.636346415197416,-11292.27,UPI
+ORD-00827,2024-12-23,Deepak Agarwal,Wholesale,Home & Kitchen,Water Purifier,East,Guwahati,24568.39,4,40.4887648836323,-41813.43,Card
+ORD-00828,2024-06-12,Pallavi Dubey,Regular,Furniture,Bookshelf,South,Hyderabad,51758.36,2,6,10455.19,Card
+ORD-00829,2024-01-07,Priya Das,Wholesale,Sports,Cricket Bat,East,Guwahati,29707.24,2,24.3,2542.94,UPI
+ORD-00830,2023-07-15,Usha Iyer,Premium,Books,Cookbook,South,Hyderabad,2250.35,2,10.2,266.44,Cash
+ORD-00831,2024-06-18,Sunita Krishnan,Premium,Sports,Jump Rope,South,Kochi,43183.59,4,6.5,9845.86,Card
+ORD-00832,2024-01-02,Rajesh Iyer,Premium,Clothing,Formal Shirt,South,Chennai,8070.7,4,6.7,2392.16,Cash
+ORD-00833,2023-07-13,Kavya Patel,Wholesale,Grocery,Biscuits Pack,North,Chandigarh,577.15,2,22.9,-179.69,UPI
+ORD-00834,2024-03-21,Lakshmi Mehta,Premium,Books,Business Book,West,Nagpur,1640.91,3,9.8,199.53,Cash
+ORD-00835,2024-07-05,Harish Reddy,Wholesale,Clothing,Kurta,North,Jaipur,9037.12,2,25.6,1312.19,UPI
+ORD-00836,2024-10-12,Manoj Menon,Premium,Grocery,Sugar,South,Kochi,13053.28,10,10.9,167.08,Cash
+ORD-00837,2023-03-11,Hema Verma,Regular,Home & Kitchen,Vacuum Cleaner,West,Nagpur,27622.42,2,14.1,2961.12,Cash
+ORD-00838,2023-10-17,Geeta Kaur,Regular,Home & Kitchen,Induction Cooktop,South,Hyderabad,19813.14,2,15.1,1965.46,Card
+ORD-00839,2023-03-05,Usha Reddy,Wholesale,Home & Kitchen,Air Fryer,West,Surat,32557.82,2,15.4,3151.6,Cash
+ORD-00840,2024-12-09,Manoj Patel,Premium,Sports,Cycling Helmet,North,Chandigarh,82722.75,4,17.2,11779.72,Cash
+ORD-00841,2024-07-06,Swati Krishnan,Wholesale,Sports,Cricket Bat,South,Bangalore,8431.96,1,18.7,1099.53,Card
+ORD-00842,2023-05-13,Kiran Sharma,Premium,Health & Beauty,Perfume,West,Mumbai,6521.27,4,6.4,2274.62,Card
+ORD-00843,2024-05-15,Pooja Shetty,Wholesale,Health & Beauty,Sunscreen,East,Ranchi,764.11,4,72.06549860176924,-674.37,Card
+ORD-00844,2023-12-09,Asha Iyer,Regular,Clothing,Jeans,West,Surat,2291.31,4,66.32245791206843,-1865.67,UPI
+ORD-00845,2023-09-30,Bhavna Kaur,Wholesale,Clothing,Winter Coat,East,Patna,13364.41,4,29.6,1512.85,UPI
+ORD-00846,2024-05-09,Sneha Pillai,Wholesale,Clothing,Ethnic Wear,South,Hyderabad,2023.12,2,29.3,233.87,Card
+ORD-00847,2024-12-29,Sunita Patel,Premium,Health & Beauty,Multivitamins,North,Chandigarh,18119.44,3,5.1,6508.5,Cash
+ORD-00848,2024-09-12,Suresh Patel,Premium,Home & Kitchen,Air Fryer,East,Bhubaneswar,8293.53,3,7.6,1320.33,UPI
+ORD-00849,2024-07-24,Girish Kaur,Premium,Books,Novel,North,Chandigarh,378.53,1,17.3,23.32,Card
+ORD-00850,2024-01-11,Divya Pillai,Premium,Health & Beauty,Hair Oil,East,Guwahati,3862.46,1,17.4,1007.33,Card
+ORD-00851,2023-09-02,Aarav Shetty,Regular,Furniture,Cabinet,South,Chennai,4520.46,1,8.4,826.34,Cash
+ORD-00852,2024-05-20,Deepak Gupta,Premium,Clothing,Winter Coat,West,Pune,4836.69,1,15.1,2516.54,UPI
+ORD-00853,2024-12-20,Geeta Menon,Wholesale,Home & Kitchen,Iron Box,East,Kolkata,57388.75,4,18.9,3948.35,UPI
+ORD-00854,2023-02-22,Pallavi Ghosh,Wholesale,Health & Beauty,Perfume,East,Bhubaneswar,1674.56,3,19.8,404.57,Card
+ORD-00855,2023-09-26,Ramesh Mehta,Wholesale,Sports,Yoga Mat,East,Patna,68258.75,4,17.6,9501.62,UPI
+ORD-00856,2024-02-07,Sanjay Tiwari,Wholesale,Books,Cookbook,North,Delhi,3921.69,3,21.3,116.08,UPI
+ORD-00857,2023-05-13,Aarav Shetty,Premium,Sports,Badminton Racket,West,Ahmedabad,4248,1,14.2,706.87,UPI
+ORD-00858,2023-01-12,Girish Dubey,Premium,Furniture,Bookshelf,South,Chennai,2248.19,1,9.3,394.78,UPI
+ORD-00859,2024-12-12,Priya Shah,Wholesale,Clothing,Sports Shoes,South,Kochi,4223.09,1,24.5,650.36,UPI
+ORD-00860,2024-11-24,Divya Mehta,Regular,Furniture,Study Table,North,Chandigarh,17334.96,1,5.9,3515.53,UPI
+ORD-00861,2024-05-23,Aarav Joshi,Wholesale,Sports,Football,South,Chennai,61495.33,3,29.8,2558.21,Card
+ORD-00862,2024-02-18,Lakshmi Kumar,Premium,Sports,Jump Rope,West,Pune,23121.02,1,9.9,4642.7,UPI
+ORD-00863,2024-07-06,Ananya Chauhan,Regular,Home & Kitchen,Pressure Cooker,West,Ahmedabad,2102.9,3,8.3,323.01,UPI
+ORD-00864,2024-10-11,Ashok Das,Wholesale,Books,Children Story,South,Bangalore,4072.06,4,17.6,241.07,UPI
+ORD-00865,2023-05-05,Manoj Pillai,Wholesale,Sports,Resistance Bands,West,Nagpur,3720.1,1,16.2,559.5,Card
+ORD-00866,2023-03-08,Geeta Mukherjee,Wholesale,Health & Beauty,Perfume,East,Patna,6713.31,3,22.9,1455.45,Cash
+ORD-00867,2023-10-07,Deepak Banerjee,Wholesale,Health & Beauty,Protein Powder,East,Bhubaneswar,10411.31,4,18.3,2640.31,Cash
+ORD-00868,2023-04-03,Geeta Agarwal,Premium,Health & Beauty,Hair Oil,West,Pune,6699.48,3,11.8,2047.36,UPI
+ORD-00869,2023-09-18,Harish Dubey,Premium,Furniture,Study Table,East,Bhubaneswar,89198.63,4,12.1,13665.23,Cash
+ORD-00870,2023-09-18,Ananya Shetty,Wholesale,Home & Kitchen,Iron Box,North,Lucknow,33533.48,3,25.1,643.84,Cash
+ORD-00871,2023-01-19,Sunil Banerjee,Regular,Health & Beauty,Hair Oil,North,Delhi,934.18,1,15.4,258.58,UPI
+ORD-00872,2023-05-02,Shweta Dubey,Regular,Home & Kitchen,Non-stick Pan,South,Hyderabad,3975.85,3,4,747.46,Cash
+ORD-00873,2024-04-11,Sandeep Tiwari,Regular,Health & Beauty,Shampoo,South,Bangalore,7438.07,2,2.5,2826.47,UPI
+ORD-00874,2023-03-13,Ajay Patel,Premium,Grocery,Rice (5kg),East,Bhubaneswar,4018.46,6,12.5,0,Cash
+ORD-00875,2024-01-23,Geeta Agarwal,Regular,Furniture,Bed Frame,North,Chandigarh,103448.78,3,12.7,15351.8,UPI
+ORD-00876,2023-01-19,Jyoti Kaur,Wholesale,Books,Business Book,South,Coimbatore,170.44,1,18.6,8.73,UPI
+ORD-00877,2024-01-28,Pooja Chauhan,Premium,Health & Beauty,Sunscreen,West,Pune,4554.79,4,14.3,5033.75,Cash
+ORD-00878,2023-05-23,Divya Chatterjee,Wholesale,Furniture,Cabinet,North,Jaipur,27224.87,4,27.9,729.63,Cash
+ORD-00879,2023-02-07,Latika Chauhan,Wholesale,Books,Dictionary,South,Hyderabad,1554.01,3,29.3,-53.46,Card
+ORD-00880,2024-05-29,Rajesh Das,Wholesale,Health & Beauty,Hair Oil,South,Chennai,4247.61,2,16.9,1124.77,UPI
+ORD-00881,2023-08-10,Ramesh Gupta,Wholesale,Health & Beauty,Protein Powder,East,Ranchi,3160.86,3,23.3,675.16,UPI
+ORD-00882,2024-06-08,Priya Agarwal,Premium,Grocery,Tea Powder,East,Bhubaneswar,775.78,1,12.8,-1.86,Card
+ORD-00883,2023-11-08,Kamala Gupta,Wholesale,Clothing,Formal Shirt,West,Mumbai,926.58,1,16.7,200.51,UPI
+ORD-00884,2023-11-13,Manoj Singh,Wholesale,Books,Textbook,North,Chandigarh,1734.55,1,15.9,126.28,Cash
+ORD-00885,2023-04-04,Jyoti Ghosh,Regular,Books,Science Fiction,North,Chandigarh,1196.26,2,5.3,188.53,UPI
+ORD-00886,2023-06-17,Meera Mukherjee,Regular,Health & Beauty,Face Mask Pack,North,Jaipur,2199.33,1,16.7,585.9,UPI
+ORD-00887,2024-11-11,Amit Patel,Wholesale,Electronics,Bluetooth Speaker,West,Nagpur,120268.53,2,22.8,-3896.7,UPI
+ORD-00888,2023-10-12,Bhavna Joshi,Regular,Home & Kitchen,Microwave,East,Ranchi,1595.05,1,17.2,338.73,Card
+ORD-00889,2024-01-18,Kamala Shetty,Regular,Health & Beauty,Electric Toothbrush,West,Surat,11049.92,3,7.5,3756.97,UPI
+ORD-00890,2023-08-16,Harish Singh,Premium,Health & Beauty,Perfume,North,Delhi,549,1,8,184.46,UPI
+ORD-00891,2024-01-13,Hema Chatterjee,Wholesale,Furniture,Shoe Rack,South,Chennai,33567.01,1,28.9,631.06,Card
+ORD-00892,2024-02-03,Sanjay Saxena,Regular,Clothing,Sports Shoes,West,Surat,6508.19,3,16,1444.82,Cash
+ORD-00893,2023-03-14,Arjun Dubey,Wholesale,Clothing,Formal Shirt,West,Pune,9004.06,3,22.5,1530.69,Card
+ORD-00894,2023-06-09,Sanjay Singh,Regular,Furniture,Bookshelf,South,Kochi,123750.48,4,1,29947.62,UPI
+ORD-00895,2023-07-20,Rajesh Sharma,Wholesale,Clothing,Saree,North,Lucknow,8293.11,3,24,1310.31,Cash
+ORD-00896,2023-03-30,Kiran Sharma,Regular,Grocery,Biscuits Pack,North,Amritsar,526.94,1,19.6,-29.93,Card
+ORD-00897,2024-12-25,Kamala Kumar,Wholesale,Electronics,Router,East,Guwahati,261268.34,3,17.2,3239.73,Cash
+ORD-00898,2023-01-09,Pooja Pillai,Wholesale,Furniture,Shoe Rack,West,Mumbai,22277.72,1,27.5,668.33,UPI
+ORD-00899,2023-11-12,Naveen Kaur,Premium,Electronics,Smart TV,West,Pune,20520.75,2,12.8,976.79,Cash
+ORD-00900,2023-04-28,Sunita Reddy,Regular,Home & Kitchen,Mixer Grinder,North,Chandigarh,46516.47,3,16.2,4205.09,Card
+ORD-00901,2023-07-25,Praveen Pillai,Wholesale,Sports,Treadmill,North,Delhi,9808.72,2,22.6,973.03,UPI
+ORD-00902,2024-08-10,Ravi Gupta,Premium,Health & Beauty,Shampoo,East,Patna,2660.81,4,17.3,696.07,UPI
+ORD-00903,2024-01-24,Swati Banerjee,Wholesale,Electronics,Tablet,North,Chandigarh,44816.7,2,16.8,699.14,Card
+ORD-00904,2024-12-29,Ananya Reddy,Regular,Health & Beauty,Multivitamins,East,Guwahati,10316.77,2,9.8,3317.87,Card
+ORD-00905,2023-12-23,Ashok Chatterjee,Premium,Health & Beauty,Electric Toothbrush,South,Bangalore,5946.58,2,15.1,1660.29,UPI
+ORD-00906,2023-10-01,Nisha Krishnan,Premium,Books,Dictionary,North,Lucknow,453.3,2,17.3,27.92,Card
+ORD-00907,2023-12-30,Ajay Mehta,Regular,Books,Comics,West,Ahmedabad,1160.61,1,17.9,65.92,Cash
+ORD-00908,2023-09-11,Usha Iyer,Wholesale,Electronics,Bluetooth Speaker,East,Bhubaneswar,20136.45,1,27.8,-1457.88,Cash
+ORD-00909,2024-08-16,Ashok Nair,Premium,Books,Novel,East,Kolkata,230.04,1,56.241970119091064,-284.92,UPI
+ORD-00910,2024-04-26,Ajay Menon,Wholesale,Grocery,Biscuits Pack,West,Mumbai,989.58,2,18.8,-49.87,UPI
+ORD-00911,2023-02-18,Arjun Nair,Regular,Sports,Football,West,Mumbai,9976.03,4,15,1596.16,UPI
+ORD-00912,2024-03-15,Ramesh Ghosh,Premium,Grocery,Sugar,East,Guwahati,1264.16,2,17.6,-51.58,UPI
+ORD-00913,2023-09-20,Aarav Tiwari,Premium,Sports,Football,West,Ahmedabad,1412.33,3,12.1,258.74,UPI
+ORD-00914,2024-01-24,Hema Patel,Premium,Home & Kitchen,Vacuum Cleaner,South,Kochi,14405.81,1,7.7,2281.88,Card
+ORD-00915,2024-08-27,Usha Menon,Premium,Home & Kitchen,Non-stick Pan,North,Amritsar,2701.09,1,5.4,477.55,UPI
+ORD-00916,2024-06-05,Manoj Reddy,Regular,Health & Beauty,Electric Toothbrush,North,Chandigarh,1518.16,2,6,534.39,Card
+ORD-00917,2023-12-03,Lakshmi Nair,Premium,Books,Science Fiction,West,Mumbai,6650.31,3,10.1,792.72,UPI
+ORD-00918,2024-02-01,Amit Verma,Premium,Books,Novel,South,Bangalore,813.54,1,8.8,105.43,UPI
+ORD-00919,2023-12-06,Pallavi Dubey,Regular,Books,Self-Help Book,North,Chandigarh,589.25,4,12.2,60.34,Card
+ORD-00920,2024-10-23,Kiran Bose,Wholesale,Furniture,Sofa Set,South,Coimbatore,59319.71,2,27.1,5211.12,UPI
+ORD-00921,2023-06-24,Ajay Kumar,Premium,Sports,Treadmill,West,Pune,20451.4,1,17.3,2895.92,Card
+ORD-00922,2024-08-06,Ashok Sharma,Wholesale,Clothing,Jacket,South,Chennai,10228.8,2,25.9,1460.67,Card
+ORD-00923,2024-03-23,Arjun Nair,Premium,Home & Kitchen,Pressure Cooker,West,Mumbai,18001.66,1,16.5,1584.15,UPI
+ORD-00924,2024-12-03,Manoj Rao,Premium,Electronics,Smart TV,West,Pune,77881.69,1,10.1,5389.41,Cash
+ORD-00925,2023-07-08,Rekha Saxena,Premium,Sports,Badminton Racket,South,Chennai,37453.28,4,10,7490.66,UPI
+ORD-00926,2023-06-27,Girish Shah,Wholesale,Home & Kitchen,Air Fryer,West,Ahmedabad,29589.42,2,17.2,2438.17,UPI
+ORD-00927,2023-07-06,Mohan Shetty,Premium,Books,Dictionary,North,Jaipur,661.41,4,5.7,102.12,Cash
+ORD-00928,2023-10-12,Pooja Ghosh,Premium,Sports,Football,West,Pune,120550.83,4,5.7,28257.11,UPI
+ORD-00929,2023-06-26,Shweta Ghosh,Regular,Home & Kitchen,Pressure Cooker,East,Kolkata,19081.17,1,4.2,3556.73,UPI
+ORD-00930,2023-08-10,Radha Kumar,Wholesale,Sports,Jump Rope,East,Bhubaneswar,44297.55,2,16,6733.23,Card
+ORD-00931,2023-07-13,Aarav Chauhan,Regular,Furniture,Cabinet,East,Patna,101261.5,4,15.9,12434.91,Card
+ORD-00932,2024-06-27,Girish Bose,Wholesale,Furniture,Dining Table,North,Jaipur,10877.67,1,26.3,430.76,UPI
+ORD-00933,2024-01-14,Girish Dubey,Wholesale,Electronics,Tablet,East,Guwahati,17885.39,1,16.5,321.94,Cash
+ORD-00934,2024-09-02,Naveen Sharma,Regular,Sports,Cycling Helmet,East,Patna,46040.28,2,1.5,12338.8,UPI
+ORD-00935,2023-05-18,Vijay Shah,Premium,Sports,Treadmill,West,Ahmedabad,28434.66,2,5,6824.32,Cash
+ORD-00936,2024-06-23,Aarav Mukherjee,Wholesale,Electronics,Tablet,South,Chennai,8999.93,2,19.4,-46.8,UPI
+ORD-00937,2023-08-07,Naveen Tiwari,Regular,Grocery,Wheat Flour,North,Amritsar,1030.44,1,18.5,-49.46,Card
+ORD-00938,2024-08-01,Girish Patel,Wholesale,Home & Kitchen,Non-stick Pan,West,Surat,60033.04,4,25,1200.66,UPI
+ORD-00939,2023-05-12,Sunil Singh,Wholesale,Sports,Resistance Bands,South,Bangalore,3950.38,2,23.9,350.79,Card
+ORD-00940,2023-05-18,Priya Das,Premium,Sports,Cycling Helmet,West,Mumbai,28932.82,2,14.5,4744.98,UPI
+ORD-00941,2023-07-14,Rohit Reddy,Regular,Electronics,Gaming Console,West,Surat,40291.37,1,16.8,628.55,Cash
+ORD-00942,2024-10-19,Sneha Gupta,Premium,Grocery,Wheat Flour,East,Ranchi,1276.32,2,11.2,13.27,UPI
+ORD-00943,2024-02-18,Rekha Joshi,Wholesale,Health & Beauty,Face Mask Pack,East,Patna,1611.15,1,18.1,411.17,Cash
+ORD-00944,2023-11-28,Ananya Sharma,Premium,Home & Kitchen,Water Purifier,East,Patna,18769.33,1,12.3,2282.35,UPI
+ORD-00945,2024-12-18,Pooja Mishra,Wholesale,Home & Kitchen,Vacuum Cleaner,West,Nagpur,96266.5,4,19.5,6161.06,Card
+ORD-00946,2024-05-29,Saritha Das,Premium,Furniture,Wardrobe,East,Ranchi,33138.53,2,13,4838.23,Cash
+ORD-00947,2023-08-20,Hema Saxena,Regular,Clothing,Kurta,South,Hyderabad,2066.69,1,51.62197736849714,-2094.66,Cash
+ORD-00948,2023-04-20,Meera Patel,Regular,Clothing,Saree,North,Chandigarh,988.91,1,40.16799129268698,-1733.93,UPI
+ORD-00949,2024-06-29,Sunita Banerjee,Premium,Clothing,Formal Shirt,South,Bangalore,5741.71,1,9.2,1587.01,UPI
+ORD-00950,2024-03-24,Kamala Ghosh,Regular,Furniture,Wardrobe,North,Delhi,121092.34,3,1.3,29013.72,UPI
+ORD-00951,2023-02-22,Shweta Sharma,Wholesale,Home & Kitchen,Pressure Cooker,East,Kolkata,20746.61,2,24,580.91,UPI
+ORD-00952,2024-05-30,Kavya Verma,Premium,Furniture,Dining Table,West,Pune,6006.29,3,12.8,886.53,UPI
+ORD-00953,2023-04-08,Shweta Das,Premium,Clothing,Formal Shirt,South,Coimbatore,22265.9,4,15.3,5067.72,Card
+ORD-00954,2023-09-05,Ajay Mukherjee,Premium,Health & Beauty,Hair Oil,North,Jaipur,5085.78,3,9.3,1655.93,UPI
+ORD-00955,2023-07-19,Pallavi Ghosh,Wholesale,Grocery,Rice (5kg),South,Chennai,106.89,3,40.872394530256926,-188.04,UPI
+ORD-00956,2023-01-31,Nisha Kaur,Regular,Electronics,Bluetooth Speaker,North,Jaipur,32820.03,4,8.3,2743.75,UPI
+ORD-00957,2023-09-05,Ajay Das,Wholesale,Sports,Jump Rope,South,Coimbatore,75351.93,4,24.9,19948.74,Card
+ORD-00958,2024-10-29,Latika Menon,Wholesale,Home & Kitchen,Mixer Grinder,East,Ranchi,21464.31,3,30,-429.29,Card
+ORD-00959,2023-05-29,Vinod Kaur,Regular,Books,Cookbook,West,Nagpur,106.59,1,11.4,11.6,Cash
+ORD-00960,2024-10-25,Deepak Gupta,Premium,Health & Beauty,Face Cream,North,Delhi,6760.36,3,44.24193365749192,-13205.45,UPI
+ORD-00961,2023-08-19,Rajesh Patel,Regular,Clothing,Saree,South,Chennai,3268.43,1,8,934.77,UPI
+ORD-00962,2024-04-29,Manoj Kumar,Regular,Health & Beauty,Hair Oil,South,Coimbatore,11732.48,4,41.687267045137936,-9210.18,Card
+ORD-00963,2023-10-11,Nisha Banerjee,Regular,Furniture,Office Chair,South,Kochi,2154.45,1,59.82515069204257,-2726.04,Cash
+ORD-00964,2023-05-08,Latika Gupta,Regular,Home & Kitchen,Iron Box,North,Lucknow,39439.51,2,7.8,6215.67,UPI
+ORD-00965,2024-04-05,Kavya Rao,Premium,Electronics,Headphones,South,Hyderabad,49337.44,4,11.1,3019.45,UPI
+ORD-00966,2023-03-24,Radha Chauhan,Premium,Furniture,Wardrobe,East,Bhubaneswar,33152.97,3,5.5,6829.51,UPI
+ORD-00967,2023-02-03,Girish Menon,Regular,Furniture,Study Table,North,Jaipur,69566.69,2,12.3,10546.31,Cash
+ORD-00968,2023-09-11,Radha Krishnan,Regular,Health & Beauty,Protein Powder,West,Surat,1982.11,1,2,761.13,UPI
+ORD-00969,2024-12-20,Harish Bose,Wholesale,Grocery,Pulses Mix,East,Guwahati,1444.18,2,29,-190.63,UPI
+ORD-00970,2024-07-16,Amit Reddy,Regular,Electronics,Smartwatch,North,Jaipur,92650.79,2,6.7,8931.54,Card
+ORD-00971,2023-01-05,Deepak Gupta,Regular,Health & Beauty,Perfume,South,Chennai,2397.99,4,12.1,727.07,UPI
+ORD-00972,2024-12-09,Ashok Mehta,Premium,Home & Kitchen,Non-stick Pan,East,Patna,12289.41,2,72.96930073538218,-6485.07,Cash
+ORD-00973,2024-12-20,Usha Tiwari,Premium,Grocery,Cooking Oil,East,Bhubaneswar,5328.62,3,13.1,-25.58,Card
+ORD-00974,2024-03-02,Sunil Dubey,Premium,Electronics,Router,West,Surat,112975.28,4,6.3,11252.34,Card
+ORD-00975,2023-09-23,Arjun Kumar,Wholesale,Furniture,Bookshelf,East,Guwahati,4366.3,1,55.44409348323579,-8843.68,UPI
+ORD-00976,2023-06-09,Manjula Ghosh,Premium,Grocery,Pulses Mix,South,Coimbatore,2012.85,10,10.5,32.21,Cash
+ORD-00977,2023-11-03,Kavya Agarwal,Regular,Electronics,Headphones,North,Lucknow,93234.1,3,4.1,10927.04,UPI
+ORD-00978,2024-10-17,Meera Chatterjee,Regular,Electronics,Smart TV,South,Coimbatore,126319.46,4,13,19072.43,Card
+ORD-00979,2023-09-10,Ramesh Sharma,Regular,Furniture,Bookshelf,North,Chandigarh,84422.05,2,16.2,10164.41,UPI
+ORD-00980,2023-09-25,Shweta Kaur,Regular,Electronics,Smartphone,North,Jaipur,73704.92,2,14.8,2329.08,Cash
+ORD-00981,2024-10-01,Vijay Nair,Premium,Grocery,Cooking Oil,North,Amritsar,12137.43,9,8.7,368.98,UPI
+ORD-00982,2024-06-03,Sunil Verma,Premium,Books,Cookbook,South,Chennai,148.02,1,72.21852470661923,-122.91,UPI
+ORD-00983,2024-08-10,Praveen Verma,Wholesale,Books,Children Story,North,Jaipur,3973.12,4,21.6,108.07,Cash
+ORD-00984,2024-12-14,Sunita Dubey,Wholesale,Clothing,Formal Shirt,East,Patna,4316.05,2,15.1,989.24,Card
+ORD-00985,2024-04-05,Naveen Tiwari,Wholesale,Grocery,Cooking Oil,South,Chennai,9091.93,10,20.7,-596.43,UPI
+ORD-00986,2024-08-20,Rajesh Agarwal,Wholesale,Furniture,Sofa Set,South,Bangalore,47026.57,2,24,2727.54,UPI
+ORD-00987,2023-09-15,Sanjay Nair,Wholesale,Sports,Dumbbells Set,North,Amritsar,66648.91,4,21.2,7358.04,Card
+ORD-00988,2024-06-12,Manoj Rao,Premium,Furniture,Side Table,East,Bhubaneswar,56421.48,4,10.9,9185.42,UPI
+ORD-00989,2024-06-02,Bhavna Kaur,Wholesale,Electronics,Headphones,South,Coimbatore,14729.68,1,24.3,-654,UPI
+ORD-00990,2023-07-11,Anil Mishra,Premium,Furniture,Study Table,North,Amritsar,9540.94,1,12.2,1454.04,Cash
+ORD-00991,2024-11-14,Sanjay Agarwal,Regular,Furniture,Sofa Set,West,Nagpur,5860.95,4,50.75938864029614,-11354.76,Card
+ORD-00992,2024-10-07,Sneha Nair,Wholesale,Home & Kitchen,Microwave,North,Jaipur,94700.89,4,16.1,8636.72,Card
+ORD-00993,2024-07-13,Rohit Sharma,Regular,Clothing,Sneakers,North,Lucknow,10503.13,2,8.2,2987.09,UPI
+ORD-00994,2023-10-08,Sneha Mishra,Regular,Books,Business Book,West,Ahmedabad,1179.51,2,2.7,210.42,UPI
+ORD-00995,2023-05-20,Sanjay Bose,Regular,Electronics,Laptop,North,Lucknow,48302.83,1,10.1,3342.56,UPI
+ORD-00996,2023-03-18,Deepak Kaur,Wholesale,Sports,Resistance Bands,South,Coimbatore,54421.03,3,15.2,8620.29,UPI
+ORD-00997,2023-11-08,Geeta Singh,Premium,Sports,Cycling Helmet,South,Coimbatore,140164.35,4,9.6,28481.4,Cash
+ORD-00998,2024-02-19,Kiran Singh,Wholesale,Furniture,Bed Frame,East,Guwahati,11081.66,2,15.2,1422.89,UPI
+ORD-00999,2023-08-19,Nisha Mukherjee,Regular,Grocery,Sugar,West,Surat,8833.26,8,0.3,862.13,Cash
+ORD-01000,2023-05-18,Hema Saxena,Wholesale,Sports,Yoga Mat,West,Ahmedabad,8470.3,1,24.4,718.28,Cash
+ORD-01001,2024-08-15,Anil Tiwari,Wholesale,Grocery,Instant Noodles,South,Bangalore,2266.45,7,15.9,-61.65,UPI
+ORD-01002,2024-06-30,Arjun Mehta,Wholesale,Grocery,Pulses Mix,South,Kochi,3843.89,9,28,-476.64,UPI
+ORD-01003,2024-01-05,Bhavna Rao,Premium,Clothing,T-Shirt,East,Ranchi,5138.24,1,17.7,1070.81,Card
+ORD-01004,2024-11-29,Ravi Menon,Regular,Clothing,Winter Coat,East,Kolkata,22979.54,4,9.4,6314.78,Cash
+ORD-01005,2024-04-16,Divya Ghosh,Premium,Grocery,Cooking Oil,North,Delhi,8442.46,8,5.9,445.76,Card
+ORD-01006,2023-05-19,Nisha Patel,Premium,Clothing,Sneakers,South,Chennai,1723.97,2,47.556944867721974,-1178.68,Cash
+ORD-01007,2023-12-23,Sanjay Kaur,Wholesale,Books,Children Story,West,Pune,670.12,1,27.8,-15.01,Card
+ORD-01008,2024-12-24,Swati Tiwari,Premium,Books,Cookbook,South,Chennai,6027.13,3,7.1,863.09,UPI
+ORD-01009,2023-12-12,Pooja Shetty,Wholesale,Books,Textbook,West,Surat,4672.09,2,17.2,291.54,Cash
+ORD-01010,2023-11-29,Aarav Pillai,Premium,Books,Comics,South,Hyderabad,2549.91,2,43.51074239206718,-4862.86,Cash
+ORD-01011,2024-02-29,Priya Gupta,Premium,Home & Kitchen,Induction Cooktop,North,Lucknow,77342.45,4,9,11446.68,Cash
+ORD-01012,2024-11-09,Girish Mishra,Wholesale,Electronics,Tablet,North,Amritsar,21339.03,1,28.2,-1613.23,UPI
+ORD-01013,2024-03-18,Praveen Dubey,Regular,Sports,Resistance Bands,North,Lucknow,184.3,1,48.353931895739876,-190.48,Cash
+ORD-01014,2023-12-01,Meera Mukherjee,Regular,Grocery,Tea Powder,East,Guwahati,10607.41,6,3.1,797.68,Card
+ORD-01015,2024-10-11,Hema Mishra,Wholesale,Electronics,Laptop,West,Ahmedabad,65716.12,1,17.4,709.73,UPI
+ORD-01016,2023-01-08,Geeta Kumar,Wholesale,Books,Cookbook,North,Amritsar,2628,2,27.6,-54.66,Cash
+ORD-01017,2023-02-12,Aarav Kumar,Regular,Home & Kitchen,Non-stick Pan,North,Chandigarh,24154.61,2,10.9,3207.73,Cash
+ORD-01018,2024-10-05,Bhavna Mishra,Premium,Clothing,Jacket,South,Chennai,16605.08,2,8.5,4682.63,UPI
+ORD-01019,2023-10-14,Naveen Ghosh,Regular,Sports,Treadmill,East,Ranchi,56027.77,3,3.2,14253.46,UPI
+ORD-01020,2023-08-22,Priya Pillai,Premium,Health & Beauty,Hair Oil,South,Coimbatore,642.51,1,6.8,222.05,UPI
+ORD-01021,2024-06-26,Divya Nair,Wholesale,Furniture,Study Table,East,Kolkata,5846.61,4,19,572.97,UPI
+ORD-01022,2023-12-24,Vinod Rao,Wholesale,Furniture,Office Chair,South,Bangalore,6022.55,2,19.5,566.12,UPI
+ORD-01023,2024-02-28,Jyoti Kaur,Regular,Books,Cookbook,South,Chennai,4463.35,3,3.5,767.7,UPI
+ORD-01024,2023-01-30,Ravi Tiwari,Wholesale,Clothing,Sports Shoes,North,Lucknow,655.94,1,27,87.9,Card
+ORD-01025,2024-01-15,Suresh Singh,Wholesale,Home & Kitchen,Pressure Cooker,North,Chandigarh,21215.11,3,16.4,1883.9,Card
+ORD-01026,2023-06-13,Bhavna Tiwari,Premium,Furniture,Study Table,West,Nagpur,35311.39,3,70.91361196260289,-42856.39,Cash
+ORD-01027,2024-12-23,Anil Nair,Regular,Health & Beauty,Multivitamins,North,Lucknow,12765.14,3,2,4901.81,Cash
+ORD-01028,2024-04-26,Swati Dubey,Wholesale,Furniture,Side Table,North,Amritsar,8370.85,1,59.29343722713368,-14623.21,Card
+ORD-01029,2023-04-27,Naveen Mishra,Premium,Health & Beauty,Hair Oil,East,Patna,5404.99,2,8.2,1807.43,Cash
+ORD-01030,2023-08-19,Manoj Kumar,Regular,Books,Self-Help Book,West,Mumbai,700.9,2,18.6,35.89,UPI
+ORD-01031,2023-07-05,Pallavi Reddy,Regular,Clothing,Jeans,West,Pune,2760.42,3,2.5,910.94,Cash
+ORD-01032,2024-06-25,Bhavna Bose,Premium,Electronics,Camera,East,Ranchi,195163.69,4,6.1,19750.57,UPI
+ORD-01033,2023-03-27,Ananya Sharma,Regular,Sports,Jump Rope,East,Patna,18467.44,4,16.2,2777.5,UPI
+ORD-01034,2024-03-14,Manoj Kaur,Regular,Books,Novel,East,Ranchi,2986.16,2,14.1,260.39,Cash
+ORD-01035,2023-03-04,Sunil Mishra,Premium,Books,Self-Help Book,West,Surat,1333.44,1,9.1,169.61,Card
+ORD-01036,2024-07-18,Ramesh Verma,Regular,Sports,Cycling Helmet,East,Guwahati,5801.09,2,13.5,997.79,Cash
+ORD-01037,2023-11-01,Ananya Chauhan,Regular,Books,Self-Help Book,South,Coimbatore,3192.17,2,11,357.52,UPI
+ORD-01038,2024-10-21,Sunita Banerjee,Wholesale,Home & Kitchen,Pressure Cooker,East,Kolkata,16205.22,1,27,64.82,UPI
+ORD-01039,2023-01-08,Sanjay Banerjee,Wholesale,Health & Beauty,Essential Oils,East,Guwahati,8347.79,4,23,1803.12,Cash
+ORD-01040,2024-06-29,Anil Ghosh,Wholesale,Books,Novel,North,Jaipur,1460.94,3,18.7,73.63,Card
+ORD-01041,2024-06-05,Sanjay Reddy,Wholesale,Health & Beauty,Essential Oils,South,Bangalore,1028.6,1,24,213.95,UPI
+ORD-01042,2024-10-15,Asha Agarwal,Premium,Grocery,Wheat Flour,North,Amritsar,3062.47,7,17.2,-115.15,UPI
+ORD-01043,2023-08-22,Hema Menon,Regular,Grocery,Rice (5kg),North,Chandigarh,289.3,1,10.5,4.63,UPI
+ORD-01044,2023-04-28,Pallavi Chauhan,Premium,Books,Dictionary,South,Coimbatore,3462.75,3,9,443.23,Card
+ORD-01045,2023-08-22,Naveen Krishnan,Regular,Furniture,Wardrobe,East,Ranchi,44120.12,2,48.85789190642887,-24319.62,UPI
+ORD-01046,2024-07-18,Shweta Rao,Wholesale,Electronics,Headphones,East,Kolkata,10497.81,1,26.7,-667.66,Card
+ORD-01047,2024-06-16,Bhavna Agarwal,Premium,Home & Kitchen,Microwave,West,Mumbai,7666.97,3,11.4,987.51,Card
+ORD-01048,2024-10-08,Shweta Nair,Wholesale,Furniture,Bed Frame,North,Lucknow,11557,3,27.3,365.2,Cash
+ORD-01049,2023-08-16,Vinod Shetty,Regular,Health & Beauty,Electric Toothbrush,East,Bhubaneswar,14505.2,4,15.3,4026.64,UPI
+ORD-01050,2024-06-18,Saritha Mukherjee,Premium,Home & Kitchen,Pressure Cooker,East,Bhubaneswar,58510.19,4,5.9,10110.56,Cash
+ORD-01051,2023-01-28,Naveen Das,Premium,Sports,Cricket Bat,North,Lucknow,18826.24,3,67.78540831375375,-32424.43,Cash
+ORD-01052,2024-05-05,Sneha Kaur,Wholesale,Electronics,Smartphone,West,Mumbai,19023.58,3,24.3,-844.65,UPI
+ORD-01053,2024-03-14,Girish Saxena,Premium,Sports,Football,East,Kolkata,3225.83,2,11.4,609.04,Cash
+ORD-01054,2024-12-29,Sunil Tiwari,Regular,Books,Dictionary,North,Chandigarh,1723.4,1,8.8,223.35,Card
+ORD-01055,2024-06-21,Sneha Ghosh,Premium,Electronics,Smartphone,West,Surat,57920.01,1,6,5907.84,UPI
+ORD-01056,2023-08-19,Vinod Tiwari,Regular,Health & Beauty,Protein Powder,North,Lucknow,6800.33,3,1.6,2633.09,UPI
+ORD-01057,2023-08-22,Anil Menon,Wholesale,Clothing,Jeans,East,Kolkata,5859.31,3,21.7,1033.58,UPI
+ORD-01058,2023-11-07,Suresh Krishnan,Wholesale,Electronics,Bluetooth Speaker,West,Nagpur,99579.8,3,17.9,677.14,Card
+ORD-01059,2024-08-23,Asha Pillai,Wholesale,Sports,Treadmill,East,Patna,65660.29,4,21.1,7301.42,Cash
+ORD-01060,2023-03-03,Ravi Shetty,Regular,Sports,Swimming Goggles,North,Amritsar,55300.33,2,3.8,13802.96,Card
+ORD-01061,2023-08-31,Jyoti Dubey,Regular,Clothing,Sports Shoes,North,Chandigarh,3190.21,3,13.3,777.14,Cash
+ORD-01062,2023-05-20,Sunil Chatterjee,Regular,Books,Novel,West,Surat,3574.31,4,10.5,414.62,UPI
+ORD-01063,2023-04-15,Bhavna Agarwal,Wholesale,Books,Textbook,West,Mumbai,2565.65,2,23,41.05,UPI
+ORD-01064,2024-11-03,Ananya Nair,Premium,Sports,Dumbbells Set,North,Jaipur,84048.56,4,9.8,45879.41,Card
+ORD-01065,2023-01-16,Rohit Menon,Premium,Furniture,Office Chair,East,Ranchi,115327.81,3,16.2,13885.47,Cash
+ORD-01066,2024-09-01,Geeta Verma,Premium,Electronics,Smart TV,East,Ranchi,17940.06,1,12.6,882.65,Cash
+ORD-01067,2023-06-13,Ajay Pillai,Premium,Furniture,Sofa Set,West,Pune,36982.42,1,12.9,5429.02,Cash
+ORD-01068,2023-03-03,Latika Das,Regular,Grocery,Dry Fruits,West,Nagpur,3622.3,3,12.1,11.59,Card
+ORD-01069,2023-08-13,Shweta Banerjee,Premium,Furniture,Side Table,West,Mumbai,35505.99,3,9.1,6291.66,UPI
+ORD-01070,2023-09-01,Harish Singh,Wholesale,Furniture,Side Table,South,Chennai,116439.03,4,43.6051967319681,-107248.89,UPI
+ORD-01071,2023-09-25,Sunil Mehta,Regular,Clothing,Jeans,West,Mumbai,6556.78,2,0,2294.87,Cash
+ORD-01072,2023-10-14,Girish Agarwal,Regular,Clothing,Jacket,South,Chennai,4777.86,3,18.2,976.59,UPI
+ORD-01073,2023-11-13,Manjula Menon,Wholesale,Health & Beauty,Face Mask Pack,West,Mumbai,12354.58,4,29.8,1996.5,Cash
+ORD-01074,2023-04-26,Divya Verma,Premium,Books,Children Story,South,Kochi,2255.43,2,7.2,321.17,Cash
+ORD-01075,2024-07-20,Sanjay Iyer,Premium,Sports,Swimming Goggles,West,Nagpur,62723.2,4,11.8,11641.43,Cash
+ORD-01076,2023-12-09,Kiran Krishnan,Premium,Books,Dictionary,South,Bangalore,7383.43,3,8.3,986.43,UPI
+ORD-01077,2023-05-31,Hema Menon,Wholesale,Sports,Dumbbells Set,West,Mumbai,4587.6,1,17.4,645.93,UPI
+ORD-01078,2024-07-21,Sunita Menon,Wholesale,Health & Beauty,Multivitamins,West,Nagpur,12074.1,4,22.6,2646.64,UPI
+ORD-01079,2023-01-20,Rajesh Mehta,Regular,Health & Beauty,Electric Toothbrush,North,Jaipur,4242.95,4,40.58022242421372,-6336.93,Cash
+ORD-01080,2024-05-31,Manjula Singh,Wholesale,Clothing,Kurta,South,Bangalore,2030.09,2,27.7,260.66,UPI
+ORD-01081,2023-09-11,Aarav Saxena,Premium,Furniture,Shoe Rack,West,Nagpur,40558.75,3,11.4,23197.94,UPI
+ORD-01082,2023-10-07,Bhavna Shetty,Wholesale,Home & Kitchen,Pressure Cooker,East,Ranchi,51996.02,4,23.7,1580.68,Card
+ORD-01083,2024-02-25,Sunil Verma,Wholesale,Books,Novel,West,Mumbai,1433.07,2,19.9,58.47,Card
+ORD-01084,2023-11-12,Mohan Dubey,Regular,Grocery,Pulses Mix,North,Lucknow,1214.72,2,7,53.45,UPI
+ORD-01085,2024-07-23,Sandeep Verma,Regular,Furniture,Bed Frame,North,Jaipur,27254.38,1,19.8,2496.5,Cash
+ORD-01086,2023-04-02,Shweta Tiwari,Wholesale,Sports,Resistance Bands,South,Kochi,31442.89,2,19.7,3848.61,Card
+ORD-01087,2024-11-23,Usha Dubey,Wholesale,Sports,Football,East,Kolkata,54003.92,3,19.2,6826.1,Card
+ORD-01088,2023-07-07,Girish Shetty,Premium,Clothing,Sports Shoes,South,Chennai,1304.18,1,12.5,326.05,Card
+ORD-01089,2024-10-28,Manoj Agarwal,Regular,Furniture,Bed Frame,East,Kolkata,57779.86,2,0.3,38465.95,Cash
+ORD-01090,2024-09-13,Ashok Mishra,Premium,Electronics,Gaming Console,North,Jaipur,153445.63,2,8.5,12582.54,UPI
+ORD-01091,2024-07-29,Meera Reddy,Wholesale,Books,Dictionary,South,Coimbatore,1770.12,2,16.3,123.2,Card
+ORD-01092,2023-01-08,Ananya Pillai,Regular,Sports,Badminton Racket,West,Pune,39236.38,4,15.4,6152.26,UPI
+ORD-01093,2023-01-20,Divya Chatterjee,Regular,Furniture,Bookshelf,West,Pune,166427.2,4,15.2,21369.25,UPI
+ORD-01094,2023-01-21,Amit Kumar,Regular,Furniture,Bookshelf,East,Bhubaneswar,11046.71,1,7.1,2134.22,Card
+ORD-01095,2024-07-27,Pooja Mehta,Regular,Home & Kitchen,Pressure Cooker,North,Lucknow,33956.9,3,3.9,6411.06,UPI
+ORD-01096,2024-06-29,Hema Verma,Wholesale,Electronics,Router,West,Nagpur,30393.23,3,21.2,-595.71,UPI
+ORD-01097,2024-03-06,Ananya Kumar,Premium,Clothing,Formal Shirt,West,Surat,4832.02,1,16.8,1041.78,UPI
+ORD-01098,2023-10-11,Anil Reddy,Premium,Furniture,Wardrobe,North,Jaipur,67176.62,3,13.4,9592.82,Card
+ORD-01099,2023-10-02,Lakshmi Verma,Wholesale,Books,Cookbook,North,Amritsar,2481.45,3,18.4,131.02,UPI
+ORD-01100,2024-08-28,Nisha Saxena,Premium,Books,Children Story,West,Mumbai,1114.92,3,6.2,167.68,Cash
+ORD-01101,2024-03-25,Manoj Ghosh,Wholesale,Electronics,Bluetooth Speaker,West,Ahmedabad,93675.43,2,18.8,-37.47,Cash
+ORD-01102,2023-09-19,Vikram Mukherjee,Premium,Sports,Jump Rope,East,Patna,19314.69,1,10.3,3816.58,UPI
+ORD-01103,2024-11-25,Rekha Krishnan,Premium,Clothing,Winter Coat,East,Kolkata,2294.43,2,74.87147571999373,-2384.4,Card
+ORD-01104,2023-08-21,Anil Sharma,Regular,Electronics,Gaming Console,West,Mumbai,21931.88,2,62.331196302182235,-26958.22,UPI
+ORD-01105,2024-04-17,Swati Rao,Premium,Health & Beauty,Sunscreen,North,Chandigarh,4319.88,1,10.4,1368.54,Cash
+ORD-01106,2024-09-15,Anil Das,Regular,Furniture,Wardrobe,East,Guwahati,59563.35,4,11.7,9315.71,Card
+ORD-01107,2024-07-08,Priya Krishnan,Regular,Electronics,Smartwatch,West,Nagpur,69478.94,4,48.42325248583676,-42240.1,UPI
+ORD-01108,2023-11-13,Meera Shetty,Regular,Furniture,Wardrobe,East,Guwahati,12852.3,1,0.9,3120.54,UPI
+ORD-01109,2024-04-05,Sunil Agarwal,Premium,Sports,Cycling Helmet,West,Pune,12129.27,4,61.040952251469065,-13066.6,Card
+ORD-01110,2024-08-14,Vinod Kumar,Wholesale,Health & Beauty,Essential Oils,West,Nagpur,1430.74,4,16.1,388.02,UPI
+ORD-01111,2024-03-31,Latika Ghosh,Premium,Electronics,Camera,South,Hyderabad,143107.94,4,10.2,9788.58,Card
+ORD-01112,2023-10-16,Kavya Patel,Wholesale,Health & Beauty,Sunscreen,West,Ahmedabad,2434.8,2,61.14122547181738,-2665.54,Card
+ORD-01113,2023-02-24,Divya Banerjee,Premium,Sports,Cycling Helmet,East,Ranchi,26008.13,2,7.8,5659.37,Cash
+ORD-01114,2023-04-28,Geeta Singh,Premium,Electronics,Camera,West,Nagpur,86218.12,2,12.7,4172.96,Card
+ORD-01115,2023-03-20,Sunita Bose,Wholesale,Health & Beauty,Perfume,West,Mumbai,3132.38,2,16.9,829.45,Card
+ORD-01116,2023-03-01,Ashok Chauhan,Premium,Furniture,Study Table,West,Pune,13280.26,1,55.27455186863455,-26117.92,UPI
+ORD-01117,2023-08-08,Pallavi Dubey,Premium,Grocery,Cooking Oil,West,Ahmedabad,372.33,6,54.74357146152258,-400.11,Card
+ORD-01118,2023-05-27,Usha Singh,Regular,Home & Kitchen,Non-stick Pan,North,Chandigarh,53017.16,4,8.3,8143.44,Card
+ORD-01119,2024-02-02,Kamala Bose,Premium,Sports,Cricket Bat,North,Amritsar,21976.48,2,15.1,3498.66,Cash
+ORD-01120,2024-10-09,Jyoti Rao,Regular,Home & Kitchen,Induction Cooktop,South,Hyderabad,69484.99,3,0.3,15119.93,Card
+ORD-01121,2024-10-24,Praveen Agarwal,Wholesale,Books,Cookbook,South,Chennai,1656.7,4,25.8,-10.6,UPI
+ORD-01122,2023-11-26,Pooja Sharma,Premium,Furniture,Bed Frame,North,Lucknow,169708.38,3,15.5,21383.26,Cash
+ORD-01123,2024-09-16,Swati Tiwari,Wholesale,Furniture,Sofa Set,South,Hyderabad,37446.94,1,27.1,1243.24,Card
+ORD-01124,2024-03-17,Naveen Rao,Wholesale,Grocery,Wheat Flour,West,Ahmedabad,7898.97,9,19,-410.75,Card
+ORD-01125,2024-09-12,Sandeep Saxena,Wholesale,Grocery,Wheat Flour,North,Jaipur,2329.06,9,64.56616859278371,-2955.58,Cash
+ORD-01126,2024-07-05,Rajesh Das,Premium,Sports,Cricket Bat,West,Nagpur,1612.01,1,13.7,274.69,UPI
+ORD-01127,2024-02-07,Sunita Das,Regular,Clothing,Kurta,East,Kolkata,22856.8,4,10.3,6116.48,Cash
+ORD-01128,2023-06-27,Praveen Singh,Wholesale,Furniture,Bed Frame,East,Kolkata,30480.26,1,23.7,1841.01,UPI
+ORD-01129,2024-03-12,Rajesh Mukherjee,Wholesale,Sports,Resistance Bands,West,Pune,24469.6,4,24.4,2075.02,Card
+ORD-01130,2023-01-26,Manoj Iyer,Wholesale,Electronics,Bluetooth Speaker,South,Bangalore,163874.76,4,21.1,-3080.85,UPI
+ORD-01131,2023-12-18,Rekha Agarwal,Wholesale,Furniture,Bookshelf,South,Chennai,26095.5,3,20.1,2327.72,Card
+ORD-01132,2023-08-11,Rajesh Mukherjee,Wholesale,Books,Comics,North,Amritsar,79.68,1,29.6,-2.93,Cash
+ORD-01133,2024-06-02,Geeta Agarwal,Premium,Electronics,Smart TV,South,Coimbatore,117404.02,2,13.1,5306.66,Card
+ORD-01134,2024-09-24,Rohit Krishnan,Premium,Grocery,Sugar,East,Patna,692.77,1,13.5,-5.54,UPI
+ORD-01135,2024-04-20,Kavya Dubey,Premium,Clothing,Winter Coat,South,Hyderabad,23491.01,3,6.6,6981.53,Card
+ORD-01136,2023-11-20,Saritha Shah,Regular,Sports,Treadmill,North,Jaipur,109892.2,4,4.1,27165.35,UPI
+ORD-01137,2024-09-07,Rohit Rao,Premium,Furniture,Side Table,West,Mumbai,17636,1,11.7,2758.27,UPI
+ORD-01138,2023-01-03,Vikram Krishnan,Premium,Home & Kitchen,Induction Cooktop,South,Coimbatore,45137.26,2,6.9,7438.62,Card
+ORD-01139,2024-05-27,Sunita Tiwari,Premium,Books,Self-Help Book,North,Jaipur,235.31,1,63.354656757422276,-530.39,Card
+ORD-01140,2023-08-14,Amit Chauhan,Wholesale,Grocery,Tea Powder,North,Lucknow,2240.58,10,16.4,-69.91,UPI
+ORD-01141,2024-09-13,Vijay Mehta,Premium,Furniture,Study Table,West,Surat,56944.51,2,12.1,8723.9,Card
+ORD-01142,2023-12-17,Pooja Verma,Regular,Books,Cookbook,East,Kolkata,2074.57,1,16.6,139.41,UPI
+ORD-01143,2023-10-27,Deepak Mukherjee,Premium,Clothing,Jacket,North,Amritsar,7372.81,1,14.3,1737.03,Card
+ORD-01144,2024-03-24,Latika Das,Premium,Home & Kitchen,Air Fryer,South,Bangalore,60377.06,3,9.3,8790.9,Card
+ORD-01145,2024-04-23,Sneha Saxena,Premium,Electronics,Camera,North,Jaipur,51630.8,2,60.423377299421006,-77562.3,Card
+ORD-01146,2023-06-03,Sunil Menon,Premium,Electronics,Camera,North,Amritsar,141671.95,4,14.8,4476.83,UPI
+ORD-01147,2023-07-13,Rohit Ghosh,Regular,Sports,Cycling Helmet,North,Lucknow,51992.29,3,15.7,8027.61,Cash
+ORD-01148,2023-04-10,Rajesh Shah,Wholesale,Sports,Badminton Racket,North,Jaipur,19790.74,1,28.4,1044.95,UPI
+ORD-01149,2023-12-08,Rohit Ghosh,Premium,Books,Textbook,North,Lucknow,819.27,2,15.4,62.92,Card
+ORD-01150,2024-05-20,Ramesh Joshi,Regular,Clothing,Sneakers,South,Coimbatore,6172.66,1,16.7,1335.76,Card
+ORD-01151,2023-08-01,Sneha Dubey,Regular,Electronics,Smartphone,South,Bangalore,141742.56,3,11,8788.04,Card
+ORD-01152,2023-09-17,Hema Mukherjee,Premium,Sports,Cricket Bat,North,Chandigarh,37684.2,3,15.4,5908.88,UPI
+ORD-01153,2024-03-14,Pallavi Chauhan,Regular,Home & Kitchen,Pressure Cooker,West,Pune,24323.88,2,17.2,2004.29,UPI
+ORD-01154,2024-11-06,Suresh Saxena,Wholesale,Books,Self-Help Book,West,Nagpur,2752.36,4,23.9,24.22,UPI
+ORD-01155,2024-07-19,Shweta Nair,Premium,Electronics,Router,East,Bhubaneswar,88822,2,5.2,9628.3,Card
+ORD-01156,2024-04-29,Kiran Kumar,Wholesale,Health & Beauty,Protein Powder,East,Patna,3529.81,1,26.6,660.78,Cash
+ORD-01157,2023-05-02,Rohit Mukherjee,Wholesale,Electronics,Headphones,South,Chennai,133641.12,4,17.1,1764.06,Card
+ORD-01158,2023-10-13,Radha Ghosh,Wholesale,Clothing,Sports Shoes,West,Nagpur,19893.91,3,24.3,3095.49,Cash
+ORD-01159,2024-08-12,Arjun Mukherjee,Wholesale,Furniture,Office Chair,East,Guwahati,23660.55,1,19.9,2148.38,UPI
+ORD-01160,2023-12-31,Meera Chatterjee,Regular,Sports,Jump Rope,North,Chandigarh,51520.37,3,10.5,10097.99,Cash
+ORD-01161,2023-09-27,Girish Shah,Regular,Health & Beauty,Electric Toothbrush,South,Hyderabad,8661.18,2,1.6,3353.61,Cash
+ORD-01162,2023-02-24,Harish Reddy,Premium,Electronics,Tablet,South,Coimbatore,84739.67,3,15.4,2271.02,UPI
+ORD-01163,2024-11-18,Vikram Rao,Regular,Books,Dictionary,North,Amritsar,4075.24,2,2.2,743.32,UPI
+ORD-01164,2023-03-07,Kiran Kaur,Regular,Furniture,Bookshelf,West,Nagpur,24621.55,1,14.7,3259.89,UPI
+ORD-01165,2023-06-04,Deepak Ghosh,Premium,Clothing,Formal Shirt,North,Chandigarh,1743.44,2,11.3,452.6,Card
+ORD-01166,2023-11-23,Mohan Rao,Wholesale,Home & Kitchen,Water Purifier,West,Nagpur,48727.55,2,20.4,2767.72,Card
+ORD-01167,2024-06-04,Ashok Banerjee,Premium,Home & Kitchen,Iron Box,East,Ranchi,18837.2,4,11.1,2471.44,UPI
+ORD-01168,2023-11-17,Sanjay Shah,Wholesale,Clothing,Jeans,North,Delhi,2159.68,3,62.97865465972427,-3201.53,Card
+ORD-01169,2024-02-01,Rohit Menon,Regular,Furniture,Dining Table,West,Mumbai,4716.6,2,67.38928325150259,-10265.36,Card
+ORD-01170,2023-03-31,Jyoti Dubey,Premium,Electronics,Router,South,Hyderabad,168449.06,3,14.4,5862.03,UPI
+ORD-01171,2023-06-20,Ajay Singh,Premium,Health & Beauty,Face Mask Pack,West,Ahmedabad,7879.93,3,9.5,2553.1,UPI
+ORD-01172,2024-01-14,Harish Joshi,Regular,Clothing,Sneakers,East,Guwahati,10020.88,2,2.7,3290.86,UPI
+ORD-01173,2023-09-21,Ramesh Saxena,Regular,Electronics,Bluetooth Speaker,South,Kochi,243100.27,4,16.6,4181.32,UPI
+ORD-01174,2024-12-06,Priya Dubey,Premium,Furniture,Bed Frame,North,Delhi,166206.36,3,8.1,30781.42,Card
+ORD-01175,2024-08-01,Ramesh Tiwari,Regular,Grocery,Cooking Oil,North,Jaipur,1075.8,4,4.1,72.29,Cash
+ORD-01176,2023-06-01,Naveen Bose,Premium,Electronics,Tablet,East,Bhubaneswar,41821.68,2,43.000626616493776,-91561.59,UPI
+ORD-01177,2024-08-27,Vinod Krishnan,Regular,Furniture,Bed Frame,North,Chandigarh,22606.87,2,71.44218122811698,-54308.13,Cash
+ORD-01178,2023-10-07,Divya Gupta,Regular,Books,Comics,West,Surat,6903.54,4,3.8,1170.84,Cash
+ORD-01179,2023-02-01,Latika Agarwal,Premium,Furniture,Bed Frame,East,Kolkata,69187.56,3,11.2,11097.68,Cash
+ORD-01180,2023-08-19,Pallavi Sharma,Wholesale,Sports,Resistance Bands,West,Pune,1171.93,4,22.5,117.19,UPI
+ORD-01181,2023-02-28,Hema Patel,Premium,Sports,Yoga Mat,West,Pune,25466.19,4,7.4,5622.93,Card
+ORD-01182,2024-06-10,Aarav Das,Wholesale,Home & Kitchen,Coffee Maker,West,Surat,29848.38,2,29.6,-501.45,Cash
+ORD-01183,2023-02-05,Vijay Reddy,Regular,Electronics,Tablet,North,Lucknow,33254.91,1,12.9,1556.33,Card
+ORD-01184,2024-06-07,Ramesh Shetty,Premium,Home & Kitchen,Air Fryer,North,Jaipur,49705.37,4,12.1,6123.7,UPI
+ORD-01185,2024-09-15,Anil Gupta,Regular,Clothing,Ethnic Wear,South,Chennai,1056.05,1,17.8,219.24,UPI
+ORD-01186,2023-04-24,Praveen Kaur,Premium,Sports,Treadmill,West,Surat,55432.73,2,5.4,13126.47,Card
+ORD-01187,2023-05-20,Priya Chauhan,Premium,Sports,Cycling Helmet,North,Lucknow,15792.53,4,9.4,3234.31,Card
+ORD-01188,2023-04-28,Aarav Banerjee,Regular,Clothing,Sports Shoes,North,Amritsar,2268.25,4,15.3,516.25,Cash
+ORD-01189,2024-01-07,Mohan Iyer,Regular,Clothing,T-Shirt,East,Guwahati,1291.95,4,18.1,265.11,Cash
+ORD-01190,2024-09-28,Pooja Gupta,Premium,Furniture,Office Chair,West,Ahmedabad,87913.39,3,11.3,14030.98,Card
+ORD-01191,2023-05-19,Meera Tiwari,Premium,Furniture,Wardrobe,West,Surat,98351.73,3,6.9,19158.92,UPI
+ORD-01192,2024-02-18,Arjun Banerjee,Regular,Health & Beauty,Sunscreen,West,Surat,7430.95,2,0.4,2948.6,Card
+ORD-01193,2023-04-23,Sunil Rao,Regular,Books,Science Fiction,East,Kolkata,476.93,2,15.3,37.01,UPI
+ORD-01194,2024-11-27,Shweta Patel,Regular,Books,Novel,South,Bangalore,1059.62,1,7.2,150.89,Card
+ORD-01195,2023-03-06,Rohit Bose,Premium,Electronics,Smart TV,East,Ranchi,87935.76,2,17.5,879.36,UPI
+ORD-01196,2023-06-12,Kiran Das,Wholesale,Books,Business Book,South,Coimbatore,255.99,2,28.6,-7.37,Cash
+ORD-01197,2024-10-22,Ananya Kaur,Regular,Health & Beauty,Face Mask Pack,North,Jaipur,4369.38,1,6.5,1520.54,Card
+ORD-01198,2023-12-07,Vinod Verma,Premium,Electronics,Smart TV,North,Amritsar,65587.98,3,7.2,6060.33,Card
+ORD-01199,2023-09-29,Kiran Verma,Regular,Home & Kitchen,Pressure Cooker,North,Amritsar,29354.65,2,15.2,2888.5,UPI
+ORD-01200,2024-03-12,Asha Bose,Premium,Clothing,Winter Coat,North,Jaipur,3182.82,4,8.1,907.74,UPI
+ORD-01201,2024-07-16,Ashok Krishnan,Regular,Grocery,Pulses Mix,West,Mumbai,1081.86,6,0.2,106.46,Card
+ORD-01202,2023-12-20,Swati Joshi,Regular,Home & Kitchen,Induction Cooktop,South,Hyderabad,10869.54,2,5.5,1913.04,Cash
+ORD-01203,2023-01-10,Sunita Kumar,Wholesale,Clothing,Saree,South,Bangalore,2792.2,1,18,575.19,Card
+ORD-01204,2024-02-03,Rohit Bose,Premium,Furniture,Dining Table,South,Bangalore,5171.76,2,13.3,742.66,Card
+ORD-01205,2024-10-18,Kamala Rao,Regular,Electronics,Camera,South,Hyderabad,39176.58,1,3.2,4873.57,Cash
+ORD-01206,2024-03-07,Vikram Chauhan,Premium,Books,Biography,East,Bhubaneswar,1374.46,1,12.8,134.15,UPI
+ORD-01207,2024-01-28,Usha Chatterjee,Wholesale,Books,Biography,North,Chandigarh,2832.47,4,20.8,95.17,UPI
+ORD-01208,2023-05-04,Pooja Chatterjee,Premium,Books,Children Story,South,Bangalore,1032.88,4,13.3,96.68,UPI
+ORD-01209,2024-03-30,Lakshmi Verma,Regular,Grocery,Tea Powder,West,Mumbai,443.74,5,19,-23.07,UPI
+ORD-01210,2024-09-04,Pooja Shetty,Premium,Home & Kitchen,Non-stick Pan,South,Coimbatore,10035.71,2,73.51750815469657,-10959.43,Cash
+ORD-01211,2024-12-22,Sandeep Reddy,Premium,Health & Beauty,Face Cream,East,Kolkata,11395.83,2,5.6,4047.8,Cash
+ORD-01212,2023-05-23,Radha Krishnan,Regular,Sports,Jump Rope,West,Pune,11538.59,1,4.6,2806.19,UPI
+ORD-01213,2023-08-06,Pooja Patel,Regular,Books,Cookbook,East,Guwahati,699.23,3,2.8,124.18,UPI
+ORD-01214,2024-09-17,Anil Iyer,Wholesale,Furniture,Dining Table,South,Kochi,80627.29,3,20.9,6675.94,Card
+ORD-01215,2024-04-14,Pooja Tiwari,Regular,Home & Kitchen,Coffee Maker,East,Kolkata,6741.79,1,45.14834870847577,-3796.85,UPI
+ORD-01216,2023-03-31,Suresh Bose,Premium,Sports,Football,East,Guwahati,2896.29,1,10.3,572.31,Cash
+ORD-01217,2023-07-20,Sneha Tiwari,Premium,Home & Kitchen,Pressure Cooker,West,Pune,11948.97,4,64.67620115684409,-14049.37,Card
+ORD-01218,2023-01-02,Aarav Mishra,Premium,Electronics,Smartwatch,West,Mumbai,57661.61,2,11.3,3436.63,UPI
+ORD-01219,2024-06-07,Pallavi Krishnan,Regular,Health & Beauty,Shampoo,South,Bangalore,9768.21,4,15.6,2688.21,Cash
+ORD-01220,2024-07-27,Suresh Krishnan,Premium,Health & Beauty,Shampoo,East,Ranchi,4733.93,3,7.6,1605.75,Cash
+ORD-01221,2023-12-15,Pooja Rao,Regular,Home & Kitchen,Pressure Cooker,West,Nagpur,21771.9,1,16.5,1915.93,UPI
+ORD-01222,2024-11-27,Vinod Ghosh,Regular,Clothing,Saree,North,Amritsar,29723.44,4,3,23543.04,UPI
+ORD-01223,2024-02-05,Pooja Banerjee,Regular,Electronics,Bluetooth Speaker,North,Chandigarh,53577.45,2,15.5,1393.01,Cash
+ORD-01224,2023-04-13,Sunil Dubey,Regular,Books,Novel,South,Kochi,2634.8,4,18.7,132.79,UPI
+ORD-01225,2024-08-14,Sunita Menon,Wholesale,Grocery,Dry Fruits,North,Chandigarh,1628.7,3,20.3,-101.63,Card
+ORD-01226,2024-01-04,Asha Shah,Premium,Sports,Resistance Bands,East,Patna,69588.83,4,15.6,10800.19,Cash
+ORD-01227,2023-02-10,Nisha Saxena,Wholesale,Electronics,Camera,West,Pune,43977.46,3,42.47994929894599,-98460.69,Cash
+ORD-01228,2023-05-17,Divya Chatterjee,Regular,Home & Kitchen,Microwave,East,Kolkata,14212.4,1,0.2,3103.99,Card
+ORD-01229,2023-08-22,Harish Chatterjee,Wholesale,Electronics,Smartwatch,West,Pune,23999.7,3,25.1,-1219.18,Card
+ORD-01230,2024-10-05,Shweta Reddy,Regular,Home & Kitchen,Iron Box,East,Patna,25913.35,4,18.4,1886.49,Card
+ORD-01231,2023-06-21,Harish Sharma,Regular,Clothing,T-Shirt,South,Kochi,14692.55,3,14.9,3391.04,Card
+ORD-01232,2024-09-14,Ajay Chatterjee,Wholesale,Books,Business Book,North,Lucknow,2188.39,4,15.3,418.6,Cash
+ORD-01233,2024-02-01,Swati Bose,Regular,Health & Beauty,Hair Oil,North,Lucknow,11316.28,3,6.8,3910.91,UPI
+ORD-01234,2023-01-11,Meera Mehta,Premium,Health & Beauty,Sunscreen,West,Mumbai,1374.73,3,11.2,426.72,UPI
+ORD-01235,2023-08-05,Geeta Rao,Premium,Electronics,Laptop,North,Amritsar,32603.55,1,12.1,1734.51,UPI
+ORD-01236,2023-07-07,Nisha Iyer,Premium,Clothing,Saree,East,Guwahati,2521.5,2,15.8,563.81,UPI
+ORD-01237,2023-07-03,Latika Shetty,Regular,Health & Beauty,Face Cream,West,Pune,4827.09,4,4.7,1749.34,Cash
+ORD-01238,2023-07-06,Sunil Shah,Regular,Sports,Yoga Mat,South,Kochi,5519.17,1,18.7,719.7,Cash
+ORD-01239,2024-12-15,Harish Chauhan,Premium,Books,Biography,East,Guwahati,757.58,2,16,54.55,Cash
+ORD-01240,2024-03-29,Usha Patel,Premium,Clothing,Sneakers,North,Jaipur,13315.85,2,7.8,3829.64,Card
+ORD-01241,2024-06-02,Kamala Shah,Premium,Grocery,Wheat Flour,South,Coimbatore,3174.66,7,8.1,111.75,Card
+ORD-01242,2023-11-03,Saritha Bose,Regular,Grocery,Sugar,East,Patna,5023.94,3,9.8,108.52,Card
+ORD-01243,2024-02-14,Arjun Bose,Premium,Sports,Jump Rope,East,Patna,23724.96,3,66.92632010949902,-28869.42,UPI
+ORD-01244,2023-10-02,Kamala Tiwari,Premium,Health & Beauty,Protein Powder,West,Mumbai,2966.91,3,11.6,911.43,UPI
+ORD-01245,2024-12-19,Deepak Nair,Wholesale,Electronics,Gaming Console,West,Surat,79841.86,2,26.6,-5014.07,Cash
+ORD-01246,2024-05-26,Arjun Dubey,Premium,Electronics,Tablet,South,Hyderabad,42387.67,1,9.4,3170.6,Card
+ORD-01247,2023-07-07,Sandeep Tiwari,Premium,Furniture,Cabinet,East,Ranchi,17969.24,2,7.8,3371.03,Cash
+ORD-01248,2023-03-21,Vinod Dubey,Premium,Clothing,Ethnic Wear,North,Lucknow,18591.67,3,17.8,12225.45,Cash
+ORD-01249,2023-06-26,Sandeep Rao,Regular,Sports,Cycling Helmet,West,Ahmedabad,7634.04,1,17.9,1044.34,UPI
+ORD-01250,2023-11-03,Lakshmi Krishnan,Premium,Furniture,Office Chair,North,Amritsar,174339.61,4,9.6,30195.62,Card
+ORD-01251,2024-06-03,Rohit Nair,Wholesale,Furniture,Sofa Set,South,Hyderabad,59027.55,2,18.3,6115.25,Card
+ORD-01252,2023-10-18,Ramesh Mukherjee,Wholesale,Clothing,Sneakers,East,Patna,1430.07,1,67.53589796834572,-2119,UPI
+ORD-01253,2024-06-14,Ananya Banerjee,Wholesale,Electronics,Tablet,East,Guwahati,113768.33,4,29.5,-9784.08,UPI
+ORD-01254,2024-02-03,Priya Krishnan,Regular,Sports,Resistance Bands,North,Amritsar,11494.41,2,6.3,2639.12,UPI
+ORD-01255,2023-09-21,Deepak Shetty,Wholesale,Sports,Cycling Helmet,West,Pune,27685.53,3,24.3,2369.88,Cash
+ORD-01256,2024-12-19,Naveen Chauhan,Wholesale,Books,Textbook,South,Kochi,4498.65,4,18.5,233.93,Cash
+ORD-01257,2023-02-12,Usha Kumar,Regular,Health & Beauty,Essential Oils,North,Amritsar,5833.63,2,19.4,1428.07,Cash
+ORD-01258,2023-01-24,Rohit Krishnan,Premium,Sports,Cycling Helmet,East,Bhubaneswar,13853.86,1,12,2549.11,UPI
+ORD-01259,2024-10-24,Arjun Kumar,Regular,Home & Kitchen,Coffee Maker,North,Jaipur,19041.68,1,17.8,4638.96,Cash
+ORD-01260,2024-04-04,Priya Mishra,Premium,Health & Beauty,Protein Powder,South,Hyderabad,1719.53,1,13,508.98,Cash
+ORD-01261,2024-03-03,Vinod Mehta,Premium,Sports,Swimming Goggles,South,Hyderabad,11987.85,1,9.4,2455.11,Cash
+ORD-01262,2023-07-17,Arjun Menon,Wholesale,Clothing,Saree,South,Coimbatore,9635.48,2,22.2,1661.16,Card
+ORD-01263,2023-12-15,Meera Pillai,Wholesale,Furniture,Wardrobe,West,Nagpur,70230.99,4,29.4,1039.42,Cash
+ORD-01264,2023-02-22,Vijay Chauhan,Regular,Clothing,Kurta,South,Kochi,5069.52,2,13.9,1210.6,Cash
+ORD-01265,2023-09-18,Amit Agarwal,Wholesale,Furniture,Office Chair,West,Ahmedabad,49095.81,2,15.1,6343.18,Card
+ORD-01266,2024-12-03,Sunil Mehta,Regular,Sports,Dumbbells Set,East,Patna,126841.31,4,18,17250.42,Cash
+ORD-01267,2024-06-12,Sunita Bose,Regular,Sports,Treadmill,West,Ahmedabad,55547.03,3,0.3,15419.86,UPI
+ORD-01268,2024-12-20,Ananya Mehta,Regular,Sports,Cricket Bat,North,Delhi,1830.87,1,4.7,443.8,UPI
+ORD-01269,2024-06-19,Vinod Sharma,Premium,Clothing,Kurta,East,Bhubaneswar,17904.93,4,14.7,4161.11,Cash
+ORD-01270,2023-11-27,Divya Chatterjee,Wholesale,Clothing,Formal Shirt,East,Kolkata,13073.07,3,23.4,2128.3,UPI
+ORD-01271,2023-10-17,Radha Sharma,Premium,Grocery,Wheat Flour,South,Bangalore,880.05,8,7.1,38.02,UPI
+ORD-01272,2023-07-09,Swati Gupta,Regular,Sports,Jump Rope,North,Amritsar,28176.44,3,14.1,4711.1,Card
+ORD-01273,2023-02-24,Suresh Saxena,Premium,Home & Kitchen,Induction Cooktop,North,Delhi,14806.76,1,11.9,1847.88,UPI
+ORD-01274,2023-02-07,Ajay Saxena,Premium,Books,Cookbook,South,Hyderabad,1037.35,1,16.4,71.37,Card
+ORD-01275,2023-02-28,Kavya Banerjee,Regular,Clothing,Sneakers,West,Surat,10911.81,3,7.8,3138.24,Cash
+ORD-01276,2023-08-08,Meera Krishnan,Premium,Electronics,Laptop,North,Lucknow,98786.5,4,11.9,5413.5,UPI
+ORD-01277,2023-02-14,Sunita Verma,Wholesale,Clothing,Kurta,South,Hyderabad,7846.38,3,19.4,1528.47,UPI
+ORD-01278,2024-10-09,Suresh Shah,Premium,Home & Kitchen,Air Fryer,East,Patna,19732.14,1,14.6,2036.36,Card
+ORD-01279,2024-01-30,Manjula Bose,Premium,Sports,Jump Rope,East,Guwahati,28193.83,3,8.4,5999.65,Cash
+ORD-01280,2023-02-15,Vikram Tiwari,Premium,Home & Kitchen,Iron Box,North,Jaipur,7222.03,1,11.4,930.2,UPI
+ORD-01281,2024-04-14,Arjun Nair,Regular,Sports,Jump Rope,East,Ranchi,15408.87,3,66.77287959849586,-23159.98,UPI
+ORD-01282,2024-06-09,Ajay Mukherjee,Premium,Clothing,Sneakers,West,Surat,7436.08,4,11.9,1894.71,UPI
+ORD-01283,2023-09-04,Sandeep Shah,Wholesale,Furniture,Office Chair,South,Bangalore,146925.2,4,15.6,18395.04,UPI
+ORD-01284,2024-11-21,Girish Das,Wholesale,Health & Beauty,Sunscreen,North,Amritsar,248.41,1,27,45.71,Cash
+ORD-01285,2023-10-07,Ashok Reddy,Wholesale,Grocery,Wheat Flour,South,Coimbatore,4241.67,4,28.9,-1641.03,UPI
+ORD-01286,2024-01-20,Meera Sharma,Premium,Electronics,Laptop,North,Lucknow,208106.13,4,17.3,2414.03,UPI
+ORD-01287,2023-11-16,Shweta Reddy,Premium,Home & Kitchen,Non-stick Pan,West,Nagpur,17889.66,1,5.5,3148.58,UPI
+ORD-01288,2024-01-18,Anil Krishnan,Wholesale,Clothing,Sneakers,East,Ranchi,10578.16,2,27.4,1383.62,Card
+ORD-01289,2024-09-24,Sanjay Joshi,Regular,Books,Biography,West,Surat,3340.68,2,11.8,352.78,Cash
+ORD-01290,2024-03-24,Saritha Rao,Wholesale,Health & Beauty,Hair Oil,West,Surat,6789.66,2,19,1683.84,UPI
+ORD-01291,2023-08-20,Usha Sharma,Regular,Home & Kitchen,Vacuum Cleaner,East,Ranchi,52630.46,3,18.6,3747.29,UPI
+ORD-01292,2023-04-16,Deepak Banerjee,Regular,Electronics,Gaming Console,East,Ranchi,127809.06,2,12.6,6288.21,Card
+ORD-01293,2024-02-04,Asha Shetty,Premium,Home & Kitchen,Iron Box,North,Amritsar,29299.92,2,15.8,2742.47,Cash
+ORD-01294,2023-12-08,Swati Ghosh,Wholesale,Electronics,Laptop,East,Kolkata,13889.4,1,29.2,-1161.15,UPI
+ORD-01295,2023-05-14,Geeta Kumar,Wholesale,Grocery,Cooking Oil,North,Amritsar,6625.93,7,15.8,-174.92,Cash
+ORD-01296,2024-08-09,Sneha Shah,Regular,Electronics,Laptop,East,Guwahati,41565.24,1,7.8,3641.12,Card
+ORD-01297,2024-08-02,Divya Gupta,Wholesale,Furniture,Dining Table,North,Delhi,42502.33,4,62.79709639012974,-32169.52,Card
+ORD-01298,2024-10-20,Saritha Nair,Wholesale,Home & Kitchen,Air Fryer,North,Amritsar,55972.1,4,17.3,4567.32,Cash
+ORD-01299,2024-04-06,Shweta Verma,Regular,Grocery,Pulses Mix,East,Ranchi,6782.41,5,6.7,314.7,Card
+ORD-01300,2024-05-14,Sandeep Krishnan,Regular,Books,Biography,East,Bhubaneswar,659.62,1,19.9,26.91,Cash
+ORD-01301,2024-02-10,Amit Shah,Premium,Home & Kitchen,Iron Box,East,Ranchi,49064.26,3,15.6,4670.92,Cash
+ORD-01302,2024-01-24,Girish Mishra,Premium,Home & Kitchen,Non-stick Pan,South,Kochi,15077.43,1,8.9,2243.52,Card
+ORD-01303,2024-10-16,Harish Bose,Regular,Clothing,Sneakers,South,Kochi,15100.57,2,13.8,3618.1,UPI
+ORD-01304,2024-04-18,Swati Agarwal,Premium,Grocery,Spices Kit,East,Bhubaneswar,7134.75,8,14,-85.62,Card
+ORD-01305,2023-04-20,Girish Banerjee,Wholesale,Home & Kitchen,Coffee Maker,East,Kolkata,34618.88,3,20.1,2049.44,Card
+ORD-01306,2024-02-03,Sanjay Verma,Wholesale,Sports,Swimming Goggles,West,Mumbai,70888.78,4,29.4,3175.82,UPI
+ORD-01307,2024-03-20,Girish Sharma,Premium,Books,Comics,East,Bhubaneswar,692.93,2,63.596922245580096,-1365.05,Cash
+ORD-01308,2024-07-25,Praveen Dubey,Premium,Clothing,Saree,South,Chennai,2598.56,1,15.5,587.27,UPI
+ORD-01309,2024-05-10,Ajay Agarwal,Wholesale,Furniture,Side Table,North,Amritsar,35450.63,2,22.3,2538.27,UPI
+ORD-01310,2023-11-08,Ramesh Agarwal,Wholesale,Health & Beauty,Multivitamins,South,Bangalore,11923.77,3,21.5,2718.62,Cash
+ORD-01311,2024-12-28,Shweta Agarwal,Premium,Furniture,Dining Table,North,Jaipur,31715.07,1,12.3,4808,Cash
+ORD-01312,2023-03-25,Ravi Chauhan,Regular,Sports,Swimming Goggles,South,Bangalore,70484.23,3,9.8,14209.62,UPI
+ORD-01313,2024-03-19,Vikram Shah,Wholesale,Grocery,Cooking Oil,North,Lucknow,637.63,2,16.5,-20.4,Cash
+ORD-01314,2023-03-14,Praveen Banerjee,Regular,Furniture,Bed Frame,North,Delhi,19852.07,2,10.9,3231.92,Card
+ORD-01315,2023-10-05,Vinod Saxena,Wholesale,Health & Beauty,Multivitamins,West,Surat,4750,1,16.8,1261.6,Cash
+ORD-01316,2023-06-18,Arjun Nair,Wholesale,Electronics,Bluetooth Speaker,South,Hyderabad,152295.2,4,25.5,-8223.94,Card
+ORD-01317,2024-12-10,Divya Mishra,Wholesale,Sports,Swimming Goggles,East,Bhubaneswar,63186.96,4,27.2,3942.87,UPI
+ORD-01318,2023-08-16,Aarav Kaur,Premium,Furniture,Shoe Rack,East,Patna,25524.99,3,69.222233723404,-52285.29,Card
+ORD-01319,2023-09-15,Latika Iyer,Premium,Health & Beauty,Essential Oils,North,Amritsar,3335.25,2,46.090745653410714,-2446.01,Card
+ORD-01320,2024-04-23,Rajesh Chatterjee,Regular,Health & Beauty,Shampoo,North,Jaipur,5297.3,4,50.07351878186408,-8670.6,Cash
+ORD-01321,2024-07-24,Hema Mukherjee,Regular,Grocery,Cooking Oil,East,Patna,6233.9,6,5.2,364.06,UPI
+ORD-01322,2023-06-07,Kamala Kumar,Regular,Grocery,Sugar,West,Nagpur,506.52,8,6.7,23.5,UPI
+ORD-01323,2023-07-22,Geeta Joshi,Regular,Electronics,Smartphone,North,Delhi,31113.72,4,62.03557580160049,-70406.36,Card
+ORD-01324,2024-12-01,Meera Tiwari,Premium,Electronics,Gaming Console,South,Coimbatore,116486.58,3,12.1,6197.09,Card
+ORD-01325,2023-09-05,Saritha Patel,Premium,Grocery,Sugar,West,Ahmedabad,1323.71,2,13.3,-8.47,Card
+ORD-01326,2024-10-16,Manjula Pillai,Regular,Furniture,Office Chair,South,Coimbatore,63470.44,2,17.4,7032.52,UPI
+ORD-01327,2023-10-10,Sanjay Mukherjee,Regular,Electronics,Tablet,North,Delhi,54809.61,2,1.4,7607.57,UPI
+ORD-01328,2023-05-09,Usha Tiwari,Regular,Clothing,Kurta,North,Jaipur,3873.05,4,18.8,773.06,Cash
+ORD-01329,2023-10-11,Sandeep Mehta,Regular,Books,Self-Help Book,South,Hyderabad,3006.96,4,2,553.28,Cash
+ORD-01330,2024-08-03,Aarav Sharma,Wholesale,Electronics,Camera,West,Pune,27967.79,4,18.1,145.43,UPI
+ORD-01331,2023-12-14,Swati Bose,Wholesale,Grocery,Spices Kit,South,Hyderabad,4645.87,4,23.5,-408.84,UPI
+ORD-01332,2023-01-02,Nisha Kumar,Regular,Sports,Football,North,Lucknow,13479.95,2,13.2,2350.9,Cash
+ORD-01333,2024-12-16,Mohan Bose,Wholesale,Books,Science Fiction,East,Patna,746.66,2,28.9,-23.3,Cash
+ORD-01334,2023-12-25,Shweta Joshi,Premium,Home & Kitchen,Iron Box,North,Lucknow,19783.29,3,14.4,2073.29,Card
+ORD-01335,2023-09-11,Vijay Sharma,Wholesale,Grocery,Cooking Oil,North,Amritsar,111.9,1,25.1,-11.28,UPI
+ORD-01336,2024-12-16,Ramesh Pillai,Premium,Grocery,Wheat Flour,North,Delhi,4013.33,6,7.4,163.74,Cash
+ORD-01337,2024-04-14,Rekha Shetty,Premium,Sports,Football,West,Surat,3108.94,1,8.8,2393.61,Cash
+ORD-01338,2023-06-24,Sunil Sharma,Regular,Home & Kitchen,Vacuum Cleaner,West,Ahmedabad,24266.63,4,68.01133417913564,-60426.31,UPI
+ORD-01339,2023-10-05,Kavya Dubey,Premium,Electronics,Smart TV,West,Nagpur,267410.33,4,14.8,8450.17,UPI
+ORD-01340,2023-04-22,Praveen Reddy,Premium,Sports,Cricket Bat,North,Lucknow,47877.74,3,15.1,7622.14,Cash
+ORD-01341,2023-12-20,Rajesh Ghosh,Regular,Grocery,Biscuits Pack,North,Jaipur,2598.52,6,69.36219091470656,-5709.31,Cash
+ORD-01342,2024-09-11,Meera Chatterjee,Regular,Health & Beauty,Essential Oils,North,Amritsar,15810.34,4,5.3,5653.78,Card
+ORD-01343,2023-11-16,Harish Shetty,Regular,Sports,Resistance Bands,East,Ranchi,64437.48,4,1.1,17475.44,UPI
+ORD-01344,2023-07-12,Jyoti Dubey,Wholesale,Sports,Jump Rope,East,Kolkata,25603.93,3,25.3,1986.86,Cash
+ORD-01345,2024-07-23,Anil Shah,Premium,Grocery,Spices Kit,South,Bangalore,53.21,1,73.32763412717335,-128.34,Cash
+ORD-01346,2024-02-28,Lakshmi Verma,Premium,Grocery,Tea Powder,South,Coimbatore,299.88,2,5.9,15.83,Card
+ORD-01347,2023-12-26,Rekha Bose,Premium,Sports,Cycling Helmet,North,Delhi,64135.24,4,16.8,9338.09,Card
+ORD-01348,2024-01-15,Asha Singh,Premium,Furniture,Office Chair,North,Lucknow,95838.08,3,10.6,15832.45,UPI
+ORD-01349,2023-01-30,Lakshmi Rao,Regular,Grocery,Pulses Mix,South,Chennai,2666.34,5,61.146688820777555,-1532.45,UPI
+ORD-01350,2023-10-24,Naveen Krishnan,Wholesale,Home & Kitchen,Vacuum Cleaner,West,Pune,42334.97,2,28.2,-237.08,UPI
+ORD-01351,2024-07-16,Ravi Joshi,Premium,Grocery,Wheat Flour,East,Guwahati,1989.5,3,16.8,-68.44,UPI
+ORD-01352,2024-11-20,Rajesh Mukherjee,Regular,Furniture,Wardrobe,East,Guwahati,36718.34,1,16.2,4420.89,UPI
+ORD-01353,2024-04-25,Sunita Ghosh,Premium,Electronics,Tablet,South,Hyderabad,9541.02,1,10.5,629.71,Card
+ORD-01354,2023-06-16,Latika Sharma,Regular,Sports,Football,West,Nagpur,12649.21,3,61.25174290669634,-12630.58,Card
+ORD-01355,2023-04-06,Vikram Krishnan,Regular,Books,Children Story,South,Coimbatore,279.97,2,72.1179850461198,-556.14,Cash
+ORD-01356,2024-02-06,Rohit Kaur,Regular,Health & Beauty,Shampoo,South,Coimbatore,1716.32,1,3.6,637.1,Card
+ORD-01357,2024-07-14,Naveen Mukherjee,Premium,Grocery,Pulses Mix,South,Kochi,1522.28,9,74.02752038598484,-3379.09,Card
+ORD-01358,2023-06-30,Ravi Sharma,Regular,Furniture,Cabinet,West,Nagpur,63899.47,2,18.5,6517.75,UPI
+ORD-01359,2023-01-20,Manjula Kumar,Wholesale,Health & Beauty,Face Mask Pack,West,Ahmedabad,2972.6,1,15.3,825.19,UPI
+ORD-01360,2024-04-04,Hema Mishra,Premium,Furniture,Wardrobe,South,Coimbatore,72375.04,3,11.2,11608.96,Card
+ORD-01361,2024-05-26,Suresh Singh,Wholesale,Furniture,Study Table,West,Pune,39223.4,1,21.5,3059.43,UPI
+ORD-01362,2024-09-10,Ananya Nair,Premium,Electronics,Smartphone,North,Chandigarh,22620.73,3,57.79475548058721,-49099.53,UPI
+ORD-01363,2024-10-27,Ananya Joshi,Wholesale,Electronics,Smartphone,West,Mumbai,49209.27,1,22.4,-1436.91,Card
+ORD-01364,2023-04-09,Nisha Singh,Regular,Sports,Football,South,Chennai,97841.98,4,19.1,12445.5,Cash
+ORD-01365,2023-11-09,Pooja Singh,Wholesale,Books,Cookbook,East,Guwahati,3550.21,4,26.4,-39.76,UPI
+ORD-01366,2024-04-11,Latika Singh,Premium,Health & Beauty,Face Mask Pack,West,Surat,2665.7,3,15.7,731.47,UPI
+ORD-01367,2024-05-02,Sneha Kumar,Premium,Grocery,Instant Noodles,East,Bhubaneswar,1024.77,8,13.2,-5.74,Cash
+ORD-01368,2024-08-17,Rajesh Tiwari,Regular,Grocery,Instant Noodles,West,Surat,4704.13,6,13.8,-48.92,Cash
+ORD-01369,2024-11-30,Anil Kumar,Regular,Furniture,Study Table,North,Jaipur,10243.54,1,60.57642286553017,-12441.58,Card
+ORD-01370,2024-09-27,Deepak Singh,Premium,Grocery,Instant Noodles,North,Delhi,366.81,3,55.962694413607394,-401.54,Cash
+ORD-01371,2023-05-14,Lakshmi Das,Wholesale,Home & Kitchen,Iron Box,South,Bangalore,14992.74,4,26.2,155.92,UPI
+ORD-01372,2023-06-15,Nisha Patel,Regular,Electronics,Tablet,North,Delhi,15133.58,1,1.1,2136.86,UPI
+ORD-01373,2024-02-03,Saritha Kumar,Wholesale,Clothing,T-Shirt,East,Ranchi,4228.33,2,20.7,779.7,Card
+ORD-01374,2024-03-25,Hema Singh,Regular,Furniture,Dining Table,West,Ahmedabad,19473.81,3,0.2,4837.29,UPI
+ORD-01375,2023-09-14,Meera Kumar,Wholesale,Home & Kitchen,Mixer Grinder,East,Bhubaneswar,4124.19,1,21.2,207.86,UPI
+ORD-01376,2023-12-09,Kiran Chatterjee,Wholesale,Sports,Badminton Racket,North,Jaipur,3380.67,2,17.9,462.48,UPI
+ORD-01377,2023-02-20,Saritha Menon,Premium,Grocery,Cooking Oil,North,Delhi,9918.78,9,11.2,103.16,UPI
+ORD-01378,2023-07-08,Shweta Agarwal,Premium,Books,Textbook,South,Bangalore,2965.13,3,12.3,301.26,UPI
+ORD-01379,2024-02-01,Arjun Kaur,Premium,Clothing,Sports Shoes,South,Kochi,11506.52,3,15.5,2600.47,Card
+ORD-01380,2024-04-18,Aarav Chauhan,Regular,Furniture,Wardrobe,East,Patna,42815.57,1,6.2,8580.24,Card
+ORD-01381,2023-09-20,Deepak Tiwari,Wholesale,Books,Science Fiction,North,Lucknow,460.34,3,19.1,21.73,Cash
+ORD-01382,2023-04-19,Jyoti Reddy,Premium,Clothing,Formal Shirt,West,Ahmedabad,5011.88,4,15.1,1148.72,UPI
+ORD-01383,2023-12-15,Aarav Chauhan,Wholesale,Home & Kitchen,Vacuum Cleaner,North,Chandigarh,19924.45,2,21.5,956.37,Cash
+ORD-01384,2023-02-20,Sunita Joshi,Regular,Clothing,Formal Shirt,East,Bhubaneswar,4858.17,2,7.1,1424.42,Card
+ORD-01385,2023-03-19,Jyoti Shah,Premium,Sports,Jump Rope,East,Ranchi,7411.44,1,15.3,2955.23,Cash
+ORD-01386,2024-01-14,Amit Shah,Premium,Home & Kitchen,Vacuum Cleaner,East,Ranchi,10183.08,1,15.1,1010.16,Card
+ORD-01387,2024-11-06,Harish Tiwari,Wholesale,Books,Dictionary,East,Bhubaneswar,2278.78,2,19.3,103.91,UPI
+ORD-01388,2024-06-02,Bhavna Banerjee,Regular,Grocery,Spices Kit,West,Mumbai,6676.19,6,10,133.52,UPI
+ORD-01389,2024-07-13,Lakshmi Kaur,Wholesale,Sports,Yoga Mat,West,Pune,23739.98,2,16,3608.48,Cash
+ORD-01390,2024-06-02,Sanjay Gupta,Regular,Home & Kitchen,Microwave,North,Jaipur,4662.5,3,6.3,790.76,Cash
+ORD-01391,2023-06-17,Vikram Reddy,Wholesale,Furniture,Side Table,East,Bhubaneswar,76626.92,4,28.7,1563.19,Cash
+ORD-01392,2023-05-04,Mohan Kaur,Wholesale,Health & Beauty,Multivitamins,West,Nagpur,2880.74,1,41.56682120338349,-4441.32,UPI
+ORD-01393,2024-10-24,Kiran Shetty,Regular,Health & Beauty,Protein Powder,South,Coimbatore,13200.47,4,14.1,3791.17,UPI
+ORD-01394,2023-05-24,Ajay Singh,Premium,Grocery,Sugar,East,Kolkata,3066.39,9,68.91721282493674,-3399.01,UPI
+ORD-01395,2024-02-24,Harish Singh,Premium,Sports,Yoga Mat,West,Nagpur,73236,4,12.5,13182.48,UPI
+ORD-01396,2024-05-18,Rekha Bose,Regular,Electronics,Camera,South,Bangalore,17774.37,1,17.3,206.18,UPI
+ORD-01397,2024-07-11,Girish Kaur,Regular,Clothing,Winter Coat,East,Kolkata,9382.4,2,19.5,1820.19,Cash
+ORD-01398,2024-02-23,Vikram Joshi,Wholesale,Sports,Badminton Racket,East,Guwahati,1743.81,1,23.6,159.04,Card
+ORD-01399,2024-04-17,Kamala Banerjee,Wholesale,Home & Kitchen,Water Purifier,North,Jaipur,50934.67,3,25.1,977.95,UPI
+ORD-01400,2023-08-04,Nisha Dubey,Wholesale,Clothing,Saree,East,Guwahati,17917.2,4,29.9,1985.23,Cash
+ORD-01401,2024-06-12,Sanjay Singh,Premium,Clothing,Jeans,West,Pune,4888.93,1,6.8,1445.17,Card
+ORD-01402,2024-10-22,Asha Kumar,Regular,Sports,Cricket Bat,West,Mumbai,11598.25,1,19,1484.58,UPI
+ORD-01403,2023-05-02,Nisha Singh,Premium,Furniture,Cabinet,West,Surat,46118.14,2,8.3,8467.29,Card
+ORD-01404,2024-04-15,Rajesh Kaur,Regular,Furniture,Shoe Rack,South,Chennai,32837.93,1,9.9,5608.72,Card
+ORD-01405,2024-04-29,Amit Nair,Premium,Books,Self-Help Book,West,Pune,3109.22,3,11.4,338.28,Cash
+ORD-01406,2023-06-25,Swati Joshi,Wholesale,Grocery,Cooking Oil,East,Guwahati,7975.12,9,23.7,-714.57,UPI
+ORD-01407,2023-08-04,Geeta Banerjee,Regular,Books,Dictionary,West,Pune,2189.02,2,9.2,276.69,UPI
+ORD-01408,2024-07-23,Pallavi Das,Regular,Books,Textbook,East,Kolkata,942.3,3,19.8,39.2,Cash
+ORD-01409,2024-01-31,Asha Verma,Regular,Grocery,Biscuits Pack,South,Bangalore,465.35,1,7.3,19.36,UPI
+ORD-01410,2024-04-19,Priya Das,Premium,Grocery,Cooking Oil,East,Kolkata,359.72,4,14.7,-14.7,Cash
+ORD-01411,2023-04-28,Kamala Nair,Wholesale,Home & Kitchen,Air Fryer,West,Pune,3755.41,1,74.69907758802097,-6986.11,UPI
+ORD-01412,2023-09-21,Saritha Shetty,Regular,Clothing,Formal Shirt,North,Chandigarh,11356.37,4,4.1,3602.24,UPI
+ORD-01413,2024-01-05,Arjun Menon,Regular,Sports,Resistance Bands,East,Guwahati,54156.01,4,15.4,8491.66,Card
+ORD-01414,2024-05-17,Pallavi Shetty,Premium,Health & Beauty,Hair Oil,North,Chandigarh,16839.28,4,8.7,5563.7,Card
+ORD-01415,2023-05-03,Usha Sharma,Premium,Sports,Cricket Bat,North,Amritsar,21047.31,2,17,3030.81,UPI
+ORD-01416,2023-08-02,Asha Nair,Premium,Electronics,Bluetooth Speaker,South,Coimbatore,118642.82,3,11.8,6596.54,UPI
+ORD-01417,2023-08-19,Meera Banerjee,Regular,Books,Cookbook,North,Lucknow,3037.7,4,7.9,415.56,Cash
+ORD-01418,2023-01-25,Ravi Dubey,Wholesale,Clothing,Sports Shoes,East,Patna,5536.91,3,16.4,1211.48,Cash
+ORD-01419,2024-08-31,Shweta Verma,Wholesale,Grocery,Instant Noodles,North,Lucknow,1028.33,3,20.5,-65.81,UPI
+ORD-01420,2023-12-24,Vikram Pillai,Premium,Clothing,Jacket,South,Bangalore,27974.57,3,8.6,7866.45,Card
+ORD-01421,2023-01-23,Divya Patel,Premium,Electronics,Headphones,East,Guwahati,9707.49,2,14.1,361.12,UPI
+ORD-01422,2023-07-05,Vijay Gupta,Wholesale,Clothing,Formal Shirt,North,Lucknow,6534.65,2,16.4,1429.78,UPI
+ORD-01423,2024-12-28,Kiran Rao,Regular,Books,Science Fiction,West,Pune,361.67,2,4.7,58.74,Card
+ORD-01424,2024-08-12,Praveen Chatterjee,Wholesale,Books,Science Fiction,North,Delhi,1852.89,4,29.3,-63.74,Card
+ORD-01425,2023-06-01,Amit Pillai,Premium,Health & Beauty,Protein Powder,West,Surat,471.17,1,9.4,153.04,UPI
+ORD-01426,2023-07-05,Divya Nair,Wholesale,Books,Novel,South,Coimbatore,81.21,1,18.9,3.96,UPI
+ORD-01427,2024-09-01,Vijay Mishra,Wholesale,Clothing,Kurta,East,Guwahati,16528.37,4,23.8,2637.93,UPI
+ORD-01428,2023-08-17,Divya Rao,Premium,Clothing,T-Shirt,West,Pune,12352.7,4,16,2742.3,Cash
+ORD-01429,2024-11-05,Manoj Mukherjee,Wholesale,Health & Beauty,Shampoo,East,Ranchi,13615.45,3,23,2940.94,UPI
+ORD-01430,2023-07-06,Ravi Pillai,Premium,Grocery,Pulses Mix,South,Bangalore,1428,5,5.5,79.97,UPI
+ORD-01431,2023-01-26,Lakshmi Agarwal,Premium,Furniture,Office Chair,East,Patna,37778.36,3,13.5,5364.53,UPI
+ORD-01432,2024-12-06,Ramesh Nair,Regular,Furniture,Sofa Set,South,Chennai,168795.76,3,2.8,38417.91,UPI
+ORD-01433,2023-06-13,Meera Banerjee,Regular,Health & Beauty,Multivitamins,East,Bhubaneswar,5544.55,2,7.5,1885.15,Card
+ORD-01434,2023-01-25,Ajay Gupta,Regular,Clothing,T-Shirt,North,Delhi,785.15,1,13.6,189.38,UPI
+ORD-01435,2023-07-05,Vijay Verma,Premium,Books,Biography,West,Pune,934.51,1,8.6,122.61,UPI
+ORD-01436,2024-12-08,Shweta Reddy,Wholesale,Health & Beauty,Protein Powder,North,Chandigarh,16901.98,4,22.6,3704.91,UPI
+ORD-01437,2024-06-26,Asha Dubey,Regular,Furniture,Dining Table,North,Amritsar,80639.68,2,1.3,19321.27,Cash
+ORD-01438,2024-10-25,Divya Nair,Premium,Electronics,Bluetooth Speaker,East,Guwahati,47031.51,2,5.8,4872.46,Card
+ORD-01439,2024-03-17,Pooja Singh,Premium,Electronics,Camera,North,Delhi,14451.3,1,17,202.32,UPI
+ORD-01440,2023-12-23,Rohit Nair,Wholesale,Health & Beauty,Multivitamins,South,Coimbatore,14265.51,3,21.2,3286.77,UPI
+ORD-01441,2024-05-05,Rajesh Sharma,Premium,Electronics,Smartphone,West,Pune,217148.44,4,16.3,4256.11,Card
+ORD-01442,2023-04-14,Asha Pillai,Regular,Books,Children Story,South,Kochi,5808.91,3,5.3,915.48,Card
+ORD-01443,2023-01-27,Hema Tiwari,Premium,Health & Beauty,Hair Oil,North,Jaipur,6031.33,2,16.2,1630.87,Cash
+ORD-01444,2023-08-12,Harish Nair,Wholesale,Health & Beauty,Shampoo,North,Amritsar,5029.07,2,17.2,1319.63,Cash
+ORD-01445,2024-01-12,Lakshmi Rao,Regular,Furniture,Cabinet,South,Bangalore,80010.95,2,6.3,15970.19,Card
+ORD-01446,2024-08-06,Vijay Sharma,Regular,Sports,Cycling Helmet,West,Ahmedabad,78280.62,3,2.1,20603.46,Cash
+ORD-01447,2023-07-09,Bhavna Tiwari,Regular,Electronics,Smart TV,East,Patna,5087.18,1,56.41855747308321,-3895.91,UPI
+ORD-01448,2024-07-01,Suresh Saxena,Wholesale,Electronics,Router,South,Coimbatore,58096.04,2,17.3,673.91,Cash
+ORD-01449,2023-02-06,Deepak Das,Wholesale,Home & Kitchen,Induction Cooktop,West,Ahmedabad,70342.55,4,16.8,6021.32,UPI
+ORD-01450,2024-08-03,Naveen Tiwari,Wholesale,Books,Children Story,North,Jaipur,217.79,1,74.55384949264952,-161.45,Cash
+ORD-01451,2023-03-01,Amit Kaur,Premium,Furniture,Shoe Rack,West,Mumbai,25079.66,2,14.5,3360.67,Card
+ORD-01452,2024-12-03,Priya Nair,Premium,Grocery,Instant Noodles,East,Guwahati,1069.38,3,6.1,54.75,Card
+ORD-01453,2023-01-01,Latika Das,Regular,Health & Beauty,Face Mask Pack,South,Bangalore,2104.66,4,45.94504255403439,-1954.99,UPI
+ORD-01454,2024-09-24,Deepak Singh,Regular,Grocery,Pulses Mix,North,Amritsar,510.76,9,7.9,18.8,Cash
+ORD-01455,2023-10-21,Sunita Agarwal,Regular,Clothing,Jeans,West,Surat,2187.81,4,8.6,615.21,Cash
+ORD-01456,2024-12-03,Pallavi Chatterjee,Wholesale,Clothing,Kurta,North,Chandigarh,7441.32,1,20.9,1360.27,UPI
+ORD-01457,2023-01-13,Meera Menon,Premium,Health & Beauty,Face Mask Pack,East,Ranchi,5515.62,2,6,1941.5,Card
+ORD-01458,2024-01-13,Saritha Iyer,Regular,Home & Kitchen,Pressure Cooker,West,Mumbai,22580.65,1,5.1,4046.45,Card
+ORD-01459,2023-06-11,Saritha Reddy,Premium,Health & Beauty,Multivitamins,North,Amritsar,3148.06,1,6.2,1103.08,Card
+ORD-01460,2023-05-25,Harish Mehta,Premium,Home & Kitchen,Induction Cooktop,South,Coimbatore,17061.47,3,10.7,2293.06,Cash
+ORD-01461,2024-06-29,Ravi Pillai,Wholesale,Home & Kitchen,Iron Box,East,Patna,7672.32,3,22.2,325.31,Card
+ORD-01462,2024-12-29,Ravi Kaur,Premium,Books,Textbook,East,Kolkata,1156.71,3,10.5,134.18,UPI
+ORD-01463,2024-06-20,Sneha Pillai,Regular,Electronics,Smartphone,West,Surat,121035.43,3,5.7,12636.1,Card
+ORD-01464,2023-08-25,Aarav Shetty,Regular,Home & Kitchen,Non-stick Pan,West,Nagpur,55307.69,4,5.4,9778.4,UPI
+ORD-01465,2024-08-02,Jyoti Banerjee,Wholesale,Books,Self-Help Book,West,Ahmedabad,3908.82,3,16.6,262.67,Card
+ORD-01466,2024-09-05,Rajesh Kaur,Regular,Furniture,Sofa Set,North,Lucknow,20934.81,4,18.6,2118.6,UPI
+ORD-01467,2024-08-13,Mohan Saxena,Regular,Clothing,Sneakers,South,Hyderabad,8162.89,2,2.2,2713.34,Card
+ORD-01468,2023-12-21,Ananya Dubey,Wholesale,Sports,Resistance Bands,East,Bhubaneswar,36281.44,4,60.598625204941804,-27415.76,Card
+ORD-01469,2023-01-20,Shweta Banerjee,Premium,Clothing,Winter Coat,East,Ranchi,3679.22,3,12.2,928.64,UPI
+ORD-01470,2024-05-08,Divya Shah,Regular,Electronics,Router,East,Kolkata,73171.86,1,8.1,6234.24,UPI
+ORD-01471,2024-04-01,Rohit Chauhan,Wholesale,Books,Science Fiction,West,Nagpur,1314.64,4,17.7,76.77,Cash
+ORD-01472,2023-10-25,Vikram Chatterjee,Regular,Clothing,Jacket,North,Jaipur,20586.18,3,3.1,6694.63,Cash
+ORD-01473,2023-03-21,Rohit Nair,Regular,Electronics,Headphones,East,Patna,102963.43,3,11.1,6301.36,Card
+ORD-01474,2024-06-26,Harish Chatterjee,Regular,Clothing,Saree,North,Amritsar,4679.75,1,19.7,900.38,Card
+ORD-01475,2023-02-17,Vijay Mishra,Premium,Electronics,Camera,South,Chennai,42958.15,2,16.9,635.78,Cash
+ORD-01476,2024-10-03,Swati Shetty,Premium,Clothing,Kurta,North,Delhi,10669.96,4,61.52419213376509,-22424.67,UPI
+ORD-01477,2024-07-23,Kamala Mishra,Wholesale,Home & Kitchen,Induction Cooktop,North,Chandigarh,7925.51,4,66.39664171392386,-17751.84,UPI
+ORD-01478,2024-10-26,Arjun Chauhan,Premium,Home & Kitchen,Microwave,West,Nagpur,57745.72,3,16.4,5127.82,Card
+ORD-01479,2024-06-04,Shweta Pillai,Wholesale,Clothing,Winter Coat,South,Chennai,21223.5,4,17.9,4389.02,Cash
+ORD-01480,2024-10-28,Kamala Agarwal,Regular,Health & Beauty,Face Mask Pack,South,Coimbatore,15317.04,4,19.4,3749.61,Card
+ORD-01481,2023-03-17,Anil Shetty,Wholesale,Sports,Cycling Helmet,West,Pune,37733.3,3,16.1,5705.27,Card
+ORD-01482,2024-03-08,Anil Patel,Wholesale,Sports,Badminton Racket,East,Patna,52650.39,3,28.6,2695.7,UPI
+ORD-01483,2024-09-13,Kiran Reddy,Regular,Electronics,Smartphone,South,Hyderabad,126944.22,2,11.2,7667.43,Cash
+ORD-01484,2023-06-22,Usha Saxena,Regular,Books,Textbook,North,Delhi,662.88,1,60.9536116407706,-909.94,UPI
+ORD-01485,2023-02-19,Ananya Das,Regular,Home & Kitchen,Iron Box,North,Delhi,11948.54,2,5.8,2074.27,UPI
+ORD-01486,2024-09-03,Manoj Rao,Regular,Furniture,Dining Table,North,Chandigarh,171274.59,4,2.2,39804.21,Cash
+ORD-01487,2024-09-02,Meera Agarwal,Wholesale,Grocery,Cooking Oil,West,Surat,1849.06,7,21.6,-134.61,Cash
+ORD-01488,2023-07-26,Pallavi Tiwari,Wholesale,Health & Beauty,Essential Oils,South,Coimbatore,4213.77,4,29.1,704.54,Card
+ORD-01489,2024-04-06,Latika Ghosh,Wholesale,Sports,Yoga Mat,East,Bhubaneswar,5064.65,4,28.8,251.21,Card
+ORD-01490,2023-03-01,Rekha Joshi,Regular,Electronics,Headphones,East,Kolkata,8443.62,1,5.5,895.02,UPI
+ORD-01491,2024-11-11,Praveen Verma,Regular,Health & Beauty,Face Mask Pack,North,Lucknow,7803.93,3,14.4,2222.56,UPI
+ORD-01492,2023-12-14,Kiran Das,Wholesale,Furniture,Sofa Set,North,Lucknow,40935.13,2,29,736.83,UPI
+ORD-01493,2024-09-19,Ravi Mukherjee,Wholesale,Sports,Football,South,Kochi,17199.46,1,24.9,1389.72,Cash
+ORD-01494,2024-11-26,Ramesh Sharma,Regular,Home & Kitchen,Pressure Cooker,North,Delhi,21570.23,1,14.4,2260.56,UPI
+ORD-01495,2024-02-16,Sneha Reddy,Regular,Furniture,Bookshelf,East,Patna,41971.39,4,65.54536124944069,-66380.54,UPI
+ORD-01496,2024-08-10,Ramesh Shetty,Regular,Grocery,Rice (5kg),West,Surat,778.46,3,8.8,23.04,UPI
+ORD-01497,2023-12-31,Praveen Bose,Wholesale,Electronics,Bluetooth Speaker,North,Delhi,92252.69,4,26.8,-5941.07,UPI
+ORD-01498,2023-03-28,Sneha Das,Wholesale,Health & Beauty,Shampoo,South,Coimbatore,6594.46,2,26.4,1245.03,UPI
+ORD-01499,2023-07-06,Kamala Nair,Wholesale,Home & Kitchen,Coffee Maker,East,Kolkata,42540.18,4,46.25700817956113,-79107.6,Card
+ORD-01500,2024-03-22,Rekha Agarwal,Premium,Electronics,Headphones,South,Hyderabad,84799.67,2,15.8,2001.27,Card
